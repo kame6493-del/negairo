@@ -1,0 +1,14 @@
+node_modules/
+dist/
+releases/
+research/_*.log
+research/shots_raw/
+scripts/e2e_out/
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/capacitor-cordova-android-plugins/build/
+ios/App/build/
+*.jks
+*.dpapi

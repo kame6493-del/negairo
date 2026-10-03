@@ -1,0 +1,8 @@
+{
+  "appId": "jp.negairo.app",
+  "appName": "ネガイロ",
+  "webDir": "dist",
+  "backgroundColor": "#14110f",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" }
+}

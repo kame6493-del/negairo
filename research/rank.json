@@ -1,0 +1,2784 @@
+{
+ "toppaidapplications": [
+  {
+   "rank": 1,
+   "id": "500676238",
+   "name": "ブラックビデオ (BlackVideo)",
+   "price": "¥300",
+   "artist": "AppMadang"
+  },
+  {
+   "rank": 2,
+   "id": "6760838876",
+   "name": "オルディ Oldi - Phone Camera",
+   "price": "¥150",
+   "artist": "Sean Cho"
+  },
+  {
+   "rank": 3,
+   "id": "6741474933",
+   "name": "Berryフィルム - 韓国風セルフィー",
+   "price": "¥300",
+   "artist": "Seungyun Kim"
+  },
+  {
+   "rank": 4,
+   "id": "6813713797",
+   "name": "CineLoupe",
+   "price": "¥980",
+   "artist": "KOTETSU, Corp."
+  },
+  {
+   "rank": 5,
+   "id": "1437885179",
+   "name": "StageCameraPro2 - 高画質のマナーカメラ",
+   "price": "¥850",
+   "artist": "sky-nexus Inc."
+  },
+  {
+   "rank": 6,
+   "id": "1313164055",
+   "name": "EE35 フィルムカメラ",
+   "price": "¥300",
+   "artist": "EIGHTIVE DESIGN, Inc."
+  },
+  {
+   "rank": 7,
+   "id": "6763737180",
+   "name": "YoungPhoto - エモい構図カメラ",
+   "price": "¥350",
+   "artist": "Seungyun Kim"
+  },
+  {
+   "rank": 8,
+   "id": "6808181221",
+   "name": "コンプラカメラ",
+   "price": "¥100",
+   "artist": "ILLUMINATION"
+  },
+  {
+   "rank": 9,
+   "id": "6443723657",
+   "name": "filmhwa(フィルムファ)-ファミンフィルター",
+   "price": "¥500",
+   "artist": "ARTTIC CO., LTD."
+  },
+  {
+   "rank": 10,
+   "id": "906388170",
+   "name": "StageCameraPro - 高画質マナー カメラ",
+   "price": "¥550",
+   "artist": "sky-nexus Inc."
+  },
+  {
+   "rank": 11,
+   "id": "1540711931",
+   "name": "MyCam Pro - 48 MP 高画質 マナーカメラ",
+   "price": "¥600",
+   "artist": "Naoya Maeda"
+  },
+  {
+   "rank": 12,
+   "id": "1566817391",
+   "name": "オフトレカメラ",
+   "price": "¥500",
+   "artist": "Ryu Wakimoto"
+  },
+  {
+   "rank": 13,
+   "id": "6787737491",
+   "name": "ProCam MK II - プロカメラ",
+   "price": "¥3,000",
+   "artist": "Tinkerworks Apps"
+  },
+  {
+   "rank": 14,
+   "id": "525176875",
+   "name": "サン·サーベイヤー (Sun Surveyor)",
+   "price": "¥1,500",
+   "artist": "Adam Ratana"
+  },
+  {
+   "rank": 15,
+   "id": "679454835",
+   "name": "Rarevision VHS: Retro Cam",
+   "price": "¥1,000",
+   "artist": "Rarevision"
+  },
+  {
+   "rank": 16,
+   "id": "1579636154",
+   "name": "OneCam 2 高画質マナーカメラ",
+   "price": "¥600",
+   "artist": "Walker Software"
+  },
+  {
+   "rank": 17,
+   "id": "730712409",
+   "name": "ProCam - プロカメラ",
+   "price": "¥1,500",
+   "artist": "Tinkerworks Apps"
+  },
+  {
+   "rank": 18,
+   "id": "1489041267",
+   "name": "WatchVideo Player",
+   "price": "¥300",
+   "artist": "Atlum Limited"
+  },
+  {
+   "rank": 19,
+   "id": "908905093",
+   "name": "Lumy - 太陽トラッカー・アウトドアと写真",
+   "price": "¥1,190",
+   "artist": "Raja Vijayaraman"
+  },
+  {
+   "rank": 20,
+   "id": "793232740",
+   "name": "Cadrage Director's Viewfinder",
+   "price": "¥3,000",
+   "artist": "Cadrage GmbH"
+  },
+  {
+   "rank": 21,
+   "id": "1084325249",
+   "name": "ShutterCount Mobile",
+   "price": "¥1,500",
+   "artist": "DIRE Studio"
+  },
+  {
+   "rank": 22,
+   "id": "1062022008",
+   "name": "LumaFusion",
+   "price": "¥4,000",
+   "artist": "Luma Touch LLC"
+  },
+  {
+   "rank": 23,
+   "id": "6748837351",
+   "name": "Moment Pro Camera II",
+   "price": "¥1,500",
+   "artist": "Moment Inc."
+  },
+  {
+   "rank": 24,
+   "id": "1241570625",
+   "name": "星撮りカメラさん2",
+   "price": "¥680",
+   "artist": "康行 Nagasima"
+  },
+  {
+   "rank": 25,
+   "id": "6504206143",
+   "name": "无锐化相机",
+   "price": "¥100",
+   "artist": "北北 宋"
+  },
+  {
+   "rank": 26,
+   "id": "1549693927",
+   "name": "Star Stacker",
+   "price": "¥600",
+   "artist": "michael webb"
+  },
+  {
+   "rank": 27,
+   "id": "6756866511",
+   "name": "IIWII",
+   "price": "¥300",
+   "artist": "Joshua Johannes Hoffmann"
+  },
+  {
+   "rank": 28,
+   "id": "6775256032",
+   "name": "Perfect Black Screen Video PRO",
+   "price": "¥150",
+   "artist": "Masaki Kobayashi"
+  },
+  {
+   "rank": 29,
+   "id": "754105884",
+   "name": "NightCap カメラ：長時間露光",
+   "price": "¥500",
+   "artist": "RTD"
+  },
+  {
+   "rank": 30,
+   "id": "1076480192",
+   "name": "Photo Manager Pro",
+   "price": "¥500",
+   "artist": "Skyjos Co., Ltd."
+  },
+  {
+   "rank": 31,
+   "id": "1468747693",
+   "name": "写真Exif - 写真情報ビューア",
+   "price": "¥500",
+   "artist": "婧 李"
+  },
+  {
+   "rank": 32,
+   "id": "437015777",
+   "name": "背景透明化 Pro",
+   "price": "¥480",
+   "artist": "handyCloset Inc."
+  },
+  {
+   "rank": 33,
+   "id": "1500098830",
+   "name": "ビデオマスタープロ",
+   "price": "¥600",
+   "artist": "Haruki Daunrodo"
+  },
+  {
+   "rank": 34,
+   "id": "406541444",
+   "name": "8ミリカメラ",
+   "price": "¥600",
+   "artist": "NEXVIO INC."
+  },
+  {
+   "rank": 35,
+   "id": "6814673994",
+   "name": "EV Calc",
+   "price": "¥100",
+   "artist": "Akihiro Sakai"
+  },
+  {
+   "rank": 36,
+   "id": "6768623085",
+   "name": "FrameSmoother",
+   "price": "¥300",
+   "artist": "Kohei Omori"
+  },
+  {
+   "rank": 37,
+   "id": "6444631986",
+   "name": "AstroShader",
+   "price": "¥300",
+   "artist": "AstroShader Limited"
+  },
+  {
+   "rank": 38,
+   "id": "6792625493",
+   "name": "写真を削除",
+   "price": "¥150",
+   "artist": "梅 李"
+  },
+  {
+   "rank": 39,
+   "id": "1572945831",
+   "name": "超広角レンズ",
+   "price": "¥300",
+   "artist": "Masanori Katsuta"
+  },
+  {
+   "rank": 40,
+   "id": "924438909",
+   "name": "ProShot",
+   "price": "¥1,200",
+   "artist": "Rise Up Games"
+  },
+  {
+   "rank": 41,
+   "id": "6794272967",
+   "name": "ZRcamera Pro, Snap",
+   "price": "¥490",
+   "artist": "jaekeun park"
+  },
+  {
+   "rank": 42,
+   "id": "1104260355",
+   "name": "Deshake - ぶれを取り除くビデオの自動手ぶれ補正",
+   "price": "¥500",
+   "artist": "Routes Software SRL"
+  },
+  {
+   "rank": 43,
+   "id": "1569569113",
+   "name": "goWatch for GoPro®",
+   "price": "¥500",
+   "artist": "Harald Meyer"
+  },
+  {
+   "rank": 44,
+   "id": "1441290634",
+   "name": "ShutterCount Pro Mobile",
+   "price": "¥3,000",
+   "artist": "DIRE Studio"
+  },
+  {
+   "rank": 45,
+   "id": "6744909217",
+   "name": "AI Video Eraser",
+   "price": "¥1,000",
+   "artist": "Le Giang Nam"
+  },
+  {
+   "rank": 46,
+   "id": "6811243642",
+   "name": "余白だけ",
+   "price": "¥200",
+   "artist": "Satomi Chiba"
+  },
+  {
+   "rank": 47,
+   "id": "6454673482",
+   "name": "暗い写真を明るく PRO",
+   "price": "¥500",
+   "artist": "katapu.net"
+  },
+  {
+   "rank": 48,
+   "id": "6757701471",
+   "name": "Moza - モザイク、ぼかし、隠す",
+   "price": "¥500",
+   "artist": "Coffee Inc."
+  },
+  {
+   "rank": 49,
+   "id": "6760129570",
+   "name": "Bordure",
+   "price": "¥150",
+   "artist": "Michele De Paola"
+  },
+  {
+   "rank": 50,
+   "id": "6813093709",
+   "name": "ディカログ DICALOG - オールドデジカメ風カメラ",
+   "price": "¥100",
+   "artist": "Logogram LC."
+  },
+  {
+   "rank": 51,
+   "id": "6794057965",
+   "name": "文字かくし - 写真・スクショの個人情報を隠す",
+   "price": "¥500",
+   "artist": "CAEN Co., Ltd."
+  },
+  {
+   "rank": 52,
+   "id": "6762336561",
+   "name": "Parallax Monitor",
+   "price": "¥3,000",
+   "artist": "Michael Aguado"
+  },
+  {
+   "rank": 53,
+   "id": "1436429074",
+   "name": "FILCA - Vintage Film Camera",
+   "price": "¥600",
+   "artist": "Cheol Kim"
+  },
+  {
+   "rank": 54,
+   "id": "596026805",
+   "name": "PhotoPills",
+   "price": "¥1,800",
+   "artist": "PhotoPills S.L."
+  },
+  {
+   "rank": 55,
+   "id": "6472380172",
+   "name": "Kino - プロ用ビデオカメラ",
+   "price": "¥800",
+   "artist": "Lux Optics Incorporated"
+  },
+  {
+   "rank": 56,
+   "id": "479528827",
+   "name": "合成写真 PhotoLayers Pro",
+   "price": "¥480",
+   "artist": "handyCloset Inc."
+  },
+  {
+   "rank": 57,
+   "id": "1256956196",
+   "name": "秘密のアルバム PRO - あなたの秘密守ります",
+   "price": "¥300",
+   "artist": "yamaguchi hiroyuki"
+  },
+  {
+   "rank": 58,
+   "id": "357404131",
+   "name": "Slow Shutter Cam",
+   "price": "¥500",
+   "artist": "Cogitap Software"
+  },
+  {
+   "rank": 59,
+   "id": "6736601069",
+   "name": "FilmN foto_ycy: Travel",
+   "price": "¥300",
+   "artist": "Junmo Lee"
+  },
+  {
+   "rank": 60,
+   "id": "1613327007",
+   "name": "SCamera Pro",
+   "price": "¥1,300",
+   "artist": "TotalContent"
+  },
+  {
+   "rank": 61,
+   "id": "6801795551",
+   "name": "Metelier",
+   "price": "¥800",
+   "artist": "Takumi Yoshikawa"
+  },
+  {
+   "rank": 62,
+   "id": "1028791881",
+   "name": "Photograph+ - 48 MP 高画質 マナーカメラ",
+   "price": "¥300",
+   "artist": "Naoya Maeda"
+  },
+  {
+   "rank": 63,
+   "id": "6784885884",
+   "name": "画像圧縮 - 写真を指定サイズに収める",
+   "price": "¥300",
+   "artist": "CAEN Co., Ltd."
+  },
+  {
+   "rank": 64,
+   "id": "1228124211",
+   "name": "スーパー夜撮ビデオカム - 超高感度で動画撮影",
+   "price": "¥300",
+   "artist": "EIGHTIVE DESIGN, Inc."
+  },
+  {
+   "rank": 65,
+   "id": "618790117",
+   "name": "Cute CUT Pro - Video Editor",
+   "price": "¥1,500",
+   "artist": "波 余"
+  },
+  {
+   "rank": 66,
+   "id": "342115564",
+   "name": "Hipstamatic カメラ",
+   "price": "¥800",
+   "artist": "Hipstamatic, LLC"
+  },
+  {
+   "rank": 67,
+   "id": "6791661639",
+   "name": "さしがね写真 FieldCue",
+   "price": "¥300",
+   "artist": "Keiji Hirose"
+  },
+  {
+   "rank": 68,
+   "id": "1304177471",
+   "name": "Superimpose X",
+   "price": "¥800",
+   "artist": "Pankaj Goswami"
+  },
+  {
+   "rank": 69,
+   "id": "873885741",
+   "name": "HiVideo - 縦持ち横長写真＆ビデオカメラ撮影",
+   "price": "¥320",
+   "artist": "sky-nexus Inc."
+  },
+  {
+   "rank": 70,
+   "id": "402405770",
+   "name": "Massive Dev Chart Timer",
+   "price": "¥1,500",
+   "artist": "Freestyle Photo & Imaging"
+  },
+  {
+   "rank": 71,
+   "id": "6749664084",
+   "name": "MannerShotNote 資料スキャン",
+   "price": "¥450",
+   "artist": "Ryo Sato"
+  },
+  {
+   "rank": 72,
+   "id": "917146276",
+   "name": "Manual – RAW Camera",
+   "price": "¥600",
+   "artist": "Will Global"
+  },
+  {
+   "rank": 73,
+   "id": "1239098425",
+   "name": "Camera M – マニュアルカメラ",
+   "price": "¥1,300",
+   "artist": "bxb"
+  },
+  {
+   "rank": 74,
+   "id": "6757554862",
+   "name": "Panorama Slicer",
+   "price": "¥300",
+   "artist": "Reimagined Multimedia KLG"
+  },
+  {
+   "rank": 75,
+   "id": "1487384157",
+   "name": "Luxilux 露出計",
+   "price": "¥1,000",
+   "artist": "Christian Lobach"
+  },
+  {
+   "rank": 76,
+   "id": "885129715",
+   "name": "写真ウィジェット",
+   "price": "¥150",
+   "artist": "Francis Bonnin"
+  },
+  {
+   "rank": 77,
+   "id": "467945370",
+   "name": "i3DSteroid",
+   "price": "¥500",
+   "artist": "Spmaker"
+  },
+  {
+   "rank": 78,
+   "id": "6698876690",
+   "name": "WristTube+ Player for YouTube",
+   "price": "¥500",
+   "artist": "WRISTTECH STUDIO COMPANY LIMITED"
+  },
+  {
+   "rank": 79,
+   "id": "656906251",
+   "name": "フィールドツール（被写界深度、DOF）",
+   "price": "¥150",
+   "artist": "Evgeny EGOROV"
+  },
+  {
+   "rank": 80,
+   "id": "879727374",
+   "name": "写真情報 -  EXIF/ GPSの位置の確認と削除",
+   "price": "¥300",
+   "artist": "Youngwan Choi"
+  },
+  {
+   "rank": 81,
+   "id": "6758233962",
+   "name": "写真アップスケーラー",
+   "price": "¥1,500",
+   "artist": "David Balderston"
+  },
+  {
+   "rank": 82,
+   "id": "6479597521",
+   "name": "遠近切り抜きレンズ",
+   "price": "¥300",
+   "artist": "Masanori Katsuta"
+  },
+  {
+   "rank": 83,
+   "id": "1514082300",
+   "name": "StroboScope",
+   "price": "¥800",
+   "artist": "Masayuki INOUE"
+  },
+  {
+   "rank": 84,
+   "id": "6596740131",
+   "name": "ラブ ソフィア - コンセプトフィルター",
+   "price": "¥150",
+   "artist": "HouseOfFX"
+  },
+  {
+   "rank": 85,
+   "id": "1547228500",
+   "name": "OBS Controller",
+   "price": "¥300",
+   "artist": "Fallen Starlight AB"
+  },
+  {
+   "rank": 86,
+   "id": "6480299641",
+   "name": "FilmN Chan: Voyage",
+   "price": "¥300",
+   "artist": "Junmo Lee"
+  },
+  {
+   "rank": 87,
+   "id": "6816298698",
+   "name": "Rewind 96: 90s Film Camera",
+   "price": "¥150",
+   "artist": "Hiroaki Tajima"
+  },
+  {
+   "rank": 88,
+   "id": "6797674779",
+   "name": "背景透過・切り抜き PNG",
+   "price": "¥600",
+   "artist": "David Balderston"
+  },
+  {
+   "rank": 89,
+   "id": "6783559364",
+   "name": "GIFmaker: GIF Maker & Editor",
+   "price": "¥150",
+   "artist": "bo chen"
+  },
+  {
+   "rank": 90,
+   "id": "1560947520",
+   "name": "Chopper - AIで動画・音声を無音カット",
+   "price": "¥300",
+   "artist": "Shuichi Tsutsumi"
+  },
+  {
+   "rank": 91,
+   "id": "598542901",
+   "name": "Perfect Video  Pro",
+   "price": "¥800",
+   "artist": "Beijing Perfect Frame Technology Co., Ltd."
+  },
+  {
+   "rank": 92,
+   "id": "1554606485",
+   "name": "Objet - Cut mask collage maker",
+   "price": "¥600",
+   "artist": "Hongmin Park"
+  },
+  {
+   "rank": 93,
+   "id": "1668551706",
+   "name": "Filmil - フィルタを作ることができるフィルムカメラ",
+   "price": "¥300",
+   "artist": "Naoya Maeda"
+  },
+  {
+   "rank": 94,
+   "id": "834248867",
+   "name": "SKRWT",
+   "price": "¥300",
+   "artist": "Mathaeus Jagielski"
+  },
+  {
+   "rank": 95,
+   "id": "1494197457",
+   "name": "ホワイトバランスAI - KEV",
+   "price": "¥500",
+   "artist": "Satnam Singh"
+  },
+  {
+   "rank": 96,
+   "id": "6805923708",
+   "name": "Flect：他人目線ミラー",
+   "price": "¥150",
+   "artist": "寒 严"
+  },
+  {
+   "rank": 97,
+   "id": "506271165",
+   "name": "AfterFocus",
+   "price": "¥150",
+   "artist": "MotionOne Co.,Ltd."
+  },
+  {
+   "rank": 98,
+   "id": "924695435",
+   "name": "Pixelmator Classic iOS",
+   "price": "¥1,500",
+   "artist": "Apple"
+  },
+  {
+   "rank": 99,
+   "id": "6755822636",
+   "name": "GIKA - オールドフォン風のエモいカメラ",
+   "price": "¥200",
+   "artist": "Noahproject Inc."
+  },
+  {
+   "rank": 100,
+   "id": "1501247823",
+   "name": "NDI Capture: Screen Sharing",
+   "price": "¥1,500",
+   "artist": "NewTek"
+  }
+ ],
+ "topgrossingapplications": [
+  {
+   "rank": 1,
+   "id": "544007664",
+   "name": "YouTube",
+   "price": "入手",
+   "artist": "Google"
+  },
+  {
+   "rank": 2,
+   "id": "389801252",
+   "name": "Instagram",
+   "price": "入手",
+   "artist": "Instagram, Inc."
+  },
+  {
+   "rank": 3,
+   "id": "962194608",
+   "name": "Google フォト",
+   "price": "入手",
+   "artist": "Google"
+  },
+  {
+   "rank": 4,
+   "id": "1500855883",
+   "name": "CapCut：写真＆動画エディター",
+   "price": "入手",
+   "artist": "Bytedance Pte. Ltd"
+  },
+  {
+   "rank": 5,
+   "id": "446747531",
+   "name": "ピクトリンク",
+   "price": "入手",
+   "artist": "FURYU Corporation"
+  },
+  {
+   "rank": 6,
+   "id": "460177396",
+   "name": "Twitch: ライブ配信",
+   "price": "入手",
+   "artist": "Twitch Interactive, Inc."
+  },
+  {
+   "rank": 7,
+   "id": "897446215",
+   "name": "Canva(キャンバ): 画像・動画編集 & AIデザイン",
+   "price": "入手",
+   "artist": "Canva"
+  },
+  {
+   "rank": 8,
+   "id": "416048305",
+   "name": "Meitu AI加工&写真編集ツール",
+   "price": "入手",
+   "artist": "Meitu Technology Co., Ltd."
+  },
+  {
+   "rank": 9,
+   "id": "622434129",
+   "name": "BeautyPlus-写真加工、証明写真、自撮りカメラ",
+   "price": "入手",
+   "artist": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD."
+  },
+  {
+   "rank": 10,
+   "id": "592331499",
+   "name": "BeautyCam-新世代カメラ＆ナチュラルAI",
+   "price": "入手",
+   "artist": "Meitu Technology Co., Ltd."
+  },
+  {
+   "rank": 11,
+   "id": "1022267439",
+   "name": "SNOW スノー - AIプロフィール",
+   "price": "入手",
+   "artist": "SNOW Corporation"
+  },
+  {
+   "rank": 12,
+   "id": "587366035",
+   "name": "Picsart (ピクスアート) 写真加工&動画編集アプリ",
+   "price": "入手",
+   "artist": "PicsArt, Inc."
+  },
+  {
+   "rank": 13,
+   "id": "878783582",
+   "name": "Lightroom: 写真&動画エディター・画質向上",
+   "price": "入手",
+   "artist": "Adobe Inc."
+  },
+  {
+   "rank": 14,
+   "id": "1470373330",
+   "name": "Remini - 高画質化するAI写真アプリ",
+   "price": "入手",
+   "artist": "Bending Spoons Apps ApS"
+  },
+  {
+   "rank": 15,
+   "id": "1455009060",
+   "name": "Photoroom（フォトルーム）：AI写真＆画像編集",
+   "price": "入手",
+   "artist": "Photoroom"
+  },
+  {
+   "rank": 16,
+   "id": "1665024375",
+   "name": "Runway: AI Image & Video",
+   "price": "入手",
+   "artist": "runwayml"
+  },
+  {
+   "rank": 17,
+   "id": "6740024098",
+   "name": "Pollo AI：AI動画・画像生成",
+   "price": "入手",
+   "artist": "COCOSOFT TECHNOLOGY PTE. LTD."
+  },
+  {
+   "rank": 18,
+   "id": "1594288016",
+   "name": "Wink：高画質な動画編集・加工アプリ",
+   "price": "入手",
+   "artist": "Meitu Technology Co., Ltd."
+  },
+  {
+   "rank": 19,
+   "id": "516561342",
+   "name": "LINE Camera – 写真編集＆フィルター",
+   "price": "入手",
+   "artist": "SNOW Corporation"
+  },
+  {
+   "rank": 20,
+   "id": "448639966",
+   "name": "PicCollage 写真加工、画像編集、コラージュアプリ",
+   "price": "入手",
+   "artist": "Cardinal Blue"
+  },
+  {
+   "rank": 21,
+   "id": "561350520",
+   "name": "GoPro Quik",
+   "price": "入手",
+   "artist": "GoPro, Inc."
+  },
+  {
+   "rank": 22,
+   "id": "6748743457",
+   "name": "DeeVid AI - 唯一無二のAI動画ジェネレーター",
+   "price": "入手",
+   "artist": "ALWAYS RISING PTE. LTD."
+  },
+  {
+   "rank": 23,
+   "id": "1577705074",
+   "name": "EPIK エピック - AI写真＆動画編集",
+   "price": "入手",
+   "artist": "SNOW Corporation"
+  },
+  {
+   "rank": 24,
+   "id": "1473574597",
+   "name": "PowerDirector - AI動画編集アプリ",
+   "price": "入手",
+   "artist": "CyberLink"
+  },
+  {
+   "rank": 25,
+   "id": "6739276631",
+   "name": "AI Catch(AI キャッチ): ビデオジェネレーター",
+   "price": "入手",
+   "artist": "Prominent Fortune PTE. LTD"
+  },
+  {
+   "rank": 26,
+   "id": "440948110",
+   "name": "快手",
+   "price": "入手",
+   "artist": "Beijing Kwai Technology Co., Ltd."
+  },
+  {
+   "rank": 27,
+   "id": "1491707486",
+   "name": "プリクラON",
+   "price": "入手",
+   "artist": "SEGA CORPORATION"
+  },
+  {
+   "rank": 28,
+   "id": "1437880869",
+   "name": "SODA（ソーダ）-AIビューティー&診断カメラ",
+   "price": "入手",
+   "artist": "SNOW Corporation"
+  },
+  {
+   "rank": 29,
+   "id": "1491299654",
+   "name": "Insta360",
+   "price": "入手",
+   "artist": "Insta360"
+  },
+  {
+   "rank": 30,
+   "id": "6446202561",
+   "name": "Kick - ライブ配信",
+   "price": "入手",
+   "artist": "Kick Streaming"
+  },
+  {
+   "rank": 31,
+   "id": "952050883",
+   "name": "VLLO、Vlogのための初めてのビデオエディタ",
+   "price": "入手",
+   "artist": "vimosoft"
+  },
+  {
+   "rank": 32,
+   "id": "863844475",
+   "name": "YouCamメイク-髪型シミュレーション、ビューティーカメラ",
+   "price": "入手",
+   "artist": "PERFECT MOBILE CORP."
+  },
+  {
+   "rank": 33,
+   "id": "1019382747",
+   "name": "Filmora：AI動画作成・動画編集",
+   "price": "入手",
+   "artist": "Shenzhen Wondershare Software Co., Ltd"
+  },
+  {
+   "rank": 34,
+   "id": "1076859004",
+   "name": "Foodie(フーディー)-料理がおいしく撮れるカメラ",
+   "price": "入手",
+   "artist": "SNOW Corporation"
+  },
+  {
+   "rank": 35,
+   "id": "997362197",
+   "name": "InShot - 動画編集＆写真加工アプリ",
+   "price": "入手",
+   "artist": "SHANTANU PTE. LTD."
+  },
+  {
+   "rank": 36,
+   "id": "6444888896",
+   "name": "AI Mirror: AI アニメとマンガ画像編集作画アプリ",
+   "price": "入手",
+   "artist": "POLYVERSE ENTERTAINMENT INC."
+  },
+  {
+   "rank": 37,
+   "id": "904209370",
+   "name": "B612 - 日常をもっとおしゃれにするカメラ",
+   "price": "入手",
+   "artist": "SNOW Corporation"
+  },
+  {
+   "rank": 38,
+   "id": "588013838",
+   "name": "VSCO：画像と動画の加工アプリ",
+   "price": "入手",
+   "artist": "Visual Supply Company"
+  },
+  {
+   "rank": 39,
+   "id": "1577495806",
+   "name": "トルミル",
+   "price": "入手",
+   "artist": "ULTIMATE,Inc"
+  },
+  {
+   "rank": 40,
+   "id": "331975235",
+   "name": "Photoshop Express: 画像加工アプリ",
+   "price": "入手",
+   "artist": "Adobe Inc."
+  },
+  {
+   "rank": 41,
+   "id": "425194759",
+   "name": "Vimeo 広告なしの動画プレーヤー",
+   "price": "入手",
+   "artist": "Vimeo.com, Inc."
+  },
+  {
+   "rank": 42,
+   "id": "768469908",
+   "name": "ユーカム（YouCam Perfect）：写真加工＆画像編集",
+   "price": "入手",
+   "artist": "PERFECT MOBILE CORP."
+  },
+  {
+   "rank": 43,
+   "id": "1398796436",
+   "name": "Ulikeユーライク：ナチュラルに盛るビューティカメラ！",
+   "price": "入手",
+   "artist": "Bytedance Pte. Ltd"
+  },
+  {
+   "rank": 44,
+   "id": "1325756279",
+   "name": "Prequel: 写真フィルター リール編集 動画加工",
+   "price": "入手",
+   "artist": "Prequel Inc."
+  },
+  {
+   "rank": 45,
+   "id": "6746952754",
+   "name": "AniFlow - AIアニメ動画メーカー",
+   "price": "入手",
+   "artist": "Make Your Wish LLC"
+  },
+  {
+   "rank": 46,
+   "id": "6745820631",
+   "name": "Shots: Photo & Video Generator",
+   "price": "入手",
+   "artist": "DeePix AI"
+  },
+  {
+   "rank": 47,
+   "id": "1585824635",
+   "name": "Video Up! 動画編集 & 動画加工、動画モザイク",
+   "price": "入手",
+   "artist": "Video editor & maker app"
+  },
+  {
+   "rank": 48,
+   "id": "1289057196",
+   "name": "コラージュや写真の加工はSCRL：写真加工・編集アプリ",
+   "price": "入手",
+   "artist": "Appostrophe AB"
+  },
+  {
+   "rank": 49,
+   "id": "1180884341",
+   "name": "FaceApp: 完璧な顔編集",
+   "price": "入手",
+   "artist": "FaceApp Technology Limited"
+  },
+  {
+   "rank": 50,
+   "id": "1536076386",
+   "name": "YouCam Video：AI動画・動画編集・動画加工アプリ",
+   "price": "入手",
+   "artist": "PERFECT MOBILE CORP."
+  },
+  {
+   "rank": 51,
+   "id": "1644042837",
+   "name": "Hypic：画像編集、写真加工",
+   "price": "入手",
+   "artist": "Bytedance Pte. Ltd"
+  },
+  {
+   "rank": 52,
+   "id": "6471662064",
+   "name": "KakaPic - AI動画作成と高画質AI写真館",
+   "price": "入手",
+   "artist": "盛河 徐"
+  },
+  {
+   "rank": 53,
+   "id": "1459833443",
+   "name": "Alight Motion",
+   "price": "入手",
+   "artist": "Bending Spoons Apps ApS"
+  },
+  {
+   "rank": 54,
+   "id": "1032277907",
+   "name": "EseeCloud(IP Pro, VR Cam)",
+   "price": "入手",
+   "artist": "Guangdong Juan Intelligent Technology Joint Stock Co., Ltd"
+  },
+  {
+   "rank": 55,
+   "id": "6763000830",
+   "name": "Luma Style AI",
+   "price": "入手",
+   "artist": "GEORGE GRANT"
+  },
+  {
+   "rank": 56,
+   "id": "1422471180",
+   "name": "Dazz - フィルムカメラ",
+   "price": "入手",
+   "artist": "DAZZ PTE. LTD."
+  },
+  {
+   "rank": 57,
+   "id": "785638228",
+   "name": "Layout: コラージュ - 写真加工 - Mixgram",
+   "price": "入手",
+   "artist": "Lyam Apps"
+  },
+  {
+   "rank": 58,
+   "id": "6745781406",
+   "name": "ReelMe: AI Photo & Video",
+   "price": "入手",
+   "artist": "TPC INVEST PTE.LTD"
+  },
+  {
+   "rank": 59,
+   "id": "1454762989",
+   "name": "Instories: AIストーリー 加工インスタグラム",
+   "price": "入手",
+   "artist": "Ylee Studio LTD"
+  },
+  {
+   "rank": 60,
+   "id": "409838725",
+   "name": "Splice - Video Editor & Maker",
+   "price": "入手",
+   "artist": "Bending Spoons Apps ApS"
+  },
+  {
+   "rank": 61,
+   "id": "1544211932",
+   "name": "PrettyUp - 人気の髪描き、動画と写真加工アプリ",
+   "price": "入手",
+   "artist": "Pixl Concerto Technology Limited"
+  },
+  {
+   "rank": 62,
+   "id": "464660903",
+   "name": "写真文字入れ & 画像加工 - Perfect Image",
+   "price": "入手",
+   "artist": "昊 李"
+  },
+  {
+   "rank": 63,
+   "id": "447188370",
+   "name": "Snapchat：写真で会話",
+   "price": "入手",
+   "artist": "Snap, Inc."
+  },
+  {
+   "rank": 64,
+   "id": "543577420",
+   "name": "PhotoGrid 写真&動画コラージュ",
+   "price": "入手",
+   "artist": "JUPITER PALACE PTE. LTD."
+  },
+  {
+   "rank": 65,
+   "id": "6444827065",
+   "name": "YouCamエンハンス：画像高画質化、画質を良くするアプリ",
+   "price": "入手",
+   "artist": "PERFECT MOBILE CORP."
+  },
+  {
+   "rank": 66,
+   "id": "1540719743",
+   "name": "ToonApp：似顔絵アプリ、写真いらすと化 、動画生成ai",
+   "price": "入手",
+   "artist": "Lyrebird Studio"
+  },
+  {
+   "rank": 67,
+   "id": "6477182657",
+   "name": "Leica LUX - Pro Manual Camera",
+   "price": "入手",
+   "artist": "Leica Camera AG"
+  },
+  {
+   "rank": 68,
+   "id": "1255135442",
+   "name": "Videoleap：ビデオ編集・加工＆AI動画生成アプリ",
+   "price": "入手",
+   "artist": "Lightricks Ltd."
+  },
+  {
+   "rank": 69,
+   "id": "1149994032",
+   "name": "Facetune -AIの自撮りと動画の加工アプリ",
+   "price": "入手",
+   "artist": "Lightricks Ltd."
+  },
+  {
+   "rank": 70,
+   "id": "1331571544",
+   "name": "Repost for Reels, Photo, Video",
+   "price": "入手",
+   "artist": "Elbax"
+  },
+  {
+   "rank": 71,
+   "id": "6596737043",
+   "name": "Evoto - AI写真編集・ポートレート加工",
+   "price": "入手",
+   "artist": "TRUESIGHT PTE. LTD."
+  },
+  {
+   "rank": 72,
+   "id": "6758437998",
+   "name": "ProCleaner – ストレージクリーナー",
+   "price": "入手",
+   "artist": "Talvion Tech L.L.C-FZ"
+  },
+  {
+   "rank": 73,
+   "id": "6754245532",
+   "name": "Moments: Wedding Camera",
+   "price": "入手",
+   "artist": "BLEND IN K.K."
+  },
+  {
+   "rank": 74,
+   "id": "6743162587",
+   "name": "ElevenLabs: AI Voice Generator",
+   "price": "入手",
+   "artist": "ElevenLabs, Inc."
+  },
+  {
+   "rank": 75,
+   "id": "6754862147",
+   "name": "MENS AI - 男性向けマッチングアプリ写真加工",
+   "price": "入手",
+   "artist": "Santa Takahashi"
+  },
+  {
+   "rank": 76,
+   "id": "6767802142",
+   "name": "PixVerse Lite",
+   "price": "入手",
+   "artist": "AIVORA PTE. LTD."
+  },
+  {
+   "rank": 77,
+   "id": "666575203",
+   "name": "Grids: インスタフォトグリッド・写真 分割、レイアウト",
+   "price": "入手",
+   "artist": "WONDER"
+  },
+  {
+   "rank": 78,
+   "id": "1638320348",
+   "name": "Muse: リール & ストーリー & 動画編集",
+   "price": "入手",
+   "artist": "Bigrowth"
+  },
+  {
+   "rank": 79,
+   "id": "730280555",
+   "name": "背景透過 写真合成 - 合成スタジオ",
+   "price": "入手",
+   "artist": "KALEIDOSCOPE Inc."
+  },
+  {
+   "rank": 80,
+   "id": "6466298983",
+   "name": "Retake AI 写真、顔 & セルフィーエディター",
+   "price": "入手",
+   "artist": "DEEP FLOW SOFTWARE SERVICES"
+  },
+  {
+   "rank": 81,
+   "id": "510873505",
+   "name": "パスワードでシークレット写真･動画も安心: Keepsafe",
+   "price": "入手",
+   "artist": "KeepSafe Software, Inc"
+  },
+  {
+   "rank": 82,
+   "id": "6447604690",
+   "name": "AI写真 - 画像編集、動画生成 & 高画質化写真加工アプリ",
+   "price": "入手",
+   "artist": "COOL SUMMER LIMITED"
+  },
+  {
+   "rank": 83,
+   "id": "6446022340",
+   "name": "Spellai - AIアートメーカー",
+   "price": "入手",
+   "artist": "POLYVERSE ENTERTAINMENT INC."
+  },
+  {
+   "rank": 84,
+   "id": "1085652055",
+   "name": "写真 コラージュ Collageable 画像合成",
+   "price": "入手",
+   "artist": "IRONTECH LIMITED"
+  },
+  {
+   "rank": 85,
+   "id": "973337925",
+   "name": "MakeupPlus - まつげ新入荷",
+   "price": "入手",
+   "artist": "EveLab Insight Hong Kong Limited"
+  },
+  {
+   "rank": 86,
+   "id": "440159265",
+   "name": "Fotor AI 写真加工、画像編集 & コラージュアプリ",
+   "price": "入手",
+   "artist": "Chengdu Everimaging Science and Technology Co., Ltd"
+  },
+  {
+   "rank": 87,
+   "id": "1494276528",
+   "name": "アルばぶ - 子供の成長記録",
+   "price": "入手",
+   "artist": "Bebememo, Inc."
+  },
+  {
+   "rank": 88,
+   "id": "1230394683",
+   "name": "Photo Retouch-画像加工写真人を消す 背景消す",
+   "price": "入手",
+   "artist": "Shenzhen Tushi Technology Co.,Ltd"
+  },
+  {
+   "rank": 89,
+   "id": "6711356409",
+   "name": "HeyGen: AI動画メーカー",
+   "price": "入手",
+   "artist": "HeyGen Technology Inc"
+  },
+  {
+   "rank": 90,
+   "id": "6762171468",
+   "name": "Vid+：AI  Video Generator",
+   "price": "入手",
+   "artist": "TIFFAI TECHNOLOGY LIMITED"
+  },
+  {
+   "rank": 91,
+   "id": "443354861",
+   "name": "カメラ360 -モザイク＆写真加工アプリ",
+   "price": "入手",
+   "artist": "PinGuo Technology (HK) Co., Limited"
+  },
+  {
+   "rank": 92,
+   "id": "1270565611",
+   "name": "MoShow 写真スライドショー・音楽付き動画作成",
+   "price": "入手",
+   "artist": "Picadelic"
+  },
+  {
+   "rank": 93,
+   "id": "6743932235",
+   "name": "FaceSwap - AI顔交換動画",
+   "price": "入手",
+   "artist": "Digital Chimpanzee Ltd."
+  },
+  {
+   "rank": 94,
+   "id": "912177018",
+   "name": "StageCameraHD - 高画質マナー カメラ",
+   "price": "入手",
+   "artist": "sky-nexus Inc."
+  },
+  {
+   "rank": 95,
+   "id": "1658822260",
+   "name": "Momo: AI写真・動画作成",
+   "price": "入手",
+   "artist": "SCALEUP YAZILIM HIZMETLERI"
+  },
+  {
+   "rank": 96,
+   "id": "6761752130",
+   "name": "Kiva: AI製品ビデオと広告",
+   "price": "入手",
+   "artist": "Artemis NovoCore Limited"
+  },
+  {
+   "rank": 97,
+   "id": "6772873416",
+   "name": "Klipz AI: AIショート動画作成",
+   "price": "入手",
+   "artist": "科 熊"
+  },
+  {
+   "rank": 98,
+   "id": "417571834",
+   "name": "Private Photo Vault: Lock File",
+   "price": "入手",
+   "artist": "Legendary Software Labs LLC"
+  },
+  {
+   "rank": 99,
+   "id": "373311252",
+   "name": "TouchRetouch (タッチリタッチ)",
+   "price": "入手",
+   "artist": "ADVA Soft GmbH"
+  },
+  {
+   "rank": 100,
+   "id": "1274938524",
+   "name": "Focos",
+   "price": "入手",
+   "artist": "Mosaic S.r.l."
+  }
+ ],
+ "lookup": {
+  "500676238": {
+   "trackName": "ブラックビデオ (BlackVideo)",
+   "price": 300.0,
+   "averageUserRating": 4.34396,
+   "userRatingCount": 6082,
+   "releaseDate": "2012-02-18T00:22:15Z",
+   "currentVersionReleaseDate": "2026-10-02T01:50:05Z",
+   "description": "大切な瞬間を逃さず、すぐに無音で撮影しましょう。\n\nアプリを起動すると同時に、動画の録画が開始されます。\nホームボタンをタップすると、自動的に録画が停止します。\nすばやく動画を撮影したいときや、面白い瞬間を逃したくないときにご利用ください。\n\nスパイモード、4K動画撮影、アルバム、ワイヤレスファイル転送、動画ファイルの損失防止機能もサポートしています。\nこのアプリひとつで、すべてに対応可能です。\n\n\n【アプリが起動しない場合の対処方法】\n\n- カメラ設定に問題があると、アプリが起動しない場合があります。以下の手順で復旧してください。\n- iPhoneの設定 -> 「ブラックビデオ」に移動し、カメラのアクセス権限を無効にしてください。\n- その後、アプリ内の設定でカメラ設定を変更し、再度カメラのアクセス権限を有効にしてください。",
+   "sellerName": "AppMadang",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6760838876": {
+   "trackName": "オルディ Oldi - Phone Camera",
+   "price": 150.0,
+   "averageUserRating": 4.57895,
+   "userRatingCount": 19,
+   "releaseDate": "2026-03-20T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-05T16:05:03Z",
+   "description": "さまざまな旧型iPhoneカメラを体験できるアプリです。\n\n単なるフィルターではなく、センサーレイヤーから最もリアルに旧型iPhoneを再現します。\n\n対応機種: 3GS, 4, 4S, 5, 5S, SE, 6, 6S, 7, 8, X, XS",
+   "sellerName": "Sean Cho",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6741474933": {
+   "trackName": "Berryフィルム - 韓国風セルフィー",
+   "price": 300.0,
+   "averageUserRating": 4.86275,
+   "userRatingCount": 102,
+   "releaseDate": "2025-02-27T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-27T06:41:54Z",
+   "description": "こんにちは、韓国出身のフィルタークリエイター Berry です。\nInstagram のアカウント @berryveryloveyou で私を知っている方もいるかもしれません。\nかつてSNSで公開していた多くのフィルターは、今はもう使えなくなってしまいました。\nでも、5年間かけて心を込めて作った色味を守りたいという気持ちから、\nこのアプリ「BerryFilm」を立ち上げました。\n\nこれからも新しいフィルターを定期的に追加していきます。\nナチュラルな美肌補正や、ふんわりとしたライティング効果も現在開発中です。\n\nどうぞ、心を込めて作ったこのフィルターたちを自由に楽しんでください。\n\n--\n\n主な機能\n\n• ナチュラルでやさしい韓国風フィルター\nミルクのようなやわらかトーンから、クール・ウォームトーン、レトロなフィルム風まで。\nあなたの雰囲気にぴったりな色味がきっと見つかります。\n\n• 写真も動画も、お気に入りの色で\nフォルダの中の「惜しい」写真や動画も、\nPinterest風のおしゃれなフィードに変わります。\n\n• シンプル＆静音で撮影できるカメラ\nワンタップでフィルターを適用、よく使うフィルターはお気に入りに保存。\nシャッター音なしで、いつでも自然な自撮りを楽しめます。\n\n• 毎月、新しいフィルターを追加\n季節や気分に合わせて、新しい色味を定期的にお届けします。\n\n• ユーザーの声で進化するアプリ\n皆さんからのフィードバックを大切に受け取りながら、BerryFilmは成長を続けています。\n\n--\n\nこんな方におすすめ\n\n• InstagramでBerryのフィルターを使っていた方\n• ナチュラルで韓国っぽいトーンの自撮りが好きな方\n• シンプルでおしゃれなカメラアプリを探している方\n• 毎月新しいフィルターを楽しみにしている方\n\n--\n\n収録フィルターについて\n\nmilk、iPhone 7、butter、cool、warm、blossom など\n現在40種類以上のフィルターを搭載しており、今後も順次追加予定です。\n\n--\n\nお問い合わせ・シェアについて\n\n撮った写真は、Instagramで @berryfilm.app をタグ付けしてぜひシェアしてください！\nご質問・ご意見などは DM またはメールでお気軽にご連絡ください。\n\nメールアドレス：seesunapp@gmail.com\nInstagram：@berryfilm.app",
+   "sellerName": "Seungyun Kim",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6813713797": {
+   "trackName": "CineLoupe",
+   "price": 980.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-09-22T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T02:03:09Z",
+   "description": "CineLoupe は、シネマカメラのセンサーモードとレンズを iPhone 上で再現する、撮影監督・監督・ロケハン担当のためのファインダーです。\n\n■ 画角だけでなく、ボケまで見える\niPhone の LiDAR（またはステレオ）深度を使い、選んだレンズの焦点距離・T 値・フォーカス距離から被写界深度を計算して、映像そのものをボカします。「この距離でこの玉なら、背景はこう溶ける」を、その場で・その画で確認できます。\n\n■ センサーモード単位のシミュレーション\nALEXA 35 の 4.6K 3:2 Open Gate と 4K 16:9、VENICE 2 の 8.6K 3:2 と 5.8K 6:5 アナモ——カメラ名ではなく、実際に収録するセンサーモードの撮像面寸法でクロップします。アナモフィックレンズはスクイーズ倍率に応じた横画角と楕円ボケで表示。\n\n■ 現場で回っているレンズが揃ったデータベース\n日本のレンタル在庫を元に、ARRI・ZEISS・Cooke・Leitz・Angenieux・FUJINON・Canon・SIGMA・DZOFILM・LAOWA・Tokina ほか 165 シリーズ・1,400 本超を収録。単焦点 / ズーム → マウント → シリーズ → 焦点距離で選べ、単焦点はセット内を左右で送れます。DB に無い玉はマニュアルで mm と T を直接入力。\n\n■ フレームラインは何本でも\nオープンゲートに対して 16:9、2.39、9:16、任意の比率と％を同時に重ねられます。外側のシェード（25/50/75/100%）、映像への焼き込みも選べます。\n\n■ 記録がそのまま資料になる\n静止画（HEIC）・動画（HEVC / H.264 / ProRes、1080p / UHD、Apple Log 対応）に、カメラ・モード・レンズ・mm・T・フォーカス距離・撮影時刻・GPS・方位・シーン/カット番号を焼き込み。OK テイクを選んで、地図・撮影順・太陽方位・ロケ地チェックリスト付きの PDF に。Google Drive / Dropbox への自動アップロードにも対応。\n\n■ あと出しシミュレーション\n静止画は撮影時の生フレームと深度も保存。あとからカメラ・レンズ・T・フォーカスを変えて見直し、新しいテイクとして保存できます。\n\n■ 太陽位置\n時刻と位置からファインダーに太陽の方位を重畳。時刻をスクラブして日中の光の向き、日の出・日没・マジックアワーを確認。\n\n■ プロジェクト管理\n作品ごとにロケ地名・住所・メモ・チェックリスト（駐車・電源・許可…）を持ち、テイク・PDF・アップロード先を整理。\n\n対応機種：iPhone 12 以降（LiDAR 搭載の Pro モデルで深度精度が最も高くなります。超広角搭載機ではワイド側の画角も再現）。\n\n※ 本アプリのシミュレーションは光学計算による近似です。実際のレンズの歪曲・周辺光量・口径食・ブリージング・色再現は再現していません。収録されたカメラ・レンズの製品名は各社の商標であり、各メーカーとの提携関係はありません。",
+   "sellerName": "KOTETSU, Corp.",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "1437885179": {
+   "trackName": "StageCameraPro2 - 高画質のマナーカメラ",
+   "price": 850.0,
+   "averageUserRating": 4.56656,
+   "userRatingCount": 1735,
+   "releaseDate": "2018-10-27T20:00:45Z",
+   "currentVersionReleaseDate": "2026-08-27T13:57:45Z",
+   "description": "StageCameraPro2は最新iOSの最新技術を採用したマナーカメラです。\n最新のHDRを適用した写真やビデオを撮影できます。\n従来の12MPを超える高精細な48MPでの写真撮影も可能です。\n\n強力な手振れ補正など画質の向上に重点を置き、手軽に高画質な写真とビデオが撮影できます。\nマナーへの配慮が必要な場所や、子供やペットの撮影でご利用ください。\n\nロック画面ウィジェットに対応しています。\n\n安心の日本製アプリです。\n\n\n■特徴\n- 最新HDR対応の写真撮影（機種依存）\n- 48MPカメラでの写真撮影（iPhone14Pro以降）\n- HEIF保存対応で写真サイズ半分\n\n- HDRビデオ対応（機種依存）\n- 4K/FullHD/HDビデオ切り換え（機種依存）\n- 4K/FullHDビデオで60fpsに対応（機種依存）\n- HEVC保存対応で動画サイズ半分\n\n- ロック画面ウィジェット対応\n- カメラコントロール撮影（対応機種のみ）\n- 手振れ防止\n- 高速な起動\n- 最大15倍ズーム\n- トリプルカメラのレンズ切り換え（対応機種のみ）\n- デュアルカメラのレンズ切り換え（対応機種のみ）\n- レンズ切替方式（自動切替、固定切替）の選択\n- マニュアル操作（レンズ固定切替時のみ）\n- シンプルなデザイン\n- デザイン切り替え（ブラック or ホワイト）\n\n\n■機能\n- 最新HDR対応の写真撮影\n- 48MPカメラでの写真撮影\n- 写真アスペクト比 通常(4:3)、ワイド(16:9)、スクエア(1:1)、一眼レフ(3:2)、iPhoneXS全画面\n- 写真の日時焼付け\n- 写真の位置情報付加の有／無切替\n- 写真のセルフタイマー撮影\n- 写真のHEIF保存対応\n- HDRビデオ対応（機種依存）\n- ビデオ撮影 4K/FullHD/HD対応\n- ビデオ撮影 4K/FullHDの60fps対応\n- ビデオのHEVC保存対応\n- マニュアル操作（レンズ固定切替時のみ）：露出補正、WB、フォーカス\n- 手振れ補正\n- タップでフォーカス＆露出の一時的なロック\n- 長押しタップでフォーカス＆露出のロック\n- 露出補正\n- 解像度の切り換え\n- メタデータの付加\n- グリッド線表示\n- 水平器の表示\n- カメラ回転ロック\n- フラッシュ\n- Retinaフラッシュ\n- 最大15倍ズーム\n- トリプルカメラのレンズ切り換え\n- デュアルカメラのレンズ切り換え\n- レンズ切替方式（自動切替、固定切替）の選択\n- カメラコントロール撮影\n- ロック画面ウィジェット対応\n\n\n撮影した動画・写真はデバイスの写真ライブラリに保存されます。\niPadのステージマネージャには対応していないため、フルスクリーンでご利用いただくか、回転の向きをロックしてご利用ください。\n\n\n■URLスキーム\ncom.sky-nexus.stagecamerapro2://\n\n\n※デバイス関連の不具合や、iOSのバージョンアップ等で起動が著しく遅くなったり、撮影に時間がかかるようになった場合は下記の手順を試してみてください。\n　1.アンインストール\n　2.デバイス再起動\n　3.再インストール",
+   "sellerName": "sky-nexus Inc.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1313164055": {
+   "trackName": "EE35 フィルムカメラ",
+   "price": 300.0,
+   "averageUserRating": 3.84322,
+   "userRatingCount": 995,
+   "releaseDate": "2017-11-15T12:46:26Z",
+   "currentVersionReleaseDate": "2019-10-14T19:04:53Z",
+   "description": "令和の日付スタンプも対応しました！\nEE35フィルムカメラは、1960年代あたりのレトロなカメラで本格的に遊べるアプリです。\nカメラを趣味としている人向けに開発しましたので、撮影されるフィルム写真のリアリティにもこだわりました。\n\n[NEW]\n インカメラ切り替えに対応しました（メニューから設定）\n自動巻き上げをONにするとフィルムを自動で次に進めてくれます。\nパンフォーカスに設定すると、使い捨てフィルムカメラのようにピントが固定になります。とても近いものにピントが合わなくなり同じような雰囲気になります。\n\n日付もON/OFFできるようになりました。\n正方形の写真も切り替えて撮れます。\n\n基本的な使い方\n（１）フィルムを送る\n（２）シャッターを押す\n\nこれの繰り返しで撮影できます。\n（１）を自動にしたい場合は自動巻き上げをONにしてください。\n\nフィルムはカラーと白黒の２種類。気軽に撮りきりやすい12枚撮りです。\n現像は撮影後にすぐ終わり、フィルムの画像も保存されます。\n\n12枚は一気に撮らなくて大丈夫です。必要な時にアプリを起動や終了して撮影してください。\n\niPhoneをマナーモードに設定すると無音で撮影できます。\n（フラッシュを使用する時はシャッター音が鳴ります）\n\nこのカメラは、1960年代当時のセレンという太陽電池みたいなものを搭載していてオートで撮れる機種を再現しています。\n夕方や室内など、少しでも暗い場所ではとても暗い写真になりますのでフラッシュを使って撮影してください。\n\nフラッシュはONにした後、赤いランプが着いたら発光します。\n\nレンズはおよそ50mm相当です。古いレンズ（M42マウントやハーフカメラなど）で撮影したような劣化処理もしてあります。\nフィルムはネガを想定して作りましたが、見づらいのでポジフィルムのようなフィルム現像画像が保存されますのでご了承ください。\n\nタイマーはおよそ7秒程度です。\nフィルム送りをせずに、シャッターチャージをしてシャッターを押すと、何度でも多重露光できます。\n\nフィルムカウンターの矢印の背景は、カラーの時に白、白黒の時には黒に表示されますので、どちらのフィルムが入っているかわかるようになっています。\n\n裏蓋やシャッター幕の状態も良く、フィルム室に光がもれて感光することはありません。\nレンズもクリアーでくもりなどはありません。という設定で作ってあります。\n\nフロントカメラへの切替え機能をメニューから設定で選べるようにしたのは、本物のフィルムカメラのように使用したい方がOFFにできるようにしました。\n\nフィルムが無限に使い放題、現像代もかからないストロボ付きフィルムカメラアプリ。\n\nそれではレトロなカメラライフをお楽しみください。",
+   "sellerName": "EIGHTIVE DESIGN, Inc.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6763737180": {
+   "trackName": "YoungPhoto - エモい構図カメラ",
+   "price": 350.0,
+   "averageUserRating": 3,
+   "userRatingCount": 10,
+   "releaseDate": "2026-06-26T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-28T15:21:53Z",
+   "description": "こんにちは :) 写真をわかりやすく伝える、40万人の写真クリエイター YoungPhoto です。\n\nこれまで写真の構図、色味、撮影のコツなど、写真に関するさまざまなコンテンツを発信してきました。今回は、それらを日常の中ですぐに使える写真アプリとして作りました。\n\nSNSで見ていた構図コンテンツや写真の色味フィルターの作り方を、これからはアプリの中で直接見ながら、リアルタイムで撮影に活用できます。\n\nYoungPhotoは、ただフィルターをかけるだけのアプリではありません。リアルタイムのガイドラインと構図機能で、どう撮ればより感覚的でおしゃれに見えるのかを、誰でも簡単にまねできるようにしました。\n\n写真は好きだけれど、撮るたびにどこか物足りなさを感じていた方、何気ない日常を映画のワンシーンのように残したい方、写真初心者でも雰囲気のある一枚を残したい方のために作ったアプリです。\n\nYoungPhotoは、見る人の視線を自然に導き、一枚の写真の中にストーリーと空気感を込められるように設計しました。感性を引き出す構図ガイドに加えて、さまざまなシーンに合う、童話のようなフィルターも用意しています。\n\nYoungPhotoを使って、あなたの日常ももっと感覚的に記録してみてください :)\n\n[こんな方におすすめ]\n\n- 「あんな雰囲気で撮りたいのに、なぜ自分はうまく撮れないんだろう？」と思ったことがある方\n- 写真を撮るたびに構図が難しいと感じる方\n- ガイドラインを見ながら、簡単に雰囲気のある写真を撮りたい方\n- 複雑な編集なしで、雰囲気のある色味を作りたい方\n\n[主な機能]\n\n- 構図ガイドライン\n- 構図レッスン\n- YoungPhoto 感性フィルター\n- エフェクト\n- 写真・動画へのフィルター適用",
+   "sellerName": "Seungyun Kim",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6808181221": {
+   "trackName": "コンプラカメラ",
+   "price": 100.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-09-09T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-01T00:38:22Z",
+   "description": "コンプラカメラは、撮影時に人物を自動で認識し、配信やSNS投稿の前に気になる部分を光のエフェクトで隠せるカメラアプリです。\n\n■ できること\n・カメラに映った人物を自動で検出し、胸元や腰まわりに光のエフェクトを重ねます\n・エフェクトはプレビューだけでなく、撮影した写真・録画した動画にもそのまま反映されます\n・エフェクトの太さは「昭和」「平成」「令和」「安心」の4段階。光をドラッグすると角度を変えられます\n・「麻雀牌」モードでは、光の代わりにかわいい牌で隠します\n・「コンプラ無視」を選ぶと、エフェクトなしの普通のカメラとしても使えます\n・前面・背面カメラの切り替え、縦横どちらの向きにも対応\n\n■ こんなときに\n・配信やSNSに上げる前の、ちょっとした写り込み対策に\n・友だちとのネタ撮影に\n・レトロゲーム風の「あの演出」を自分の写真で再現したいときに\n\n■ プライバシー\n・人物の検出はすべて端末内で行われ、映像が外部に送信されることはありません\n・写真と動画は端末の「写真」アプリに保存されます\n・アカウント登録は不要です\n\n■ ご利用にあたって\n・撮影は必ずご本人、または同意を得た方に対して行ってください\n・人物の検出精度は照明や姿勢により変わります。顔が映る向きで撮影すると安定します",
+   "sellerName": "ILLUMINATION K.K.",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "6443723657": {
+   "trackName": "filmhwa(フィルムファ)-ファミンフィルター",
+   "price": 500.0,
+   "averageUserRating": 4.77838,
+   "userRatingCount": 1295,
+   "releaseDate": "2022-11-09T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-03T15:59:18Z",
+   "description": "100万インフルエンサーファミンの雰囲気を1秒で表現する方法\n落ち着いたフィルムカメラのようなエモいフィルター、@filmhwa\n\n#######\n \n@hwa.min \n\nこんにちは。写真を愛するファミンです。\n2015年からずっとインスタグラムで写真を共有しています。\n多くの方々が私の写真の色感を好きになってくださったおかげで、\nこうやってカメラアプリを発売することができました。\n私は日常の風景をよく撮ります。\n特に、日差しが差し込んだ暖かい瞬間が一番好きです！\n私が写真を撮る時に感じた感情や雰囲気をfilmhwaのフィルターに収めてみました。\n皆様が日常の煌びやかな瞬間を逃さず大切にしてほしいです。\n\n \n######\n\n\n■こういう方にオススメ\n• フィルムカメラのようなアナログ感が好きな方\n• 自然な基本カメラの感じが好きな方\n• 光、海、花、木を撮るのが好きな方\n\n\n■ 圧倒的な雰囲気のフィルター\n• インスタグラムにアップロードされるたびに知りたかったファミンの写真の編集方法\n• ファミンが直接作ったフィルターで、感性的な色味を再現してみましょう。\n• 新しいフィルターが引き続き追加されます!\n\n \n■ hwaminの天気、状況別おすすめフィルターと未公開写真\n• 休日、曇った日、逆光、夜光など天気にふさわしい推薦フィルター\n• ゆったりとした朝、ゆったりとした午後の散歩などシチュエーションに合わせたおすすめフィルター\n• それぞれのフィルターに関する詳しい情報をホーム画面でマガジンのように確認してください\n• hwaminが写真を撮った日付と時間、場所、そしてカメラ機種まで知ることができます。\n• まだhwaminのinstagramに公開されていない写真も見られます！\n\n\n■ ファミンの天気・状況別のおすすめフィルターと未公開写真\n• 休日、曇りの日、逆光、夜光などの天候に合うおすすめフィルター\n• 気だるい朝、平和な午後の散歩などの状況に合うおすすめフィルター\n• それぞれのフィルターの詳しい詳細は、アプリのホーム画面でマガジンのように確認できます。\n• ファミンが写真を撮った日付、時間、場所、そしてカメラの機種まで全て知ることができます。\n• まだファミンのインスタグラムに公開されていない写真もご覧いただけます！\n\n\n■ ヴィンテージフィルムのムードに合う写真撮影／編集ツール\n• 明るさ、露出、コントラストなどの基本的な編集機能から\n• 粒子、ライト、ダストなどのフィルムの感じを出せる様々なエフェクトまで\n• インスタグラムの投稿、ストーリーのサイズに合う比率編集までも一度でOK！\n\n​​​​​​■ 動く瞬間のための映像撮影／編集ツール\n• ファミンのフィルターで、その日のムードを収めてみましょう。\n• カメラの比率を[full]で撮影し、リール共有も簡単にできます。\n\n​​​​​​■ 広角撮影、サイレントモード、肌のキメ補正機能も提供\n※ サイレントモードの場合、機種によっては低画質で撮影されることがあります。\n\n​​​​​​■ インスタグラム\n@hwa.min : フォローしてファミンの写真をご覧ください。\n@filmhwa : ファローして新しいアップデートや、イベントの通知をお受け取りください。\n\n \n■ カスタマーセンター\nお問い合わせは[support@arttic.app]にお送りください！",
+   "sellerName": "ARTTIC CO., LTD.",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "906388170": {
+   "trackName": "StageCameraPro - 高画質マナー カメラ",
+   "price": 550.0,
+   "averageUserRating": 4.63509,
+   "userRatingCount": 6703,
+   "releaseDate": "2014-10-19T14:16:51Z",
+   "currentVersionReleaseDate": "2026-09-03T14:47:39Z",
+   "description": "iOSの最新の技術を採用し、高画質な写真と動画撮影できるマナーカメラです。\nシンプルで使いやすいデザインを採用しています。\nマナーへの配慮が必要な場所や、子供やペットの撮影でご利用ください。\n\nロック画面ウィジェットに対応しています。\nトリプルカメラやデュアルカメラに対応しています。\n写真解像度はiPhone標準カメラと同等の4032*3024をサポートする高画質カメラ。\n\n安心の日本製アプリです。\n撮影した写真、ビデオはデバイスにのみ保存されます。\n\n\niOS最新技術の写真機能：\n - 最新HDR対応の写真撮影（機種依存）\n - HEIF保存対応で写真サイズ半分\n - トリプルカメラのレンズ切り換え（対応機種のみ）\n - デュアルカメラのレンズ切り換え（対応機種のみ）\n - ズームで拡大しても、なるべく画質を落とさずに撮影ができます。\n - デバイスに最適化された手振れ補正機能。\n - AEロック時に露出補正。\n\niOS最新技術のビデオ機能：\n - HDRビデオに対応（機種依存）\n - 4K/FullHD/HDビデオ切り換え（機種依存）\n - HEVC保存対応で動画サイズ半分\n - トリプルカメラのレンズ切り換え（対応機種のみ）\n - デュアルカメラのレンズ切り換え（対応機種のみ）\n - ズームで拡大しても、なるべく画質を落とさずに録画ができます。\n - 「＜」「＞」ボタンを押しているあいだ、スムーズに拡大・縮小が行われます。\n - 連続オートフォーカスで、スムーズに自然にフォーカスが切り替わります。\n - デバイスに最適化された手振れ補正機能によりブレの少ないビデオが録画できます。\n - AEロック時に露出補正。\n\n\n機能：\n - 写真撮影（最新HDR対応）\n - 写真撮影でセルフタイマー撮影\n - 写真撮影で連続撮影モード\n - 写真撮影で通常、フルスクリーン(16:9)、スクエアサイズ\n - 写真撮影でグリッド線表示\n - 写真撮影で位置情報付加の有／無切替\n - 写真撮影で日時の焼付け\n - 写真撮影のHEIF保存対応\n - ビデオ撮影（フルHD、4K対応）\n - HDRビデオ撮影対応\n - ビデオのHEVC保存対応\n - リモートシャッター（単独撮影のみ）\n - HDR対応プレビュー画面\n - マナーカメラ（本体のマナーモード時）\n - リアルタイムズーム\n - 連続オートフォーカス\n - 手振れ補正\n - フォーカスロック\n - 露出ロック（AE）\n - 露出補正\n - 解像度の切り換え\n - トリプルカメラのレンズ切り換え（対応機種のみ）\n - デュアルカメラのレンズ切り換え（対応機種のみ）\n - レンズ切替方式（自動切替、固定切替）の選択\n - マニュアル操作（レンズ固定切替時のみ。露出補正・ホワイトバランス調整・フォーカス調整）\n - ロック画面ウィジェット対応\n\n\n写真解像度：\n - 4032x3024\n - 3840x2160\n - 3264x2448\n - 3024x3024\n - 1920x1080\n - 1280x720\n\nビデオ解像度：\n - 3840x2160\n - 1920x1080\n - 1280x720\n\n\n撮影した動画・写真はカメラロールに保存されます。\niPadのステージマネージャには対応していないため、フルスクリーンでご利用いただくか、回転の向きをロックしてご利用ください。\n\n\n※デバイス関連の不具合や、iOSのバージョンアップ等で起動が著しく遅くなったり、撮影に時間がかかるようになった場合は下記の手順を試してみてください。\n　1.アンインストール\n　2.デバイス再起動\n　3.再インストール",
+   "sellerName": "sky-nexus Inc.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1540711931": {
+   "trackName": "MyCam Pro - 48 MP 高画質 マナーカメラ",
+   "price": 600.0,
+   "averageUserRating": 4.42009,
+   "userRatingCount": 776,
+   "releaseDate": "2021-02-14T08:00:00Z",
+   "currentVersionReleaseDate": "2026-10-03T02:00:09Z",
+   "description": "◉ バックカメラの 48 MP / 24 MP、フロントカメラの 18 MP 写真撮影に対応\n◉ Apple ProRAW / Bayer RAW 撮影に対応\n◉ シャッタースピード / ISO / ホワイトバランス / 絞りを高精度にコントロール\n◉ シネマティック手ぶれ補正で、手持ちでも滑らかな映像を実現\n◉ 4K ビデオ / Log / タイムラプス / シネマティックビデオに対応\n◉ ロック画面のカメラコントロールから、ロックを解除せずにすばやく起動\n◉ 撮影・編集・管理まで、これ1つで完結\n\n● MyCam Pro 2 について\nMyCam Pro 2 は、iPhone のカメラ性能を最大限に引き出すために設計された、プロフェッショナル向けカメラ＆写真編集アプリです。\nシャッタースピード、ISO、ホワイトバランス、絞りを細かく調整し、撮影意図をそのまま表現。最新の iOS テクノロジーと Deep Fusion（ディープフュージョン）により、ディテールまで鮮明な写真と映像を実現します。\nバックカメラの 48 MP / 24 MP 写真撮影に加えて、フロントカメラの 18 MP 写真撮影・正方形センサーを活かしたアスペクト比変更にも対応。非圧縮の TIFF 保存や、12 MP / 48 MP での仕上がり調整を行えます。また、Apple ProRAW の JPEG XL 圧縮に対応。高画質と効率的な保存を両立する次世代画像フォーマットを利用できます。\nビデオ撮影では、用途や編集環境に合わせてコーデックとカラースペースを選べます。Log 撮影は ProRes で収録し、後工程のグレーディングに活かせます。\nさらに、マニュアル撮影に最適化されたシネマティック手ぶれ補正により、手持ちでも安定した映像を撮影できます。\nApple Watch では、映像を確認しながらのリモート操作に加え、ライブアクティビティから選んだ撮影モードで起動できます。\n撮影から本格的な写真編集、管理までを一貫して行える、プロフェッショナルのための撮影体験を提供します。\n\n● 主な機能\n\n- 撮影機能\n  写真\n  ・バックカメラの 48 MP / 24 MP 高解像度撮影\n  ・フロントカメラの 18 MP 高解像度撮影\n  ・フロントカメラの正方形センサーを活かしたアスペクト比変更 *1\n  ・Live Photos\n  ・Apple ProRAW / Bayer RAW（RAW / RAW+L）\n  ・ProRAW フォーマット（JPEGロスレス / JPEG-XLロスレス / JPEG-XLロッシー）\n  ・アスペクト比（1:1 / 4:3 / 3:2 / 16:9 / 5:4 / 9:7 / 10:7）\n  ・高速レスポンス画像処理\n  ・Deep Fusion（ディープフュージョン）\n  ・写真品質（未処理 / 標準 / 処理あり）\n  ・保存形式（HEIC / JPEG / TIFF）\n  ・低解像度撮影（0.1 MP - 6 MP）\n  ・低解像度撮影サイズのカスタマイズ（300px - 3000px）\n  ・日付スタンプ\n  ・LUT（.cube）の適用\n  ・QR コードスキャン\n  ・顔検出\n  ・ポートレート（デプスマップの撮影）\n\n*1: 18 MP センターフレームカメラ搭載機種のみ\n\n  ビデオ\n  ・4K ビデオ撮影\n  ・解像度選択（HD / FHD / 4K / VGA）\n  ・フレームレート選択（24 / 25 / 30 / 48 / 50 / 60 fps。機種により 120 fps などに対応）\n  ・手ぶれ補正（スタンダード / シネマティック）\n  ・ハイダイナミックレンジ（Rec.2020 HDR）\n  ・コーデック（ビデオ: HEVC / H.264 / ProRes、Log: ProRes） *3\n  ・カラースペース（Rec.709 / P3 D65 / Rec.2020 HDR / Apple Log） *3\n  ・サウンド収録（モノラル / ステレオ / 空間オーディオ） *2\n  ・オーディオメーター（オフ / 線 / セグメント）\n  ・Apple ProRes Log\n  ・シネマティックビデオ\n  ・タイムラプスビデオ\n  ・スローモーションビデオ\n  ・クイックビデオ撮影\n\n*2: 空間オーディオ収録対応機種のみ\n*3: 選べる組み合わせは、機種や撮影設定によって異なります。Log 撮影は ProRes で収録します。\n\n- 撮影補助機能\n  ・マニュアル操作（フォーカス / 露出 / シャッタースピード / ISO / ホワイトバランス / 絞り）\n  ・露出調整（オート / マニュアル / シャッター優先 / 絞り優先） *4\n  ・レンズ選択（超広角 / 広角 / 望遠 / 自動切替）\n  ・マクロ撮影の切り替え\n  ・ヒストグラム（RGB 波形 / 輝度波形 / 輝度バー）\n  ・フォーカスピーキング / ゼブラ\n  ・グリッド / 水平器\n  ・タイマー / インターバル\n  ・フラッシュ / トーチ\n  ・AirPods リモートシャッター\n  ・Bluetooth リモコンシャッター\n  ・メタデータ編集\n\n*4: シャッター優先 / 絞り優先は可変絞り対応機種のみ\n\n- 写真編集機能\n  ・明るさ / コントラスト / 色温度 / 鮮やかさ\n  ・ハイライト / シャドー / 周辺光量\n  ・フィルムカメラ風エフェクト\n  ・トーンカーブ\n  ・フィルター（64 種）\n  ・ライトリーク（40 種）\n  ・スクラッチ（20 種）\n  ・グレイン / ブラー / 肌補正\n  ・LUT（.cube）の適用\n  ・編集プリセット保存\n\n- 写真ギャラリー\n  ・EXIF 閲覧・編集\n  ・自動編集\n  ・リサイズ / 回転 / 複製\n  ・撮影データの保存先（写真ライブラリ / ファイル / ライトボックス）\n  ・生体認証付きプライベートフォルダへの保存\n\n- ウィジェット\n  ・ホーム画面 / ロック画面 / コントロール ウィジェット\n  ・ライブアクティビティ\n  ※ショートカットボタンのカスタマイズ可能\n\n- ショートカット操作\n  ・ロック画面のカメラコントロールでのクイック起動\n  ・クイックアクション\n  ・アクションボタン\n\n- Apple Watch 連携\n  ・リアルタイムプレビュー\n  ・リモート撮影操作\n  ・撮影写真プレビュー\n  ・ライブアクティビティ\n\n- 連携\n  ・「ショートカット」アプリでのショートカット作成\n  ・シェアシートによる連携\n\n● ご注意\n※以下の機能はアプリ内購入が必要です。\n・4K / 60 fps ビデオ撮影\n・シネマティック手ぶれ補正\n・シネマティックビデオ撮影\n・Apple ProRes Log 撮影\n・スローモーション撮影\n・タイムラプス撮影\n・写真の一括自動編集 / 回転 / リサイズ\n・写真撮影モード時の LUT（.cube）適用\n・一部のフィルター\n・生体認証付きプライベートフォルダへの保存\n\n※TIFF は Live Photos、RAW、18 MP、24 MP と同時に選べません。\n※「ファイルに保存」では 18 MP / 24 MP は利用できません。ロック画面からの撮影は写真ライブラリへ保存されます。\n※Apple ProRes を 4K / 60 fps で撮影する場合、書き込み速度 220 MB / 秒以上・最大消費電力 4.5 W に対応した、iOS デバイス向け外付けストレージが必要です。4K / 120 fps の場合は、書き込み速度 440 MB / 秒以上が必要です。\n※本体への ProRes 撮影では、iOS 27 以降の対応機種でプロビデオストレージを利用できます。\n※バックカメラの 48 MP 写真撮影は、iPhone 14 Pro 以降のナンバリングシリーズで利用可能です。\n※48 MP 撮影に対応しているカメラレンズは、機種によって異なります。\n※フロントカメラの 18 MP 写真撮影は、iPhone 17 シリーズで利用可能です。\n\nMyCam Pro 2 は継続的なアップデートにより、最新の iOS 技術への対応と安定性の向上に努めています。\nご要望・不具合は、アプリ内の「フィードバック」よりご連絡ください。\nいただいた内容は、チームに共有されます。\n\nお問い合わせ: contact.dev.n.m@gmail.com",
+   "sellerName": "Naoya Maeda",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1566817391": {
+   "trackName": "オフトレカメラ",
+   "price": 500.0,
+   "averageUserRating": 4.65306,
+   "userRatingCount": 49,
+   "releaseDate": "2021-05-11T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T03:44:04Z",
+   "description": "オフトレカメラは、スキー・スノーボードのオフトレをサポートするタイマーカメラアプリです。\nボタンを押すと、指定した秒数だけ録画されて自動停止。トリックの瞬間だけを記録して、終わったら自動で省電力モードに切り替わります。長いハイクアップや寒い環境でも、バッテリーの消費を抑えられます。撮ったらすぐにリプレイで確認、そのまま次の一本へ。\n\nこんな時にも便利\n\n手袋のままで操作したい → 画面タップ/音量ボタンで録画開始\nカメラの前まで移動する時間がほしい → 録画開始を遅らせる\n画質にこだわりたい・容量を抑えたい → 画質/フレームレートを設定可\nフォームを細かくチェックしたい → スロー録画\n気づいたことを記録しておきたい → ノートを残せます\nインカメ撮影対応\n\nーーー\n\n「スマホで撮って、すぐ見返して、改善する。」そんなオフトレのスタイルを作ってきたのが、オフトレカメラです。自分たちも日々オフトレをするからこそ、納得いくまで何度もデザインやちょっとした使い心地にこだわって開発しています。\n「こんな機能があったら」「ここ使いにくいかも」など、オフトレする皆さんのリアルな声をお待ちしています。ぜひレビューで教えてください!",
+   "sellerName": "Ryu Wakimoto",
+   "genres": [
+    "写真／ビデオ",
+    "スポーツ"
+   ]
+  },
+  "6787737491": {
+   "trackName": "ProCam MK II - プロカメラ",
+   "price": 3000.0,
+   "averageUserRating": 5,
+   "userRatingCount": 9,
+   "releaseDate": "2026-07-20T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T15:16:25Z",
+   "description": "ProCamは、15年にわたりiPhone写真撮影の可能性を押し広げてきました。そしてProCam MK IIで、私たちはこれまでで最大の進化を遂げました。これまでで最も高機能なカメラアプリであるだけでなく、最も直感的に使えるアプリでもあります。\n\n私たちは、今日のiPhoneの使い方に合わせて、体験のすべてをゼロから見直しました。片手で快適に操作できるよう細部まで設計し、美しいLiquid Glassデザインを採用したProCam MK IIは、その見た目にふさわしい使い心地を実現しています。\n\n内部では、パフォーマンスを最大限に引き出すために撮影パイプライン全体を再構築しました。あらゆる操作がこれまで以上に高速で、滑らかで、レスポンス良くなっています。\n\nより多くの方にProCam MK IIをお使いいただけるよう、買い切り型を採用しました。サブスクリプションもアプリ内課金もありません。",
+   "sellerName": "Tinkerworks Apps",
+   "genres": [
+    "写真／ビデオ",
+    "ライフスタイル"
+   ]
+  },
+  "525176875": {
+   "trackName": "サン·サーベイヤー (Sun Surveyor)",
+   "price": 1500.0,
+   "averageUserRating": 4.13816,
+   "userRatingCount": 152,
+   "releaseDate": "2012-05-11T23:24:46Z",
+   "currentVersionReleaseDate": "2025-11-07T21:29:26Z",
+   "description": "サン·サーベイヤー(Sun Surveyor)は、太陽と月の位置(方位、高度、時間)を予測するモジュールを備えています： 3Dコンパス、マップビュー、カメラビュー（拡張現実）と詳細（天体暦）。サン·サーベイヤーは、映画や写真のロケーション·ハンティング、建築、太陽電池パネルの位置決定、ガーデニング、不動産、地学調査、その他多くの事に役立ちます！すべての日の出と日の入りに計画を！は、太陽と月の位置(方位、高度、時間)を予測するモジュールを備えています： 3Dコンパス、マップビュー、カメラビュー（拡張現実）と詳細（天体暦）。サン·サーベイヤーは、映画や写真のロケーション·ハンティング、建築、太陽電池パネルの位置決定、ガーデニング、不動産、地学調査、その他多くの事に役立ちます！すべての日の出と日の入りに計画を！\n\n以下にインタラクティブな機能を搭載しています。:\n - ゴールデンアワー、ブルーアワー、日の出、日の入、月の出と月の入を示して計画立てます。\n - 特定の場所での日の出・日の入、月を入れた撮影のための、最適な日時と角度を見つけ出せます。\n - 太陽と月の軌道を拡張現実プロジェクションで見る事ができ、太陽や月が特定の場所に位置する時間を正確に示します。\n - 地球上のどんな場所の視点からでも、1日または年間の太陽と月の運動を視覚化します。\n - どんな場所においても、夏至·冬至、春分·秋分の日の太陽の軌道を示します。\n- 天の川＆スター・トレイル機能で夜間撮影を準備\n\n特徴：\n - 太陽と月の位置·高度、日の出·日の入、影の比率、月の出·月の入、月相·輝いて見える部分の割合、トワイライトの時間、夏至·冬至·春分·秋分における太陽の軌道、ゴールデンアワー·ブルーアワー、太陽が最も高い時間\n- 天の川帯域と中心の可視化、スタートレイル可視化用のの天体コンパス\n - 3Dコンパス： 太陽と月の位置やイベント情報を、デバイスのベアリングと向きを表すコンパス上にオーバーレイする3Dプロジェクション\n - マップビュー： 太陽と月のイベント位置をインタラクティブマップ上にオーバーレイしたトップダウンビュー撮影位置をロックし、太陽と月のイベントで写真を整えられます！\n - ARカメラビュー： 携帯電話のカメラを通して、太陽と月が空のどこに位置するか、いつ建物の裏側に位置するかを示します。\n- ストリートビューのパノラマ - 選択した撮影位置でのマップビューが利用可能な場合、360度インタラクティブのパノラマが利用可能です。\n- 写真の機会 - 重要な時間帯のインタラクティブなリストで、アイデアをインスパイアするのに役立ちます。低位置での満月、天体観測のための真っ暗闇など、色々と有用です。\n- 位置検索 - 非常にパワフルなツールで、様々な設定の中で、太陽、月と天の川の中心位置を検索でき、完璧主義のプランナーの方にも有用です。\n- 撮影位置のインポートとエクスポート Google Earth の .kmz / .kml のプレイスマークのインポート、そして他のユーザーとのシェアやバックアップのためにエクスポートが可能です。\n - タイムマシーンスライダー： 1日のイベントを可視化したり、年間を通して日が長くなったり短くなったり、月の軌道が近づいたり遠のいたりするのが見れます。\n - オフライン使用（マップビューを除く）： 座標を入力し、撮影位置を保存したり開いたりして、データ接続やGPSが利用不可能な場所でもアプリは機能します。\n- 9個のホームスクリーンのウィジェット、2個のロックスクリーンのウィジェット\n - スクリーンショットと詳細の送信\n - 影の比率と投影、影の視覚化\n - ローカル、自動検出、マニュアルでの、タイムゾーンの選択\n - 偏角の埋め合わせ",
+   "sellerName": "Adam Ratana",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "679454835": {
+   "trackName": "Rarevision VHS: Retro Cam",
+   "price": 1000.0,
+   "averageUserRating": 4.59321,
+   "userRatingCount": 472,
+   "releaseDate": "2015-08-17T19:31:39Z",
+   "currentVersionReleaseDate": "2025-11-07T09:57:53Z",
+   "description": "Used by Kendall Jenner, Snoop Dogg, BTS, Ariana Grande, Khloe Kardashian, Wiz Khalifa, Victoria Beckham, Die Antwoord and featured on SNL (S41E01) and in countless TV shows and music videos!\n\nCovered by WIRED, Forbes, The Wall Street Journal, Popular Mechanics, The Independent, Macworld, TMZ, TechCrunch, Mashable and many others!\n\nApp of the Day for Friday, Dec 22, 2017\n\nIt's 1984, and you've got a VHS camcorder! It'll look that way when you record and send old, messed up-looking retro videos to friends. They'll swear you built a time machine: \"OMG, how'd you shoot that?\"\n\nWith Rarevision VHS, you'll make videos that look and sound like real retro video tapes pulled out of storage after 30 years. You can change the on-screen date to trick your friends, create custom animated titles, glitch up the picture by shaking your device and use the fake zoom to emphasize those truly embarrassing moments!\n\n\"That's freakin' amazing!\" -Everyone\n\nHere's Why You Need It:\n\n• Four words: Best. Throwback. Videos. Ever.\n• Create VHS-style retro videos of your kids that look like the ones from your childhood\n• The only VHS cam app you should ever consider to capture your 80s and 90s-themed parties\n• Shoot your own \"found footage\" movie and become a big Hollywood director like those other guys\n• Make your kids' incredibly boring school plays actually rad\n• Impress the new girl by using our app to convince her you built a time machine\n• Pretend like you lived through the rad 1980s using our app!\n\nWhat Rarevision VHS Can Do:\n\n• Realism: the ORIGINAL and BEST VHS cam app for simulating the glitches of old videotape recordings\n• Import videos and give them the VHS look\n• Make your own signature look using the old-school picture adjustment menu\n• Create your own animated titles for the ultimate in on-screen awesomeness\n• Change the on-screen date so people think you're way younger (or older) than you really are\n• Glitch the picture during recording using your finger or by shaking your device\n• Fake zoom feature dramatically enhances the cheese factor\n• Don't think we forgot to make things sound retro terrible. We didn't.\n• Up to 60p recording for a more accurate VHS video look (depends on device capability)\n• Widescreen recording option (but would you REALLY want to use it?)\n\nFollow Rarevision:\nhttp://instagram.com/rarevision\nhttp://x.com/rarevision\nhttp://facebook.com/rarevisionvhs\n\nRarevision is a US-based company.\n\nCopyright © 2015-2025 Rarevision LLC. All rights reserved.",
+   "sellerName": "Rarevision LLC",
+   "genres": [
+    "写真／ビデオ",
+    "ソーシャルネットワーキング"
+   ]
+  },
+  "1579636154": {
+   "trackName": "OneCam 2 高画質マナーカメラ",
+   "price": 600.0,
+   "averageUserRating": 4.44688,
+   "userRatingCount": 320,
+   "releaseDate": "2021-08-29T07:00:00Z",
+   "currentVersionReleaseDate": "2025-10-22T03:44:24Z",
+   "description": "■ 旧OneCamは＜AppStore BEST OF 2018, 2016, 2011 トップApp受賞＞\n\n■ 2011年3月リリースから10年半で68回の無料アップデートを続け、信頼度もNO.1でした！\n\n■ 使いやすさはそのままで、さらに高性能、便利にアップグレードしたのがOneCam 2です。\n\n◉ iPhoneの最高画質で手ぶれ補正も効いて高解像度で撮影\n\n◉ シャッターボタンと明るさバー以外を消して、撮影に集中できる集中モードボタン\n\n◉ 超広角レンズや望遠レンズの固定に対応、倍率ボタンで簡単にレンズを切り替え\n\n◉ iPhone 17 Pro, ProMaxのズーム倍率、７種類 (x0.5, x1, x1.2, x1.5, x2, x4, x8)\n\n◉ ズーム倍率、４種類（x5, x10, x15, x20）設定可能\n    iPhone 17 Pro, ProMaxは、４種類（x5, x20, x40, x60）設定可能\n\n◉ マクロ撮影対応機種は超広角レンズでマクロ撮影（接写撮影）可能\n\n◉ 写真の位置情報を削除\n\n◉ カメラ画面の右側の露出（明るさ）スライダーで簡単に明るさを調節\n\n◉ カメラ画面のカラーをお好きな色に設定でカスタマイズ\n\n◉ エフェクト調整、クロップ（切り抜き）や回転、反転など写真を自由に編集\n\n◉ 画面の上下スワイプで写真ビューを表示したり消したりできるクイックプレビュー\n\n◉ 写真の閲覧や削除、EXIFなどの情報も簡単に確認\n\n【機能】 \n\n- 固定式の超広角、広角、望遠レンズ、マクロ撮影（対応機種のみ）\n\n- エフェクト（鮮やかさ、明るさ、コントラスト、色温度、白黒）\n\n（編集画面を長押しすると、オリジナル画像が確認できます）\n\n- 写真編集（切り抜き、回転、反転）\n\n- 手振れ補正と最高画質（劣化無し）\n\n- ファイルの保存サイズが小さくなるHEICフォーマット（対応機種のみ）\n \n- カメラ画面を設定でお好きな色にカスタマイズ\n\n- カメラコントロールやボリュームボタンの撮影（自撮り棒などのBluetooth撮影対応）\n\n- アプリのアイコン（6種類）を変更可能\n\n- 本体左側のサイレントスイッチで有音、消音を切り替え\n\n- ホワイトバランス、フォーカス(ロック対応) 、露出(ロック対応)\n\n- デジタルズーム 最大 x20　一部機種 x60（あるところまでは画質が綺麗で変わらない） \n\n- ジオタグ(位置情報)、ライト、グリッド、写真サイズの表示 \n\n- 写真の位置情報を削除\n\n- カメラロールの閲覧(ズーム、回転対応) \n\n- 写真の削除\n\n- メターデータやExif, GPS情報の表示 \n\n- Twitterのハッシュタグ\n\n- iPhoneの明るさ調節 \n\n- 日付+時間スタンプ(白、黒、オレンジ、カスタム) \n\n- セルフタイマー\n\n- 連写（バーストモード）枚数設定可能\n\n■ URL スキーム onecampro://\n\n【写真サイズ】\n- 4 : 3、1 : 1、 3 : 2、16 : 9 \n\n- iPhone X 以上の全画面サイズ\n- 4Kオーバーサイズ\n- 一眼レフ比率 3 : 2\n- 工事などの電子納品対応サイズ\n- 小さいサイズも選択可能\n- セルフィも高解像度\n\n- 4032x3024、3024x3024\n- 4032x2688\n- 4032x2268\n- 4032x1862\n- 1600x1200、1200x1200 \n- 1280x960\n- 1920x1080\n- 852x640、640x480、640x640\n\n===注意 ===================== \n- iOS18.6以降が必要です。（OneCamはセキュリティーなどから、常に最新バージョンでお使いください。その為、古いiOSのサポートは早めに打ち切ります）\n-  機種によって内容が一部異なります。\n- 対応機種  iOSのバージョンに対応した機種。\n- iPhone専用アプリの為、iPad, iPodTouchはサポート外です。 \n===========================",
+   "sellerName": "masahiro seto",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "730712409": {
+   "trackName": "ProCam - プロカメラ",
+   "price": 1500.0,
+   "averageUserRating": 4.53541,
+   "userRatingCount": 13300,
+   "releaseDate": "2013-10-30T21:19:25Z",
+   "currentVersionReleaseDate": "2026-09-30T15:17:27Z",
+   "description": "***買い切り、サブスクリプションなし***\n\n撮影モード\n\n- 写真\n- スローシャッターモード \n- ポートレート \n- 3D写真 \n- 感度調整付き手ぶれ補正 ( 高　/ 中 / 低 ) \n- バーストモード\n- セルフタイマー \n- インターバル \n- 拡大表示ボタン \n- ビデオ \n- 4K Ultra HD ビデオ- 3840x2160\n- 4K Max ビデオ - 4032x2268 - アプリ内購入\n- スローモーションビデオ\n- タイムラプス\n- 4K Ultra HD タイムラプス - 3840x2160\n- 4K Max タイムラプス - 4032x2268 - アプリ内購入\n\nカメラ機能\n\n- マニュアルフォーカス、露出度、シャッタースピード、ISO感度、ホワイトバランスの調整が可能\n- フォーカスと露出のフルコントロール ( タッチフォーカス / タッチ露出 ) \n- フォーカス、露出、ホワイトバランス (WB) ロック \n- アスペクト比調整可能 (4:3 / 3:2 / 16:9 / 1:1) \n- ロスレスTIFF形式 -  iPhone 4Sまたはそれ以降のみ\n- は四つのシャッタースピードオプションが利用できます (1/8 sec / 1/4 sec / 1/2 sec / 1 sec) \n- ビデオの一時停止/再開機能 \n- ビデオ画質調整可能 ( フル HD: 1080p / HD:720p / VGA: 640x480) \n- ビデオ録画中に静止画を撮影する機能 \n- リアルタイムビデオ手ぶれ補正 ( オン/オフ可能 ) \n- ビデオディスク容量カウンター \n- タイムラプスビデオ解像度 ( フル HD: 1080p / HD:720p / VGA: 640x480) \n- 6 倍デジタルズーム \n- ビデオズーム \n- オーディオメーター (レベル 平均 / ピーク) \n- Geo タグ \n- 整合格子 ( 三等分 / 三分割 / 黄金比 / 水平比 ) \n- 前部 / 後部カメラサポート \n- 日スタンプ \n- 時スタンプ \n- ロケーションスタンプ \n- 著作権スタンプ \n- ビデオ日スタンプ \n- ビデオロケーションスタンプ \n- ビデオ著作権スタンプ \n- 時間経過日スタンプ \n- 時間経過ロケーションスタンプ \n- 時間経過著作権スタンプ \n- 時間経過ビデオ内にサウンドトラックを挿入する事も可能です \n- フラッシュ設定 ( 自動 / オン / オフ / トーチ ) \n\n写真/動画編集ソフト\n\n- 非破壊編集 - クロッピングを含む全ての編集において修正と復元が可能です\n- 手づくりした60のフィルター\n- 17つのライブレンズ: ビネット / 白ビネット /  魚眼レンズ効果 / あおり効果 / 接写 / 小さな惑星 / ワームホール / シンメトリー / 万華鏡効果 I, II, III, IV, V / リップル / ストライプ / ハッチ / ハーフトーン\n- 19の包括的調整ツール\n- トリミング、クロップ、回転、反転、ゆがみ補正、パースペクティブ補正機能つき\n- 極めて正確なタイムライン機能。動画を1フレームずつ確認できます\n- 音楽トラックをビデオに追加\n- オリジナル音声とBGM両方の音量調節が可能\n- 動画からの静止画切り出し機能つき\n- 4K(3840x2160)までの高画質映像をサポート\n\n一括フォト処理\n\n- 一括スタンプ：アルバム内の写真複数を日付 / 時刻/ 場所/ コピーライトでスタンプ\n- 一括サイズ変換：アルバム内の写真複数をサイズ変換\n\nご意見・ご感想  \n\n何か問題がありますか ? 今後のアップデートに向けてご意見やご提案はありませんか ? support@procamapp.com までお寄せください。",
+   "sellerName": "Tinkerworks Apps",
+   "genres": [
+    "写真／ビデオ",
+    "ライフスタイル"
+   ]
+  },
+  "1489041267": {
+   "trackName": "WatchVideo Player",
+   "price": 300.0,
+   "averageUserRating": 4.63874,
+   "userRatingCount": 191,
+   "releaseDate": "2019-12-10T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-27T20:14:16Z",
+   "description": "WatchVideoはApple Watch専用のメディアプレーヤーです。\n\n● 動画とオーディオを高画質再生\n● いつでもオフライン再生\n● Apple Watchスピーカーまたはヘッドフォン使用\n● フォルダで整理\n● 全曲再生やシャッフル再生モード\n● 最後の位置から再生再開\n● Now Playingアプリ対応 \n● ポッドキャストやオーディオブックの追加\n● 文字盤から直接再生\n● 最近再生した順、名前順、再生時間順、追加日順で並べ替え\n● 4つの表示方法から選択\n● プレーヤーのプログレスバーをタップして、動画の早送りまたは巻き戻し\n\nメディア追加:\n● iPhone、iCloud、Google Drive、Dropbox、その他のソースから\n● URL使用 (YouTube非対応)\n● 写真やメールなどの他のアプリから\n\n対応動画形式:\n● MP4, MOV, M4V\n対応オーディオ形式:\n● MP3, M4A, AAC, M4B, WAV, AIF, AIFF, AU, CAF, FLAC",
+   "sellerName": "Atlum Limited",
+   "genres": [
+    "写真／ビデオ",
+    "ミュージック"
+   ]
+  },
+  "908905093": {
+   "trackName": "Lumy - 太陽トラッカー・アウトドアと写真",
+   "price": 1190.0,
+   "averageUserRating": 4.71818,
+   "userRatingCount": 330,
+   "releaseDate": "2014-08-27T16:42:03Z",
+   "currentVersionReleaseDate": "2026-09-17T17:35:45Z",
+   "description": "Lumyは、モダンな太陽トラッカー＋アウトドアアクティビティプランナーです。\n\n- 写真や動画に最適な光？完璧。\n- 日の出ハイキングや夕日の散歩？簡単。\n- 屋外ヨガや日光浴？お任せ。\n\nゴールデンアワー*を追いかけたり、星空観察のために月の満ち欠けを追跡したり、Lumyは自然光を最大限に活用するお手伝いをします。\n\nゼロから再設計 - Lumyはより個人的で、目的に沿った、あなたの暮らしに寄り添うアプリになりました。\n\nモード機能の導入：日常、撮影、瞑想などのプロファイルを切り替えて、Lumyをあなたのルーティンに合わせてカスタマイズ。必要な情報だけを表示します。\n\nLumyは、iOSの「心の状態」機能にも対応。ヘルスケアAppの気分記録に基づいて日光のアドバイスを提供し、外に出て自然とつながるきっかけを優しく促します。\n\n7日間の天気予報と組み合わせることで、安心して計画を立てられます。Lumyはすべての太陽と月のデータを完全にデバイス上で計算します。追跡なし。サーバー通信なし。天気情報のみインターネットが必要です。\n\nLumyは、iPhone、iPad、Apple Watch、Apple TV、HomePodでシームレスに動作します。一度の購入で、ファミリー共有が可能です。\n\n機能\n\n- モード：ニーズに応じてプロファイルを切り替え...平日の計画から週末のゴールデンアワーまで。\n- 太陽＋月の追跡：正確なデータ、太陽コンパス、未来予測。\n- 季節情報：天文学的季節と気象学的季節の両方。\n- リマインダー：カスタマイズ可能な繰り返し通知。\n- Apple Watch：コンプリケーション、ダブルタップ、ライブアクティビティ。\n- ウィジェット＋コントロールセンター：スマートスタックなどからクイックアクセス。\n- インタラクションの向上：タイムトラベルスライダー、クイックアクセスボタン、滑らかなアニメーション。\n- ビジュアル：光のシミュレーション、きらめく輝き、強化されたクラシックビジュアル。\n- アクセシビリティ：VoiceOver、ダイナミックタイプ、視差効果を減らす、など。\n- プライバシー優先：完全オフライン動作（天気を除く）。あなたのデータはあなたのもの。\n- ローカライゼーション：日本語、中国語、フランス語、ドイツ語に対応。\n\nLumyは、写真家、アウトドア愛好家、ウェルネスを追求する人々が太陽と月と調和するお手伝いをします。\n\n*ゴールデンアワーとは？\n\nゴールデンアワー（マジックアワー）は、日の出直後または日の入り直前の短い時間帯で、光が柔らかく温かく、美しい写真や動画を撮影するのに最適な時間です。\n\n利用可能な太陽情報：\n\n日の出、日の入り、初光、終光、ゴールデンアワー、ブルーアワー、天文薄明、航海薄明、市民薄明、南中、子午線通過。\n\n利用可能な月の情報：\n\n月の出、月の入り、高度、方位角、南中、南中時の仰角、週間月相、次の満月、新月、上弦、下弦。\n\nフィードバックやご提案はありますか？ぜひお聞かせください！hello@waplestuff.comまでご連絡ください。",
+   "sellerName": "Raja Vijayaraman",
+   "genres": [
+    "写真／ビデオ",
+    "天気"
+   ]
+  },
+  "793232740": {
+   "trackName": "Cadrage Director's Viewfinder",
+   "price": 3000.0,
+   "averageUserRating": 4.56923,
+   "userRatingCount": 65,
+   "releaseDate": "2014-01-19T17:10:11Z",
+   "currentVersionReleaseDate": "2026-09-25T20:18:10Z",
+   "description": "Cadrage(カドレージ) ディレクターズ ビューファインダー - あなたの撮影ワークフローを変革するアプリ\n\nCadrageはあらゆるプロ仕様のカメラとレンズの組み合わせを正確なフレーミングでプレビューし、プリプロダクション段階から撮影日まで、チーム内で一貫したイメージの共有を実現します。\n\n◈◈◈ 撮影プランニングがこれまでになく簡単になります。今すぐCadrageをダウンロードして、劇的に撮影ワークフローを変革しましょう。  ◈◈◈\n\n特徴\n\n● 数千のカメラとレンズの組み合わせによる正確なプレビュー\n● 写真の保存と動画の録画\n● 任意のアスペクト比でカスタムフレームラインを追加\n● お住まいの地域で、任意の日付の太陽の軌道を追跡しましょう\n● ギャラリーとプロジェクトマネージャーを内蔵\n● 見やすい撮影リストPDFを作成し、Dropboxに直接アップロードしたり、メールで送信したりすることができます。\n● 露出、フォーカス、ホワイトバランスのマニュアルコントロール\n● プロ仕様の3WAYカラーコレクションで最終的な仕上がりを視覚化\n● デュアルカメラおよびトリプルカメラをサポート\n\n◈◈◈ 撮影プランをチーム内で簡単に共有。今すぐCadrageをダウンロードして、撮影日を最大限に活用しましょう。 ◈◈◈\n\n\n◆ 映像製作カメラ ◆\nARRI Alexa 265, Alexa 35, Alexa 35 Xtreme, Alexa 65, Alexa Classic, Alexa LF, Alexa Mini, Alexa Mini LF, Alexa SXT, Alexa XT, Amira, D-21\nBlackmagic Cinema Camera, Cinema Camera 6K, Micro Cinema Camera, Micro Studio Camera 4K, Pocket Cinema Camera, Pocket Cinema Camera 4K, Pocket Cinema Camera 6K, Pocket Cinema Camera 6K Pro, Production Camera 4K, PYXIS 12K, PYXIS 6K, Studio Camera 4K, Studio Camera 4K Plus, Studio Camera 4K Pro, Studio Camera HD, URSA, URSA (Broadcast), URSA 4.6K, URSA Cine 12K LF, URSA Cine 17K 65, URSA Mini 4.6K, URSA Mini 4K, URSA Mini Pro, URSA Mini Pro 12K, URSA Mini Pro 4.6K G2\nCanon C100, C100 Mark II, C200, C300, C300 Mark II, C300 Mark III, C400, C50, C500, C500 Mark II, C70, C700, C80\nDJI Ronin 4D (6K), Ronin 4D (8K), Zenmuse X7\nFilm 16mm, 35mm, 65mm/70mm, 8mm\nFreefly Systems Ember S2.5K, Ember S5K, Wave\nFujifilm GFX Eterna 55\nGeneric Broadcast \nKinefinity KineMAX, KineMini, Mavo, Mavo Edge, Mavo LF, TERRA\nPanasonic AF101, DC-BGH1, EVA1, HDX 900, VariCam 35, VariCam LT\nPanavision DXL, DXL2\nPhantom 65, Flex, Flex4K, HD GOLD, Miro LC321S, v2640 ONYX, VEO4K-PL\nRED Dragon-X, Epic Dragon, Epic-W (Helium), Epic-X, Gemini, Komodo, Komodo-X, Monstro-VV, One, Ranger (Gemini), Ranger (Helium), Ranger (Monstro), Raven, Scarlet-W (Dragon), Scarlet-X, V-Raptor S35, V-Raptor VV, V-Raptor XE VV, V-Raptor XL S35, V-Raptor XL VV, Weapon (Dragon-VV), Weapon (Helium)\nSony Burano, F23, F3, F35, F5, F55, F65, F900, FS100, FS5, FS5 Mark II, FS7, FS7 Mark II, FS700, FX2, FX3, FX30, FX6, FX9, HDC-1500R, Venice, Venice 2 (6K), Venice 2 (8K)\nZ CAM E2, E2-F6, E2-F8, E2-M4, E2-S6, E2-S6G, E2C, E2G\n\n\n◆ 写真撮影カメラ ◆\nCanon 1000D/XS, 100D, 10D, 1100D/T3, 1200D/T5, 1300D/T6, 1D, 1D C, 1D Mark II, 1D Mark III, 1D Mark IV, 1D X, 1D X Mark II, 1D X Mark III, 1Ds, 1Ds Mark II, 1Ds Mark III, 200D/SL2, 20D, 30D, 350D/XT, 400D/XTi, 40D, 450D/XSi, 500D/T1i, 50D, 550D/T2i, 5D, 5D Mark II, 5D Mark III, 5D Mark IV, 5DS, 600D/T3i, 60D, 650D/T4i, 6D, 6D Mark II, 700D/T5i, 70D, 750D/T6i, 760D/T6s, 77D, 7D, 7D Mark II, 800D/T7i, 80D, 850D/T8i, 90D, M50, R, R5, R6, Ra, RP\nFilm (Still) 35mm (135), APS, Large Format, Medium Format, XPan\nFujifilm GFX 100, GFX 100S, GFX 50R, GFX 50S, X-A7, X-H1, X-Pro2, X-Pro3, X-S10, X-T2, X-T200, X-T3, X-T4, X100V\nHasselblad Digital Medium Format\nLeica CL, M10/M10-R, M8/M8.2, M9/M9-P, S, S2, SL, SL2, SL2-S\nMamiya Leaf Credo Series\nNikon D1, D100, D1H, D1x, D200, D2H, D2Hs, D2x, D3, D300, D3000, D300s, D3100, D3200, D3300, D3400, D3s, D3x, D4, D40, D40X, D4s, D50, D500, D5000, D5100, D5300, D5500, D5600, D60, D600, D610, D70, D700, D7000, D70s, D7100, D7200, D750, D7500, D80, D800, D810, D850, D90, DF, Z50, Z6, Z7\nOlympus E Series\nPanasonic GH1, GH2, GH3, GH4, GH5, GH5S, S1, S1H, S1R, S5\nPentax 645D, 645Z, K Series\nPhase One Achromatic+, IQ Series, P 30+, P 40+, P 45+, P 65+\nSigma fp, fp L, SD1, SD15\nSony A290, A390, A450, A580, A6000, A6300, A6500, A6600, A7 III, A7C, A7r II, A7r III, A7r IV, A7s, A7s II, A7s III, A850, A9, A9 II, A900, A99, SLT-A37K, SLT-A57, SLT-A65, SLT-A77\n\nアプリの言語: 英語",
+   "sellerName": "Cadrage GmbH",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "1084325249": {
+   "trackName": "ShutterCount Mobile",
+   "price": 1500.0,
+   "averageUserRating": 4.18182,
+   "userRatingCount": 11,
+   "releaseDate": "2016-04-04T09:03:16Z",
+   "currentVersionReleaseDate": "2026-09-03T00:32:11Z",
+   "description": "*** The original, most feature-rich and only iOS shutter count reader that works with all new Canons ***\n\nShutterCount displays the number of shutter actuations (the shutter count) of your Canon EOS, Nikon or Pentax digital camera - see the complete list of certified models below. The shutter count is read directly from USB or Wi-Fi connected Canons, and from image files for Nikon and Pentax cameras. With ShutterCount you can easily check whether a newly purchased camera is really new, or how heavily used a pre-owned item is. And you can save a trip to a service center by doing the reading for yourself.\n\nBASE FEATURES\n\n• Unlimited readings\n• Counter for still photos\n• Wear indicator with numeric and graphical rated shutter life percentage display\n• History logging to track camera usage; logs are stored in CSV format that can be imported into Numbers or Excel for further processing\n• Reports in plain text format\n• Wizard to guide you through the reading process\n\nLIVE VIEW PACK (optional in-app purchase supporting select Canon models)\n\n• Counters for live view/videos and electronic shutter\n• Distribution chart\n\nPLUS PACK (optional in-app purchase)\n\n• Graphing\n• Shutter life forecasting (not available for some Nikon and Pentax models)\n• History deduplication\n• Canon EOS camera management (date/time sync, owner name editing, copyright information setting, outdated firmware warning, IPTC export/import)\n• Raw copyright information display and secure personal data wiping for Canons\n\nCERTIFIED CAMERAS\n\nUSB connection (requires a Lightning to USB Camera Adapter or a USB-C equipped iPad; Wi-Fi on the camera must be disabled):\n• Canon 1D4/1DC/1DX/1DX2/1DX3/5D2/5D3/5D4/5DS/5DSR/6D/6D2/7D/7D2/40D/50D/60D/60Da/70D/77D/80D/90D/100D/200D/200D2/250D/450D/500D/550D/600D/650D/700D/750D/760D/800D/850D/1000D/1100D/1200D/1300D/1500D/2000D/3000D/4000D/8000D/9000D/C50/M6II/M50/M50II/R/R1/R3/R5/R5C/R5II/R6/R6II/R6III/R7/R8/R10/R50/R100/Ra/RP; Kiss F/M/M2/X2/X3/X4/X5/X6i/X7/X7i/X8i/X9/X9i/X10/X10i/X50/X70/X80/X90; Rebel SL1/SL2/SL3/T1i/T2i/T3/T3i/T4i/T5/T5i/T6/T6i/T6s/T7/T7i/T8i/T100/XS/XSi\n\nWi-Fi/Ethernet connection is supported using built-in networking or Canon transmitters on the above cameras having the \"EOS Utility\" function. The camera must be paired directly with ShutterCount using this function.\n\nImage files:\n• Nikon D2H/D2X/D2Xs/D3/D3S/D3X/D4/D4S/D5/D6/D40/D40X/D50/D60/D70/D70s/D80/D90/D200/D300/D300S/D500/D600/D610/D700/D750/D780/D800/D800E/D810/D850/D3000/D3100/D3200/D3300/D3400/D3500/D5000/D5100/D5200/D5300/D5500/D5600/D7000/D7100/D7200/D7500/Df/Z5/Z5II/Z6/Z6II/Z6III/Z7/Z7II/Z8/Z9/Z30/Z50/Z50II/Zf/Zfc/ZR; 1 AW1/J1/J3/J4/J5/V1/V2/V3; Coolpix A\n• Pentax *istDL/*istDL2/645D/645Z/K1/K1II/K3/K3II/K3III/K3IIIMono/K5/K5II/K5IIs/K7/K10D/K20D/K30/K50/K70/K100D/K100D Super/K200D/K500/K2000/Km/KP/Kr/KS1/KS2/Kx\n\nCameras not listed here are not supported.\n\nFOR DETAILED COMPATIBILITY INFORMATION PLEASE VISIT: https://www.direstudio.com/shuttercount/tech-specs\n\nQuestions? Problems? Check out the Getting Started Guide (https://www.direstudio.com/shuttercount/getting-started), the FAQ (https://www.direstudio.com/shuttercount/faq), or contact our support by tapping Report a Problem on the More tab!\n\nDISCLAIMER: The app displays the camera's internal counter. DIRE Studio is not responsible for how well and accurately the camera maintains that counter. The forecast is calculated based on your previous usage, and will change if you use the camera differently in the future.",
+   "sellerName": "DIRE Studio Kft.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1062022008": {
+   "trackName": "LumaFusion",
+   "price": 4000.0,
+   "averageUserRating": 4.70073,
+   "userRatingCount": 12140,
+   "releaseDate": "2016-12-22T17:46:08Z",
+   "currentVersionReleaseDate": "2026-10-02T16:05:40Z",
+   "description": "LumaFusion: ビデオ編集のための究極のストーリーテリング体験\n\nApp Store 2021年度「App of the Year」および「Editors' Choice Award」受賞！世界中のクリエイターのゴールドスタンダード。流動的で直感的なタッチスクリーン編集体験。\n\nプロフェッショナル編集\n• 6つのビデオ/オーディオまたはグラフィックトラック: 4K ProResとHDRメディアをスムーズに処理\n• 6つの追加オーディオトラック: サウンドスケープを構築\n• 究極のタイムライン: 世界で最も柔軟なトラックベース＆マグネティックタイムライン\n• 豊富なトランジション、外部モニタープレビュー\n• マーカー、タグ、メモで整理整頓\n• ナレーション: ムービー再生中に録音可能\n\nレイヤーエフェクトと色補正\n• グリーンスクリーン、ルミナンスキー、クロマキー\n• Lock & Load ビデオスタビライザー\n• パワフルな色補正、ビデオ波形、ベクタースコープ、ヒストグラム\n• LUT: .cubeまたは.3dl LUTsをインポート・適用\n• 無制限のキーフレーム: エフェクトを正確にアニメーション化\n• カスタマイズ可能なテキストとエフェクトプリセット\n• グリッドとガイド: タイトルセーフ、アクションセーフ、横線\n\n高度なオーディオコントロール\n• グラフィックEQ、パラメトリックEQ、ボイスアイソレーション\n• キーフレームオーディオレベル、パンニング、EQ\n• ステレオ/デュアルモノラルオーディオ対応\n• オーディオダッキング、サードパーティプラグイン\n\nクリエイティブなタイトルとマルチレイヤーテキスト\n• マルチレイヤータイトル: 図形、画像、テキストを組み合わせ\n• カスタムフォント、色、枠線、影\n• タイトルプリセットの保存と共有\n\nプロジェクトの柔軟性とメディアライブラリ\n• あらゆる用途のアスペクト比: シネマからソーシャルメディアまで\n• 18fps〜240fpsのフレームレート\n• 写真、Frame.io、USB-Cドライブから直接編集\n• クラウドストレージからメディアをインポート\n\n傑作をシェア\n• 解像度、品質、フォーマットをコントロール\n• ソーシャルメディア、ローカル/クラウドストレージに共有\n• 複数デバイスでシームレスにプロジェクト転送\n\n拡張機能（個別購入またはCreator Passサブスクリプションで全て入手）\n• スピードランピングと拡張キーフレーミング - スピードランプ、ベジェ曲線、イージングを作成\n• XMLエクスポート: Mac用Final Cut Proに送信\n• マルチカムスタジオ: 6カメラ/オーディオ同期、タップでアングル切替\n\nCreator Passサブスクリプション\n• Storyblocks完全アクセス: ロイヤリティフリー音楽、SFX、ビデオ、さらに全拡張機能\n\nサポート\n• チュートリアル: www.youtube.com/@LumaTouch\n• 参照ガイド: luma-touch.com/lumafusion-reference-guide\n• サポート: lumatouch.co/support",
+   "sellerName": "Luma Touch LLC",
+   "genres": [
+    "写真／ビデオ",
+    "ミュージック"
+   ]
+  },
+  "6748837351": {
+   "trackName": "Moment Pro Camera II",
+   "price": 1500.0,
+   "averageUserRating": 4.44118,
+   "userRatingCount": 34,
+   "releaseDate": "2025-11-14T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T17:23:23Z",
+   "description": "Your Camera, Your Looks, Your Way.\n\nMoment Pro Camera II turns your phone into your favorite camera for photography and filmmaking. Shoot like a pro with full manual controls, creative looks, and an upgraded interface – all in one intuitive app.\n\nWhat’s New in Pro Camera II?\n\nOur first pro camera app has been the #1 rated camera app for years. Now, it’s time for the next chapter. We’ve re-engineered Pro Camera II from the ground up to give you better performance, advanced controls, and new customizable interfaces and shooting modes.\n\nKey Features:\n\n• Pro-Level Exposure Control – Our smart exposure system allows you to take control with Shutter Priority, ISO Priority, Manual, and Auto exposure modes, including the ability to limit Auto ISO to a specific range.\n• Upgraded White Balance – Beyond auto white balance, you can manually configure temperature and tint, choose a preset, or calibrate via a gray card.\n• Advanced Photo Options – Control the level of processing and HDR applied to your photos. Shoot in RAW, ProRAW, TIFF, HEIF, or JPG.\n• Cinematic Video Tools – Apple Log, Open Gate, ProRes, 10-bit recording, and more. Adjust the resolution, color space, frame rate, codec, bitrate, and chroma subsampling for total creative freedom.\n• Precision Monitoring – Get pro-level feedback with Waveform, RGB Histograms, and audio meters — normally reserved for cinema cameras.\n• Aspect Ratio – Frame your shot within your favorite aspect ratio (4:3, 16:9, 3:2, 5:4, 1:1)\n• Designed for All Creators – A beautiful, intuitive interface that adapts to how you shoot. Swipe, tap, and adjust anything immediately with one hand (including a dedicated left-handed layout), or go distraction-free with Zen Mode. Works natively in landscape orientation.\n• Looks, Your Way – Apply creative Looks or import your own LUTs to video and photos. Preview them live, bake them into your footage, or adjust intensity on the fly.\n• Focus Tools That Just Work – Separate reticles for exposure and focus with a tap, or dial in the shot with Manual Focus and Focus Peaking.\n• Quick Actions, Faster Shooting – One swipe to reach your most used tools: flash, stabilization, zebras, focus peaking, grids, and more.\n• Intuitive Lens Control – Remove the guesswork of which lens you are using and eliminate surprises with our Optic Controls. Say goodbye to shaky zoom with our fluid zoom control.\n• Hardware-Ready – Optimized for every iPhone, with seamless integration for external mics and Moment’s entire lens + case ecosystem.\n\nUpcoming Feature Releases\n• Look Store: purchase creator color grades and film emulations\n• Slow Shutter and Timelapse modes\n• Advanced Profile sharing and collaboration tools\n• Extended hardware integration partnerships\n\nWe love hearing from our community. For feature requests, ideas, or support, email us at hello@shopmoment.com or message us @momentprocamera on social media.\n\nFully Compatible with iPhone and Moment's complete ecosystem of lenses, cases, and accessories.",
+   "sellerName": "Moment Inc.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1241570625": {
+   "trackName": "星撮りカメラさん2",
+   "price": 680.0,
+   "averageUserRating": 4,
+   "userRatingCount": 39,
+   "releaseDate": "2017-08-11T00:35:35Z",
+   "currentVersionReleaseDate": "2026-09-10T18:06:33Z",
+   "description": "iPhoneでなるべく綺麗に星を撮るためのカメラアプリです。\n\n### 使い方\n１．気温が低くて星のよく見える場所に行く\n２．iPhoneを三脚などに固定する（これが1番重要）\n３．撮影モードを選択\n４．シャッタースピード、ISO感度で明るさ調整\n５．シャッターボタンを押す\n\n### モード毎の特徴\n星空：明るい星を目立たせて肉眼に近い写り\n星グル：星グル写真撮影用（30分撮影すればだいぶ星グル感でてきます）\n天の川：天の川や細かい星までクッキリ写したい場合\n夜景：何も加工したくない場合。低ノイズ\n比較明：比較明合成（蛍や花火、ライトトレイルの撮影など）\n\n### 綺麗に撮る為に\n・長時間撮影するので手持ちでは撮れません。ミニ三脚でもいいし、カメラを上に向けてテーブルに置いてもいいので、とにかく固定して撮影してください。\n・フォーカスの微調整\n・撮影後、純正写真アプリで明るさ、コントラスト、色合いなどを好みに合わせていじるとより見栄えのいい写真に仕上げることができます。\n・三日月くらいの月がある夜に撮影すれば空の色も綺麗に出て星も映るのでおすすめです。天の川の撮影は月がまったく無いほうがいいです。\n\n### フォーカスの微調整\n１．画面中央に1等星や2等星などの明るい星を入れる\n２．フォーカスボタンを押すと画面が拡大されるので、スライダーで大まかに移動してからステッパーで星が一番小さくなる位置に設定する\n３．わかりにくい場合はフォーカス位置を変えて撮影して見比べてみる\n\n### 星グルモードについて\n　他のモードと違い星グルモードと比較明モードではシャッタースピードで明るさを変えることはできないのでISO感度で調整してください。\n　まずは120秒でテスト撮影してISO感度などを調整してから1800秒や3600秒で本番撮影すると失敗を減らせます。\n　星空モードでは長時間撮影すると真っ白になってしまうような場所でも撮れるので都市星景にも向いてます。\n　銅像やモニュメントと一緒に撮影しても見応えある写真になります。\n　ヤワなホルダーや三脚を使うと線がブレるのでシッカリしたものを使うことをお勧めします。\n　星グルモードでは比較明合成で背景がならされるのでiPhoneのような小さいセンサーでノイズが多いカメラでも見栄えが良くなります。\n　北極星をいれるとグルグル感は増しますが軌跡が短くなります。東などに向ければグルグル感はないけど軌跡が長くなります。お好みで。\n　流星群の時期であれば1時間星グル撮影すれば、流れ星2、3個写るかもしれません。\n　星グルモードでのライトは点灯時間「中間だけ」がおすすめです。\n\n### 蛍の撮影について\niPhoneのナイトモードで撮影しても蛍は写りますが、背景がだいぶ明るく写ってしまいます。\nこのアプリの比較明モードと三脚使って撮影すればより雰囲気良く撮ることができるので試してみてください\n\n### ウォーターマークについて\n初期設定ではアプリ名になってるので、ハンドルネームやアカウント名を設定して著作権保護に使用してください\n\n### アプリが落ちる場合\n　アプリがクラッシュする場合は、iPhoneの設定の「プライバシー」-「解析」-「Appデベロッパと共有」をオンにして使用してみてください。バグ情報がアップルに送られ、修正する手助けになります。\n\n### 車と星グル写真のオススメの撮り方\n１．ISO感度はまず最大から1つ下を選択\n２．環境設定でライト点灯時間を「中間だけ」を選択\n３．撮影画面でライトの強さを「中」にする\n４．シャッタースピードを120秒にして何回か撮影してISO感度とライトを調整\n　　画面全体が明るすぎるならISO感度を下げ、暗すぎるなら上げます\n　　ライトで照らされた車が明るければライトの強さを下げ、暗ければ上げます\n５．ISO感度とライトの設定が決まれば、シャッタースピードを1800秒にして本撮影\n\n最初のうちはフォーカスは初期設定の0.0のままでもいいと思いますが、慣れたらフォーカスボタン押してキッチリ合わせるようにすると星の軌跡がよりシャープになって写真の質が上がります。",
+   "sellerName": "康行 Nagasima",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6504206143": {
+   "trackName": "无锐化相机",
+   "price": 100.0,
+   "averageUserRating": 3.33333,
+   "userRatingCount": 3,
+   "releaseDate": "2024-08-09T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-18T14:56:04Z",
+   "description": "这个超精致的小app能降低锐化,还有很多很多别的功能!!!希望你会喜欢\n\n• 无锐化\n下载之后,什么也不用调,拍的就是没有锐化的,定格之后完全不变色的Live\n\n• 零处理\n切换到零处理模式之后,感觉拍出来的,不像是手机拍的,很像是老相机拍的. 这不是模拟的,这是真的关闭了所有算法的最原本的照片!\n\n• 新版滤镜\n这几个滤镜模拟ccd,胶片什么的. 还有全新的小调色滤镜,融合了超多的细微调色,不仅让一切都看起来更开心了一点,还非常自然,一点儿也看不出来用了滤镜\n\n• 新版视频\n现在,视频能选超多参数,包括五种色彩模式和更多分辨率(较新的手机)! 比如,用4:3拍视频非常适合自拍vlog,因为视角更大了! 还有全新的无锐化视频\n\n• 更专业\n支持手动模式,拜耳阵列RAW,自定义滤镜等等!\n\n•还有超多功能,比如柔光,自定义按钮,等等等!",
+   "sellerName": "北北 宋",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1549693927": {
+   "trackName": "Star Stacker",
+   "price": 600.0,
+   "averageUserRating": 3.66667,
+   "userRatingCount": 3,
+   "releaseDate": "2021-03-01T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-20T05:16:20Z",
+   "description": "Star Stacker allows you to import a sequence of star photos taken throughout the night and turn them into star trail images or a time lapse video.\n\nAfter importing you can create the images and/or a time-lapse video with a few different effects.\n\n- Full trails - every star at full brightness\n- Faded trails - Stars get brighter as the process runs\n- Shooting star - Like faded trails but the last image is brighter than any previous giving a shooting star effect\n- Javelin - Both ends of the trail are faded\n- Warp mode - zooms into the image stack slowly creating a warped effect. This will also affect the foreground so post processing may be required if the images have the foreground included.\n\nYou can also choose to save a video of the time-lapse based on the options used for the image stacking.\n\nCan import images from your photos app. RAW files that have been recently imported from an SD card reader, may take a few minutes before the full resolution files are available.\n\nThere are resolution limits depending on the device being used and the memory it has:\n- 6gb - 62mp\n- 5gb - 62mp\n- 4gb - 62mp\n- 3gb - 42mp\n- 2gb - 30mp",
+   "sellerName": "michael webb",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "6756866511": {
+   "trackName": "IIWII",
+   "price": 300.0,
+   "averageUserRating": 5,
+   "userRatingCount": 2,
+   "releaseDate": "2026-01-07T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T21:14:20Z",
+   "description": "IIWII is a minimalist camera app that brings the beauty of analog film photography to your iPhone.\n\nIT IS WHAT IT IS — No complicated settings, no endless menus. Just point, shoot, and capture authentic moments with stunning film-inspired looks applied in real-time.\n\nTIMELESS FILM LOOKS\n• Carefully crafted presets inspired by classic film stocks\n• Real-time preview — what you see is what you get\n• Adjustable intensity for your perfect look\n• Import your own .cube LUT files as custom looks\n• Look Manager — create and fine-tune your looks with tone curves, color mixing, white balance and more\n• Natural Processing — less computational overprocessing, more authentic camera feel\n\nFULL MANUAL CONTROL\n• White Balance, Shutter Speed, ISO and Focus\n• Each parameter toggleable between Auto and Manual\n• Swipe down to reveal, swipe up to hide\n\nTHOUGHTFUL FEATURES\n• RAW+ Capture on all iPhones — save DNG files alongside your photo\n• Portrait mode with natural depth-of-field blur\n• Double Exposure — blend two shots into one, just like real film\n• Self-Timer with 2, 5 or 10 second countdown\n• Record video with real-time film looks applied\n• Grid overlays and horizon level for composition\n• Built-in gallery with sharing and favorites\n• QR Code detection\n\nDESIGNED FOR SIMPLICITY\n• Clean, distraction-free interface\n• Ambient light effect reacts to your camera feed (iOS 26)\n• Quick preset switching with swipe gestures\n• Double-tap to flip camera\n• Edge exposure slider for precise control\n• Customizable top bar — choose your controls\n• Lock Screen camera with shared settings and looks\n\nPRIVACY FIRST\n• GPS tagging is optional and controllable\n• Location data automatically removed when sharing (configurable)\n• No analytics, no tracking, no ads — ever\n\nIIWII respects your moments. No cloud uploads, no accounts, no subscriptions. Your photos stay on your device.\n\nCapture what matters. It is what it is.",
+   "sellerName": "Joshua Johannes Hoffmann",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6775256032": {
+   "trackName": "Perfect Black Screen Video PRO",
+   "price": 150.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2026-06-01T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-06T14:07:52Z",
+   "description": "画面の明るさを抑えながら、高画質で録画できるビデオカメラアプリです。\n\n【主な機能】\n■ ブラックモード\n録画中のデバイスの画面を完全に真っ黒にします。暗い場所や静かな場面でも画面の光が気にならず、周囲に配慮しながら撮影できます。\n\n■ ブラウザモード\nアプリ内ブラウザでWebページ、予定、資料、台本、地図などを確認しながら録画できます。\n\n録画した動画は、まずアプリ内の録画ライブラリに保存されます。ライブラリはFace ID、Touch ID、またはデバイスのパスコードで保護できます。必要な動画だけを選択して、写真アプリに保存したり、共有シートから書き出したりできます。\n\n【その他の機能】\n・音量ボタンで撮影開始/終了\n・アプリ起動と同時に録画開始\n・4K / 60fps対応の高画質録画\n・録画ライブラリ\n・Face ID / Touch IDロック\n・選択した動画を写真アプリに保存\n・長時間録画\n\n撮影をもっと快適に、整理しやすくするための実用的なビデオカメラアプリです。\n\n録画機能は、アプリを開いている間のみ利用できます。アプリを閉じたり、別のアプリに切り替えたりすると録画は停止し、動画は安全に保存されます。\n撮影時は、利用場所のルール、適用される法令、周囲の方のプライバシーに配慮してご利用ください。",
+   "sellerName": "Masaki Kobayashi",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "754105884": {
+   "trackName": "NightCap カメラ：長時間露光",
+   "price": 500.0,
+   "averageUserRating": 4.27439,
+   "userRatingCount": 656,
+   "releaseDate": "2013-12-12T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-19T07:01:49Z",
+   "description": "星の軌跡や、美しく滑らかな滝を撮影しましょう。 流星が尾を引く瞬間や、光跡を残す車の流れを捉えてください。 そして、光がほとんどない場所でも、鮮明で詳細な写真が撮れます。 買い切りなので、サブスクリプションは不要です。\n\n天体写真\nカメラを自動的に設定してくれる4つのモード。\n- 星の軌跡：頭上で星が円を描く様子を眺めましょう\n- 流星：流れ星の自動撮影\n- ISS：上空を通過する国際宇宙ステーション\n- 星：星空と天の川\n- バージョン10の新機能：オーロラ、オーロラを撮影するためのタイムラプスモード\n\n長時間露光\nシャッターを数秒から数分間開いたままにすると、動きが光跡となります。\n- 長時間露光：動きによるブレが生じるか、あるいは静止していればより鮮明な写真になります\n- 光跡：夜間の車のライト、花火、ライトペインティング\n- どちらもタイムラプス撮影に対応しており、最大4K解像度で速度調整が可能です\n\n低照度\n- カメラの標準範囲を最大4倍まで拡大できるISO感度ブースト\n- ライトブースト\n- ノイズリダクション\n- ナイトモードのビデオとタイムラプス\n\n手持ち\nバージョン10の新機能。 NightCapは撮影中に各フレームを安定させて位置を合わせるため、長時間露光でも三脚は不要です。\n\n手動制御\n- スワイプして露出、ISO、ピント、ホワイトバランスを調整\n- iPhone 16以降のカメラコントロール\n- 最大16倍にズーム\n- 白黒モード\n\nインターバル撮影機能、セルフタイマー、そしてライブプレビューやリモート操作に対応したApple Watch用アプリも搭載しています。",
+   "sellerName": "RTD",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1076480192": {
+   "trackName": "Photo Manager Pro",
+   "price": 500.0,
+   "averageUserRating": 4.52679,
+   "userRatingCount": 112,
+   "releaseDate": "2016-09-04T03:08:58Z",
+   "currentVersionReleaseDate": "2026-04-16T18:22:32Z",
+   "description": "Photo Manager Pro provides a complete solution for your photos and videos. Organize photos, videos and RAWs into folders, sub-folders. Set password on the app and folders. Add description and star rating on your photos. Transfer photos among iPhone, iPad, computer and cloud storages. \n\n* Organize Photos and Videos:\nCreate, copy, move, rename, delete photos, videos, folders and sub folders.\nSet password, cover on folder.\nSort photos by dates, names, types.\nReorder photos by drag and drop.\nManage your photos by drag and drop.\nCopy photos between apps by drag and drop (iPad only).\nAdd star rating, description and keywords on photo.\nSearch photos by filename, description and keywords.\nCompare photos (available on iPad only)\nPhoto Editing: crop, filters, light & color adjustment\nSlideshow photos and videos\nAirPlay photos and videos on Apple TV.\nOutput photos and videos to TV via HDMI cable.\nSecure app or folders with password\nLight and dark theme\nSupports trash bin\n\n* Photo Transfer:\nTransfer photos between nearby iOS devices.\nTransfer photos between computer and iPhone/iPad through the built-in FTP server or HTTP server.\nSupport iTunes File Sharing\nCopy photos among iPhone/iPad and cloud storages.\n\n* Supported Formats:\nJPG, PNG, GIF, HEIC\nCR2, CRW, NEF, NRW, ARW, RAW, DNG\nMOV, MP4\n\n* Supported Cloud Storages:\nDropbox\nOneDrive\nBox\n\n* Supported External Storages: \nSD Card\nUSD Drive\n\n\n===== CONTACT US =====\nEmail: support2@skyjos.com\nTwitter: @SkyjosApps\nFacebook: @SkyjosApps",
+   "sellerName": "Skyjos Co., Ltd.",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "1468747693": {
+   "trackName": "写真Exif - 写真情報ビューア",
+   "price": 500.0,
+   "averageUserRating": 4.60606,
+   "userRatingCount": 429,
+   "releaseDate": "2019-06-22T19:22:54Z",
+   "currentVersionReleaseDate": "2025-02-07T14:10:44Z",
+   "description": "これは強力な写真とビデオのEXIF情報表示および編集ツールです。日付、時刻、場所、カメラモデル、開口部、作成者、その他の多くのデータなど、写真とビデオのパラメータ情報を簡単に表示、編集、削除できます。これはプロの写真家に非常に適したソフトウェアです。\n\n特別な機能：\n\n写真とビデオの詳細を表示\n-写真とビデオの地理的位置情報、緯度と経度を表示します\n-データ、時間、作成者、タイトル、説明、コメント、キーワード、著作権、カメラメーカー、カメラモデル、開口部、露出など、すべての写真とビデオのパラメーター情報を表示します。\n\n写真とビデオの詳細を編集する\n-写真とビデオのGPS位置情報を編集します。地図を検索して場所を追加するか、地図を長押しして鋲を置くことができます\n-標準モードマップと衛星マップをサポート\n-日付、時刻、作成者、ドキュメントタイトル、説明、ユーザーコメント、キーワード、著作権、カメラブランド、カメラモデル、レンズブランド、レンズモデル、開口部、露光時間、ソフトウェアなどの写真とビデオのパラメータ情報を編集します\n\n写真とビデオのパラメータ情報を削除する\n-写真とビデオのすべてのパラメータ情報を削除します\n-写真とビデオのGPS位置情報を削除します\n\n写真とビデオのパラメータ情報をバッチ編集する\n-バッチ編集をサポートし、複数の写真とビデオのパラメータ情報を削除します\n-複数の写真とビデオのGPS位置情報のバッチ編集と削除をサポートします\n\n該当する\n-すべてのiOSデバイス（iPhone、iPad、iPod Touch）をサポートします\n-電話カメラ、iCloudフォトストリーム内のすべての写真を表示および編集します\n-ソニー、ニコン、フジ、キヤノン、その他のカメラ写真フォーマットをサポート\n-サポート画像形式（（JPG、PNG、TIFF、HEIC）およびRAW形式（CR2、NEF、DNG）\n\nその他の機能\n-写真のパラメータ情報を直接クリップボードにコピーする機能\n-グリッドビューとリストビューをサポート\n-アプリで直接写真やビデオを削除することをサポート\n-間違った編集後の元の画像への復元をサポート\n-システムアルバムから直接閲覧および共有することをサポートします\n-パラメータ情報なしで写真とビデオを共有することを選択できます\n-ダークモードをサポート\n-テンプレートの保存とインポートをサポート\n-位置情報に基づいて写真をフィルタリングするためのサポート\n-写真リソース情報の表示と共有をサポート\n\n表示できるすべてのパラメータ情報：\nファイルサイズ、ドキュメントタイトル、画像サイズ、ISO、焦点長、カラーモード、深度、方向、DPI高さ、DPI幅、ピクセル高さ、ピクセル幅、プロファイル名、輝度値、CFAスタイル、色空間、色の組み合わせスキーム、それぞれピクセル圧縮、コントラスト、カスタムレンダリング、デジタル日付と時刻、元の日付と時刻、Exifバージョン、露出時間、露出オフセット、露出モード、露出プログラム、露出補正、露出インデックス、ファイルソース、フラッシュ、FlashPixバージョン、 35mm相当の焦点長、焦点長、ガンマ、ISO感度、レンズ仕様、光源、アパーチャ、アパーチャ値、アパーチャ係数、最大アパーチャ値、メータリングモード、水平ピクセル数、垂直ピクセル数、飽和、シーンキャプチャタイプ、シーンタイプ、知覚方法、シャッター速度、被写体領域、デジタルサブセカンドタイム、ホワイトバランス、感度タイプ、シャープネス、ホワイトバランス、フラッシュ補正、画像安定化、レンズID、レンズ情報、レンズモデル、カメラブランド、カメラモデル、圧縮方法、日付と時刻、方向、メータリングの解釈、ソフトウェア、解像度単位、コラージュの長さ、コラージュの幅、X解像度、Y解像度など。\n\nアプリケーションについて質問や提案がある場合は、lilliancream @ 163.comにメールを送信してください。私たちは、すべてのユーザーの誠実な提案に注意深く耳を傾けます。あなたの提案は、継続的な成長のための私たちの原動力です。",
+   "sellerName": "Shenzhen Ziyun Technology Co.,Ltd",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "437015777": {
+   "trackName": "背景透明化 Pro",
+   "price": 480.0,
+   "averageUserRating": 4.73431,
+   "userRatingCount": 2183,
+   "releaseDate": "2011-05-18T01:50:51Z",
+   "currentVersionReleaseDate": "2026-01-17T01:25:39Z",
+   "description": "◇ 画像の不要な部分を消して、 透明にするためのアプリです。\n◇ AIで自動的に切り取りができます。\n◇ 合成用素材や、スタンプ作りにも便利です。\n◇ 消しゴム機能を使って、AIで切り取った画像の微修正にもご利用いただけます。\n◇ 自動で境界を認識して消すこともできます。\n\n◇ 広告なしの有料版です。\n\n◇ 切り抜いた画像は、「PhotoLayers」等の写真合成アプリで、合成用素材として使用できます。\n\n◇ 画像の透明色部分は、「写真」アプリでは白色や黒色として表示されてしまいます。\n◇ このアプリで再度読み込む事で、透明色が保存できていることを確認できます。\n\n◇ アプリにはよっては、透明色を適切に扱えないものもあります。\n◇ 弊社の合成写真アプリ、PhotoLayers は透明色に対応しています。\n\n◇ アプリ内のボタンから、使い方のページを確認できます。\n◇ ご不明な点は、アプリ内のボタンより、メールでお問い合わせが可能です。",
+   "sellerName": "handyCloset Inc.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1500098830": {
+   "trackName": "ビデオマスタープロ",
+   "price": 600.0,
+   "averageUserRating": 4.13953,
+   "userRatingCount": 3132,
+   "releaseDate": "2020-02-27T08:00:00Z",
+   "currentVersionReleaseDate": "2024-11-25T04:17:13Z",
+   "description": "Video Master Pro を使用すると、高品質のバックグラウンド ミュージックをビデオに追加できます。音楽を録音することも、コレクションから既存のバックグラウンド ミュージックを使用することもできます。ファイルの管理と編集、再生、アップロードが可能です。Video Master Pro は、ビデオの再生と編集に必要な唯一のアプリです。\n\nアプリの機能：\n- 広告なし。\n-無制限の数のファイル転送。\n-音楽を録音します。\n-ビデオをインポートします。\n-クラウドから動画をダウンロードします。\n-バックグラウンドミュージックを挿入します。\n-ビデオをオーディオに変換します。\n-バックグラウンド再生。\n-プレイリスト。\n-ビデオをファイルまたはカメラロールに保存します。\n-動画をYoutubeにアップロードします。\n\n音楽を録音する方法：\n1.音楽を録音します。\n2. [ファイル]タブに移動し、[インポート]を選択します。\n3.クラウドサービスからダウンロードするか、カメラロールからインポートします。\n4.「i」ボタンをタップします。\n5.オーディオを挿入します。\n\nビデオをオーディオに変換する方法：\n1. [ファイル]タブに移動します。\n2.ビデオの「i」ボタンをタップします。\n3. [音声に変換]を選択します。\n\nプレイリストでビデオを再生する方法：\n1. [プレイリスト]タブに移動します。\n2. [プレイリストの追加]を選択し、新しい名前を入力します。\n3. [動画を追加]を選択します。\n4.ビデオを選択し、「戻る」を押します。",
+   "sellerName": "Haruki Daunrodo",
+   "genres": [
+    "写真／ビデオ",
+    "ミュージック"
+   ]
+  },
+  "406541444": {
+   "trackName": "8ミリカメラ",
+   "price": 600.0,
+   "averageUserRating": 4.2973,
+   "userRatingCount": 111,
+   "releaseDate": "2010-12-23T01:36:14Z",
+   "currentVersionReleaseDate": "2026-03-18T06:47:15Z",
+   "description": "\"オスカーノミネート作品を救った1.99ドルのiPhoneアプリ\"\n\n何百万人ものユーザーにダウンロードされ、愛用されているオリジナルのフィルムエフェクトエミュレーターアプリは非常にリアル感があり、オスカー賞を受賞したドキュメンタリー映画『シュガーマン 奇跡に愛された男』のシーンの撮影にも使用されました。\n\n皆さまからのリクエストを実現しました！この改良により、要望の多かった機能と、さらに多くの現実感あふれるフィルムエフェクトをお届けします。\n\nライブフィルムエフェクトを使用して写真や動画を撮影\n\n- フィルムカラー、ハレーション、ダスト＆スクラッチ、フィルムグレイン、ソフトニングのエフェクトを組み合わせて、本格的な昔風の映画を作成\n- 10 種類のレンズ (フレーム) 効果: プロジェクター、口径食、光漏れ、カラー フリンジ、スーパー 8、スクリーン、16 mm、チューブ、スーパー 8 および 16 mm のカラー ネガ\n- 21のレトロ & エイジドフィルム: 1920、ノワール、60年代、70年代、サクラ、XPro、シエナ、ペラ、インディゴ、トスカーナ、ツーカラー、2 ストリップ、3X、8のモノクロ\n- 実際の歴史的なフィルムや期限切れのフィルムをエミュレートする追加の21のフィルター - 8mm Pro サブスクリプションで利用可能\n- エフェクトの強さを調整して、あなただけのビジュアルスタイルを実現\n- 画面全体を利用する最新のUIで、フィルムの解像度、フレームレート、アスペクト比などを簡単に変更\n\nムービー作成用のコンパクトエディター\n\n- フィルムおよびフレームエフェクトをクリップに適用\n- 動画のトリミング、写真のパンとズーム\n- ミュージックライブラリからサウンドトラックを追加\n- タイトルやトランジションが一致する、5つのユニークなテーマから選択\n\n無制限アクセスのサブスクリプション\n\n- サブスクリプションを購入することで、すべての機能とフィルターに無制限にアクセス可能\n- 7日間の無料トライアルでサブスクリプションを開始することができます。トライアル期間が終了すると、年間サブスクリプション料金が請求されます\n- 現在のサブディビジョン期間が終了する少なくとも24時間前に自動更新をオフにしない限り、サブスクリプションは自動的に更新されます。 [設定] > [Apple ID] > [サブスクリプション]の順に移動して、自動更新をオフにすることができます\n- 8mm Pro を 1 回購入して、すべての機能のロックを解除することもできます",
+   "sellerName": "NEXVIO INC.",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "6814673994": {
+   "trackName": "EV Calc",
+   "price": 100.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2026-09-23T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-27T22:48:41Z",
+   "description": "EV Calc は、撮影中の設定変更が明るさにどれだけ影響するかを、段数でひと目で確認できる露出計算アプリです。\n\n基準にしたい設定を「SET」で登録し、あとはシャッター・絞り・ISO・NDのホイールを回すだけ。基準との露出差が「+0.7」「-1.3」のように画面中央へ大きく表示されます。ND フィルターの付け外しや、絞り・ISO の変更後に、どれだけ補正すればよいかの目安になります。\n\n【主な機能】\n・シャッター、絞り、ISO、NDフィルターを4つのホイールで直感的に操作\n・「SET」で基準の露出を登録し、露出差を段数で表示（明るくなる方向はプラス、暗くなる方向はマイナス）\n・基準値は緑、明るくなる側の値はオレンジ、暗くなる側の値は青で色分け\n・基準EVと現在EVを常時表示\n・シャッター開角度を「1/48 (180°)」の形式で表示（フレームレートは 23.98 / 24 / 25 / 29.97 / 30 / 50 / 59.94 / 60 / 120 fps から選択。表示のオン・オフも可能）\n・ISOの刻みを 1段・1/2段・1/3段から選択\n・NDフィルターの単位を「濃度（0.3 など）」「ND（ND8 など）」「段数（3 stops など）」から選択\n・前回の設定を保持して、次回起動時にそのまま再開\n・横画面専用・ダークモード固定で、撮影現場でも見やすい表示\n・アカウント登録や通信は不要\n\n【ご注意】\n表示される露出差や EV 値は理論値です。使用するカメラやレンズによって、実際の露出とは差が出る場合があります。撮影時は目安としてご利用ください。",
+   "sellerName": "Akihiro Sakai",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "6768623085": {
+   "trackName": "FrameSmoother",
+   "price": 300.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-06-03T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-26T23:00:42Z",
+   "description": "AI フレーム補間をオンデバイスで。動画を一瞬で「ぬるぬる 60fps」に。\n最大 10 本まとめてキュー処理、寝ている間に全部完成。\n100% 端末内処理、撮影データは外に送られません。\n\n【主な機能】\n・AI フレーム補間（2x / 4x、最大 120fps 出力）\n・補間品質 2 段階: Fast（ブレンド）/ High Quality（AI）\n・キュー処理 最大 10 本（バックグラウンド対応）\n・Before/After 比較スライダー（フレーム単位で精密スクラブ）\n・mp4 / mov 書き出し、AirDrop / フォト保存\n・完全オンデバイス処理、ネット不要、追跡なし\n\n【こんな方に】\n・TikTok / Reels / Shorts で再生数を伸ばしたいクリエイター\n・24fps アニメ / MV を 60fps で鑑賞したい方\n・スポーツ動画をスロー分析したい方\n\n【料金】\n・買い切り。一度購入すれば、最初からすべての機能が使えます\n・サブスクリプションなし、追加料金なし、広告なし\n\n【動作環境】\n・iOS 16 以降\n・iPhone 12 以降に最適化。iPhone XS / XR / 11 / SE 2-3 などはメモリ制約により入力 1080p までに対応\n\nプライバシー: 当社はデータを一切収集しません。すべての処理は端末内で完結します。",
+   "sellerName": "Kohei Omori",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6444631986": {
+   "trackName": "AstroShader",
+   "price": 300.0,
+   "averageUserRating": 4,
+   "userRatingCount": 4,
+   "releaseDate": "2022-11-29T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-17T11:04:08Z",
+   "description": "One-time purchase. No subscription.\n\nAstroShader is an astrophotography app for capturing, stacking and editing. All you need is a stand, tripod, telescope or rock (to lean your phone on).\n\nAstroShader lets you align and stack live during the image capture process. You can also align and stack images from you Photos library. No need to transfer images to a computer to align and stack them separately (but there is a built in intervalometer if you need it).\n\nTo take an image follow these steps:\n • Use a stand, tripod, telescope mount (or lean your iPhone on a rock).\n • Zoom in on stars and set focus manually, or use autofocus.\n • Set the exposure time, ISO and white balance, or leave to auto-exposure.\n • Set the number of exposures to be automatically aligned and stacked.\n • Calibrate your images from the edit tools.\n • After the capture is complete you can edit and save your image—including as 16bit TIFF.\n • You can open images directly to use the edit tools in AstroShader - rather following a new image capture.\n\nImage capture options include:\n • Number of exposures to be aligned and stacked\n • Exposure time\n • ISO\n • White balance\n • Camera type\n • Countdown timer\n • Manual focus\n • Pause the capture to reposition iPhone or telescope\n\nEdit options include:\n • Stretch image\n • Background extraction\n • Dynamic background extraction (DBE)\n • x5 Histogram curves for fine tonal adjustment\n • x3 sharpen layers each with radius and intensity with layer blending rather than chaining\n • Brightness (low light enhancement)\n • Saturation\n • Black point\n • Temperature\n • Tint\n • Save format options; HEIF, PNG, JPEG, TIFF",
+   "sellerName": "AstroShader Limited",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6792625493": {
+   "trackName": "写真を削除",
+   "price": 150.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-07-28T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-30T07:30:04Z",
+   "description": "左右にスワイプして写真を確認し、上スワイプで削除候補へ。選び終わったら、まとめて確認して削除できます。\n\niPhone の写真、動画、Live Photo、GIF を手軽に整理。気に入ったものを残し、不要なものを減らしながら、写真アプリのアルバムに分類できます。\n\n主な機能：\n• サムネイルをスクロールすると表示中の写真も切り替わります。順番・逆順・ランダムの閲覧に対応\n• 削除候補を確認し、1枚ずつ残すことも、すべての削除マークを取り消すことも可能\n• 分類モードで写真や動画を下のアルバム表紙へドラッグして追加\n• 空のアルバムを作成し、通常のアルバムを並べ替え・名前変更・削除\n• 一覧をアルバム、お気に入り、ビデオ、スクリーンショットで絞り込み、最新の項目へ移動\n• 拡大アイコンまたはダブルタップで全画面表示。ピンチとドラッグで細部を確認\n• 静止画を自由な比率、1:1、4:3、16:9、9:16 でトリミング。同じセッション中なら取り消し可能\n• Live Photo のアイコンで自動再生を切り替え。長押しで現在の Live Photo を再生\n• 動画は初期設定で消音。音声を切り替えると、その後の動画にも設定を引き継ぎます\n• 写真アプリのお気に入りと同期し、システムの共有機能を利用\n• コンパクトな設定パネルで閲覧方法と分類モードを調整。言語選択とダークモードにも対応\n\nアカウント登録は不要で、広告も開発者運営のオンラインサービスもありません。写真、動画、メディア情報、利用記録を自動でアップロードしません。共有を選んだ場合のみ、iOS が選択した相手やアプリへ項目を渡します。オリジナルが iCloud のみにある場合は、システムの写真サービスがダウンロードすることがあります。\n\n上スワイプは候補への追加だけで、すぐには削除されません。削除前には iOS が最終確認を表示します。確認した項目は通常「最近削除した項目」に移動し、システムの保存期間内は復元できます。\n\nお問い合わせ：asa24@qq.com\n小紅書：Asa阿洒",
+   "sellerName": "梅 李",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1572945831": {
+   "trackName": "超広角レンズ",
+   "price": 300.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2021-06-20T07:00:00Z",
+   "currentVersionReleaseDate": "2024-04-27T18:42:37Z",
+   "description": "● 超広角風、超遠近風、超歪曲効果\n● 2種類の効果の掛けわせにより、ダイナミックで超広角な動画や写真が作れます。\n● ポートレートの顔写真を小顔に加工できます。\n\n風景写真に大胆な広角効果をつけたり、写真や動画の構図を補正したり・・・\n\nスマホに保存してある動画や写真はもちろん、カメラでの撮影にも対応しています。\n\n【素材】\n・カメラ撮影：動画、写真\n・カメラロール：動画、写真\n\n【設定】\n・効果設定 (1/2)\n・保存解像度：元解像度の10〜100%\n\n【タッチ操作】\n画面の画像上でタッチすると、効果のセンター位置を変更できます。\n画像の中央から離れるほど、画像の歪みが大きくなります。\n\n【出力】\n・カメラロールへ保存：動画、写真\n・動画・写真の共有：AirDrop, LINE, Facebook, Dropbox, Instagram,...",
+   "sellerName": "Masanori Katsuta",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "924438909": {
+   "trackName": "ProShot",
+   "price": 1200.0,
+   "averageUserRating": 4.32226,
+   "userRatingCount": 211,
+   "releaseDate": "2014-10-07T19:13:15Z",
+   "currentVersionReleaseDate": "2026-06-04T16:24:43Z",
+   "description": "“世界クラスの写真アプリ” - iMore\n“画面レイアウトは優秀です。DSLR は 1 つか 2 つ学べるかも。” - Engadget\n“名前を挙げられるなら, ProShot が持っている可能性が高い” - Gizmodo\n\n► 100 万以上 Rの写真家に愛されています！\n\nProShot へようこそ, iPhone と iPad 用の究極の手動カメラアプリです。\n\nProShot は ProRAW, ProRes と DSLR コントロールの力をポケットに直接入れ, どんな状況でも素晴らしい写真とビデオをキャプチャできるようにします。経験豊富なプロであれ, 始めたばかりであれ, ProShot にはあなたのための何かがあります。\n\n► マニュアルコントロール\nクリスタルクリアな写真とビデオのための DSLR 風精度をアンロック。全マニュアル, セミオート, またはスマートオートモードで露出, ISO, ホワイトバランスなどを調整可能, オート ISO & シャッタースピード限界でモーションブラーとノイズを細かく調整, 大きなカメラのように。\n\n► プロフェッショナルツール\nProShot はあなたの変化する世界に適応します。ユニークな Dual Dial システムでカメラ設定を素早く通過します。ボタンを押すだけでビデオを即座に録画。光の軌跡でペイントしたり, Bulb モードで星を眺めたり。リマップ可能コントロール, ヒストグラム, フォーカスピーキング, コンパス, 視力を保つ Night UI などで体験を細かく調整, などなど。\n\n► プライバシー組み込み\nデータ収集ゼロ - あなたの画像と情報は安全に保たれます, それがそうあるべき方法だからです。\n\nProShot にはもっとたくさんあります。以下はあなたを待っている多くの機能の一部の一覧です。ProShot は常に開発中, 素晴らしい新機能が常に地平線上にあります！\n\n► 写真機能\n• オート, プログラム, マニュアル, 2つのカスタムモード, DSLR と同じように\n• シャッター優先, ISO 優先, 自動, フルマニュアルコントロール\n• 露出, ISO, シャッタースピード, フラッシュ, フォーカス, トーチ強度, ホワイトバランスなどを調整\n• 最大 ISO と最大シャッタースピードオプションを設定\n• ProRAW, RAW (DNG), HEIC, JPEG フォーマット\n• AI フィルターなしの純粋な画像のためのゼロ処理オプション\n• Live Photo サポート\n• 美しい夜ビデオのための Live Photo サポート付き無制限シャッタースピード (Bulb)\n• ポートレートモード\n• 黒白モード\n• 16:9, 3:2, 4:3, 1:1 アスペクト比\n• 水と光の軌跡をキャプチャするための特殊モード付きライトペインティング\n• フルマニュアルコントロール付きタイムラプス (インタバロメーターとビデオ)\n• ±3 EV までのゼロラグブラケット露出\n• カスタマイズ可能色付きマニュアルフォーカスアシストとフォーカスピーキング\n• フルマニュアルコントロール付きフロントカメラサポート\n• 指1本で最大15Xズーム\n• グリッド, ヒストグラム, コンパス, ノイズ低減など多くのオプション\n• スタイルに合わせたカスタマイズ可能アクセントカラーと UI レイアウト\n• 夜視を保つ専用 Night UI\n• ビューファインダーにシームレスに統合されたカメラロール\n• ロックスクリーンウィジェット\n\n► ビデオ機能\n• ビデオモードで全ての写真モードコントロールも利用可能\n• 極端なビットレートオプション付き4Kビデオ\n• 24 FPS から 240 FPS までの調整可能フレームレート\n• H.264, H.265, ProRES フォーマットサポート\n• 4K までのタイムラプスビデオ\n• 180度ルールの業界標準オプション\n• 外部マイクサポート\n• リアルタイムでオーディオレベルとビデオファイルサイズを監視\n• ビデオ録画中でも任意のカメラパラメータを変更\n• ビデオ録画中にフル解像度静止フレームをキャプチャ\n• 録画中同時オーディオ再生 (Spotify など) サポート\n• 調整可能強度のビデオライト\n\n重い DSLR を家に置いて, ProShot が守ってくれます。\nユーザーガイド: https://www.riseupgames.com/proshot/ios\nビデオチュートリアル: https://www.youtube.com/watch?v=OMKtcX5ufjw",
+   "sellerName": "Rise Up Games",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6794272967": {
+   "trackName": "ZRcamera Pro, Snap",
+   "price": 490.0,
+   "averageUserRating": 5,
+   "userRatingCount": 2,
+   "releaseDate": "2026-08-14T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T23:48:21Z",
+   "description": "もう戻らない今、ふと足を止めたこの場所、そして隣にいる人。\nその瞬間を、まるごと写せるでしょうか。\n\n時間と場所が重なるひとつの場面を、\nていねいに整えた色味で。\nいつもの一日が、少し違って見えるように。\n\n写真で残す日常\nZeit und Raum — ZRcamera by Team jAm",
+   "sellerName": "jaekeun park",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1104260355": {
+   "trackName": "Deshake - ぶれを取り除くビデオの自動手ぶれ補正",
+   "price": 500.0,
+   "averageUserRating": 3.16667,
+   "userRatingCount": 54,
+   "releaseDate": "2016-04-21T16:11:00Z",
+   "currentVersionReleaseDate": "2021-02-12T20:59:37Z",
+   "description": "ビデオの手ぶれを即座に補正\nDeshake はiPhone、iPad、iPod touch にデスクトップで提供される品質のビデオの手ぶれ補正をお届けするので、お気に入りの瞬間のぶれた映像を改善できます。 フォトライブラリからビデオを選択し、あなたの電話で結果をライブでプレビューしながら設定を調整してください! ほとんどのプロ向きアプリを凌ぐ次世代の手ぶれ補正アルゴリズムのおかげで超高速で実行でき、お客様のビデオのような実際のホームビデオでテストされています。\n\n技術的に揺るぎない機能\n- ライブ プレビューで手ぶれ補正の強度を調整可能\n- ぶれと歪みを即座に除去\n- 水平、垂直、回転の動きを補正\n- 最速 GPU アクセラレーションのビデオ処理を利用可能\n- 数秒でプロ品質のビデオを作成\n\nさまざまな機能\n- iOS のフォトライブラリにあるあらゆるビデオで即座に利用可能\n- 互換性のある他の iOS アプリからビデオをインポート\n- 保存する前にライブで手ぶれ補正をプレビュー\n- ビデオを台なしにする透かしや他の仕掛けなし\n- 広告なし\n\nご質問がおありですか? Feedback@denivip.ru までお問い合わせください\n\nウェブサイト： http://blog.denivip.ru/?lang=en\nツイッター： @denivipmedia",
+   "sellerName": "Routes Software SRL",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1569569113": {
+   "trackName": "goWatch for GoPro®",
+   "price": 500.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2021-06-02T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-12T20:48:05Z",
+   "description": "The goWatch app for GoPro® cameras allows you to remote control your GoPro® cameras directly from your Apple Watch.\n\nDemo video: https://youtu.be/FjfV_0xoDIw\n\n### Compatible GoPro® cameras:\nGoPro® Hero 5 Black Edition, GoPro® Hero 5 Session, GoPro® Hero 6 Black Edition, GoPro® Hero 7 White/Silver/Black Edition, GoPro® Hero13 Black, Hero12 Black, Hero11 Black, Hero10 Black, Hero9 Black, and Hero8 Black, Mission 1 Pro, GoPro® Hero 11 Mini, GoPro® Max, Max 2 360°, and GoPro® Fusion 360° cameras.\n\n### IMPORTANT:\nIf you do not find the app after purchase on your watch: Please install the app with the App Store app on your watch (not on the iPhone!).\n\n### Features:\n- Start/stop recording\n- Power off the camera\n- Tag moment\n- Change the camera mode (photo, video, multi-shot) and presets (*new*)\n- Locate the camera\n- Show camera information (battery level, free space, number of videos and images, ...)\n- *New*: Show the last camera state (connected, recording) on the watch front screen (camera status complication).\n- *New*: Keep camera connection alive while app is in background.\n- *New*: Capture countdown (3/5/10/15/20 s).\n\n### Disclaimer\nThis product and/or service is not affiliated with, endorsed by or in any way associated with GoPro Inc. or its products and services. GoPro, HERO and their respective logos are trademarks or registered trademarks of GoPro, Inc",
+   "sellerName": "Harald Meyer",
+   "genres": [
+    "写真／ビデオ",
+    "スポーツ"
+   ]
+  },
+  "1441290634": {
+   "trackName": "ShutterCount Pro Mobile",
+   "price": 3000.0,
+   "averageUserRating": 2.5,
+   "userRatingCount": 2,
+   "releaseDate": "2018-11-30T03:26:36Z",
+   "currentVersionReleaseDate": "2026-09-03T00:33:22Z",
+   "description": "*** The original, most feature-rich and only iOS shutter count reader that works with all new Canons ***\n\nShutterCount displays the number of shutter actuations (the shutter count) of your Canon EOS, Nikon or Pentax digital camera - see the complete list of certified models below. The shutter count is read directly from USB or Wi-Fi connected Canons, and from image files for Nikon and Pentax cameras. With ShutterCount you can easily check whether a newly purchased camera is really new, or how heavily used a pre-owned item is. And you can save a trip to a service center by doing the reading for yourself.\n\nBASE FEATURES\n\n• Unlimited readings\n• Counter for still photos\n• Wear indicator with numeric and graphical rated shutter life percentage display\n• History logging to track camera usage; logs are stored in CSV format that can be imported into Numbers or Excel for further processing\n• Reports in plain text format\n• Wizard to guide you through the reading process\n\nLIVE VIEW PACK (included, supports select Canon models)\n\n• Counters for live view/videos and electronic shutter\n• Distribution chart\n\nPLUS PACK (included)\n\n• Graphing\n• Shutter life forecasting (not available for some Nikon and Pentax models)\n• History deduplication\n• Canon EOS camera management (date/time sync, owner name editing, copyright information setting, outdated firmware warning, IPTC export/import)\n• Raw copyright information display and secure personal data wiping for Canons\n\nCERTIFIED CAMERAS\n\nUSB connection (requires a Lightning to USB Camera Adapter or a USB-C equipped iPad; Wi-Fi on the camera must be disabled):\n• Canon 1D4/1DC/1DX/1DX2/1DX3/5D2/5D3/5D4/5DS/5DSR/6D/6D2/7D/7D2/40D/50D/60D/60Da/70D/77D/80D/90D/100D/200D/200D2/250D/450D/500D/550D/600D/650D/700D/750D/760D/800D/850D/1000D/1100D/1200D/1300D/1500D/2000D/3000D/4000D/8000D/9000D/C50/M6II/M50/M50II/R/R1/R3/R5/R5C/R5II/R6/R6II/R6III/R7/R8/R10/R50/R100/Ra/RP; Kiss F/M/M2/X2/X3/X4/X5/X6i/X7/X7i/X8i/X9/X9i/X10/X10i/X50/X70/X80/X90; Rebel SL1/SL2/SL3/T1i/T2i/T3/T3i/T4i/T5/T5i/T6/T6i/T6s/T7/T7i/T8i/T100/XS/XSi\n\nWi-Fi/Ethernet connection is supported using built-in networking or Canon transmitters on the above cameras having the \"EOS Utility\" function. The camera must be paired directly with ShutterCount using this function.\n\nImage files:\n• Nikon D2H/D2X/D2Xs/D3/D3S/D3X/D4/D4S/D5/D6/D40/D40X/D50/D60/D70/D70s/D80/D90/D200/D300/D300S/D500/D600/D610/D700/D750/D780/D800/D800E/D810/D850/D3000/D3100/D3200/D3300/D3400/D3500/D5000/D5100/D5200/D5300/D5500/D5600/D7000/D7100/D7200/D7500/Df/Z5/Z5II/Z6/Z6II/Z6III/Z7/Z7II/Z8/Z9/Z30/Z50/Z50II/Zf/Zfc/ZR; 1 AW1/J1/J3/J4/J5/V1/V2/V3; Coolpix A\n• Pentax *istDL/*istDL2/645D/645Z/K1/K1II/K3/K3II/K3III/K3IIIMono/K5/K5II/K5IIs/K7/K10D/K20D/K30/K50/K70/K100D/K100D Super/K200D/K500/K2000/Km/KP/Kr/KS1/KS2/Kx\n\nCameras not listed here are not supported.\n\nFOR DETAILED COMPATIBILITY INFORMATION PLEASE VISIT: https://www.direstudio.com/shuttercount/tech-specs\n\nQuestions? Problems? Check out the Getting Started Guide (https://www.direstudio.com/shuttercount/getting-started), the FAQ (https://www.direstudio.com/shuttercount/faq), or contact our support by tapping Report a Problem on the More tab!\n\nDISCLAIMER: The app displays the camera's internal counter. DIRE Studio is not responsible for how well and accurately the camera maintains that counter. The forecast is calculated based on your previous usage, and will change if you use the camera differently in the future.",
+   "sellerName": "DIRE Studio Kft.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6744909217": {
+   "trackName": "AI Video Eraser",
+   "price": 1000.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2025-08-26T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-02T01:43:47Z",
+   "description": "Remove unwanted objects or text from your videos and achieve seamless, natural-looking results using advanced AI technology.\n\nThis app solves a variety of video editing needs, including:\n- Removing distractions from the background\n- Erasing unwanted people or objects\n- Cleaning up texts\n- Fixing accidental appearances or visual noise\n\nIt includes easy-to-use tools that help you track and remove objects with minimal effort:\n- Object tool: Draw a circle around the object at any point in the video. AI will detect it for removal.\n- Object tracking: Automatically tracks the selected object throughout the video using AI.\n- Custom mask tracking: Define a rectangle or oval area to track any region across frames.\n- Erase tool: Removes selected objects with AI and fills in the background for a smooth, consistent result.\n\nWhether you're editing short clips or full videos, this app helps you clean up your footage with ease and precision, no professional skills required.",
+   "sellerName": "Le Giang Nam",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "6811243642": {
+   "trackName": "余白だけ",
+   "price": 200.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-09-15T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T17:22:58Z",
+   "description": "「余白だけ」は、写真・画像に余白をかんたんに追加できる、軽量・シンプルな画像加工アプリです。\n\n写真のまわりに白い余白をつけたい。\n画像にフチを追加したい。\nSNS投稿用に写真の余白を調整したい。\n画像の上下左右にスペースを足したい。\n\nそんなときのために、「写真に余白をつける」という目的に必要な機能だけに絞りました。\n\n多機能な画像編集アプリのような、使わない機能や複雑な編集画面はありません。\n必要な機能だけを搭載した軽量アプリだから、迷わずすぐに使えます。\n\n【写真・画像に余白を追加】\n\n写真のまわりに余白を追加して、見た目やレイアウトをかんたんに整えることができます。\n\n白い余白はもちろん、用途や写真に合わせて余白の色を変更することもできます。\n\n写真そのものを大きく加工するのではなく、まわりにスペースを追加したいときに便利です。\n\n【こんなときに便利】\n\n・写真に白い余白をつけたい\n・画像に余白を追加したい\n・写真の上下左右にスペースを足したい\n・画像にフチや枠のような余白をつけたい\n・SNS投稿用に写真の見た目を整えたい\n・Instagramなどに投稿する画像へ余白をつけたい\n・写真を中央に配置した画像を作りたい\n・画像の周囲にスペースを作りたい\n・写真の比率を保ったまま余白を追加したい\n・白背景の画像を作りたい\n・好きな色の背景・余白を追加したい\n・プロフィール画像や作品画像の見た目を整えたい\n・Webやブログで使う画像に余白をつけたい\n・難しい画像編集アプリを使わず、すぐに余白を追加したい\n・多機能アプリではなく軽量な画像ツールを使いたい\n\n【必要なところに余白を】\n\n写真や画像の上下左右へ余白を追加できます。\n\n「写真のまわりに少しだけ白いスペースがほしい」\n「SNSへ載せる前に余白をつけたい」\n「画像をそのまま切り抜かず、周囲にスペースを足したい」\n\nといった用途にも使えます。\n\n【使い方はシンプル】\n\n1. 写真を選ぶ\n2. 余白を調整する\n3. 必要に応じて余白の色を選ぶ\n4. 結果を確認して保存\n\n写真に余白をつけるだけなのに、大きな画像編集アプリを開いて、たくさんの編集機能から目的の操作を探す必要はありません。\n\n「余白だけ」は、写真・画像への余白追加に必要な機能だけをまとめた軽量アプリです。\n必要なときに開いて、必要な処理だけをすばやく行えます。\n\n必要なことだけ。必要な機能は全部。\n\n広告なし。\nサブスクリプションなし。\n追加課金なし。\n200円買い切り。\n\n写真余白、画像余白、白余白、フチ追加、背景追加、SNS用画像などを、軽量でシンプルなアプリで作りたい方のための「余白だけ」です。",
+   "sellerName": "Satomi Chiba",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6454673482": {
+   "trackName": "暗い写真を明るく PRO",
+   "price": 500.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2023-07-28T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-18T04:35:43Z",
+   "description": "暗い写真を明るく補正する素晴らしい写真補正アプリが登場しました！\nこのアプリは、暗い写真をタップひとつで自動的に明るく調整します。\n逆に明るすぎる写真も適切に暗く補正します。\n\n薄暗い室内や夜景の写真でも、たったひとつのタップで自然で見やすい明るさに整えます。\n逆光で顔が見えにくい写真や暗すぎてよく見えない写真も、明るく補正して見やすくします。\nこうしたお悩みを抱えた写真がある場合は、ぜひ一度このアプリをお試しください。\n\n【使い方】\n1.「画像を選択」をタップして写真を選びます。\n2.「プレビュー」をタップすると、明るさの調整が適用されます。\n3.「PNGで保存」または「JPEGで保存」をタップして、それぞれの形式で写真を保存します。\n元の画像やプレビュー画像を確認するには、右上の「拡大」ボタンをタップします。ビューワ画面での閲覧を終えるには、ビューワの右上の「×」ボタンをタップし、元のメイン画面に戻ります。\n\n※PRO版は広告無しの有料版です。通常版と機能的な違いはありません。",
+   "sellerName": "Katagiri Kikaku Corporation",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6757701471": {
+   "trackName": "Moza - モザイク、ぼかし、隠す",
+   "price": 500.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-01-14T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-25T15:58:25Z",
+   "description": "デバイス上で顔を自動検出し、検出した顔をまとめてモザイク。テキスト、矢印、蛍光ペン、番号カウンターで分かりやすく編集できます。\n覚えることなし。指でサッとなぞるだけ。\n\n• 顔モザイク — デバイス上で顔を自動検出し、検出した顔をまとめてモザイク\n• モザイク — スワイプ一つで顔、ナンバープレート、テキストを即座にピクセル化\n• ブラー — スワイプ一つで繊細な部分を自然にぼかす\n• 蛍光ペン — 半透明の黄色で大事な部分を強調\n• ペン — 自由に線を描く\n• 矢印 — きれいな矢印で正確にポイント\n• 自動番号 — タップ一つで順番に番号を表示（1, 2, 3...）\n• 四角形 — エリアをきれいに強調\n• テキスト — 画像をタップしてテキストを配置します\n\n◆ 写真情報を一目で\n\nEXIFメタデータをワンタップで確認：カメラモデル、撮影日時、GPS位置、解像度、ISO、絞り、シャッタースピードなど。\n\n◆ なぜMOZA？\n\n→ 速い：スワイプ、タップ、完了。編集はわずか数秒。\n→ 精密：ピンチズームで細かい編集が可能。\n→ 安全：100%デバイス内処理。写真が外部に送信されることはありません。\n→ どこでも：iPhone、iPad、Macに対応。\n→ 広告なし：広告が好きな人っていますか？\n\n◆ こんな時にぴったり\n\nバグレポート用スクリーンショット • ステップバイステップの説明 • プライバシーを守って写真を共有 • 素早いフィードバック\n\nログイン不要。サブスクリプション不要。広告不要。\nシンプルそのもの。",
+   "sellerName": "Coffee Inc.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6760129570": {
+   "trackName": "Bordure",
+   "price": 150.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-03-13T07:00:00Z",
+   "currentVersionReleaseDate": "2026-07-25T16:23:39Z",
+   "description": "Bordure adds clean, beautiful borders to your photos, perfect for sharing on Instagram and beyond.\n\nSimply pick a photo, choose your canvas ratio, and customize the background. That's it.\n\nCANVAS RATIOS\nPick the right format for every platform:\n• 4:5 and 1:1 for Instagram Posts\n• 9:16 for Instagram Stories and Reels\n• 16:9 for landscape content\n• Custom Size\n• And more portrait and landscape options\n\nBACKGROUNDS\n• Solid color — choose any color to complement your photo\n• (NEW) Smart Color — tap the magic wand and Bordure analyzes your photo's dominant color to suggest a harmonious complementary background, rooted in color theory\n• Blur — automatically extends your photo with a blurred version of itself for a seamless look\n\nPRESETS\nSave your favorite combinations of ratio, scale, and background as named presets. Apply them in one tap.\n\nEXPORT\n• Choose between JPEG, PNG, or HEIF\n• Control JPEG quality\n• Your original EXIF and GPS metadata is preserved on export\n\nTHOUGHTFUL DETAILS\n• Pinch and drag to reposition and scale your photo within the canvas\n• Double-tap to reset position and scale\n• Undo your edits\n• Share directly from the app or save to your photo library\n\nNo subscriptions. No ads. No accounts.\nJust your photos, framed.",
+   "sellerName": "Michele De Paola",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6813093709": {
+   "trackName": "ディカログ DICALOG - オールドデジカメ風カメラ",
+   "price": 100.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-09-23T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T01:12:10Z",
+   "description": "広告なし・買い切り・シャッター音なし\n\n2000年代のコンパクトCCDデジカメをiPhoneに。本物の2000年代デジカメの写真を分析して、色・ノイズ・シャープネス・JPEG圧縮まで合わせました。\n\n■ デジカメにあったものだけ\n- 機種2種：W 2007 · IX 2006（機種は無料アップデートで追加）\n- オレンジの日付スタンプ — 初期設定でオン。設定からオフにできます\n- シーンモード（オート・室内・夜間フラッシュ）、フラッシュ、露出補正（EV ±2）、ズーム\n- デジカメの画角そのまま — 機種ごとに35mm・38mmの画角、デジカメの窓の構図で撮ります\n- シャッターを切ると少しの間「記録中」、そのあと結果が表示されます\n\n■ 写真\n- シャッター音なしで撮影 — 設定でオンにもできます\n- デジカメ解像度で保存、または元の解像度に戻して保存\n- アルバムの写真にも同じルックを適用\n- 最近の写真でコンタクトシートを作成\n- 設定 >「実際のデジカメ写真と比較」で、本物のデジカメ写真とこのアプリの写真を並べて見られます\n\n■ ないもの\nフィルターのスライダー、編集機能、ステッカー、アカウント、広告、サブスク。写真は端末内にだけ保存され、どこにも送信されません。アプリ改善のための匿名の利用統計だけを送信します（写真・位置情報・個人情報は含みません）。\n\n■ 実機と違うところ\niPhoneのレンズはデジカメより背景がぼけやすく、LEDフラッシュはキセノンフラッシュの一瞬を再現できません。夜間フラッシュモードは部分的な再現です。\n\nお問い合わせ：contact@logogram.studio",
+   "sellerName": "Logogram LC.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6794057965": {
+   "trackName": "文字かくし - 写真・スクショの個人情報を隠す",
+   "price": 500.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-07-27T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-26T16:58:09Z",
+   "description": "写真やスクリーンショットには、住所や名前、予約番号などの個人情報が思った以上に写り込んでいます。「文字かくし」は、共有する前にそれらの文字をすばやく隠すためのシンプルなアプリです。\n\n画像を選ぶと、文字のある範囲を端末上で自動検出。隠したい範囲を確認して、モザイク・ぼかし・黒塗りから選び、元の解像度のまま共有または保存できます。検出から外れた場所は、指で囲んで追加できます。\n\n・画像内の文字を自動検出\n・範囲ごとに対象／対象外を切り替え\n・モザイク、ぼかし、黒塗り\n・強さと余白を調整\n・手動範囲追加、再検出、取り消し／やり直し\n・写真、カメラ、ファイルから読み込み\n・元画像を変更せずフル解像度で書き出し\n\n買い切りアプリです。サブスクリプション、広告、トラッキング、アカウント登録はありません。画像処理はすべて端末内で完結し、画像や利用情報を収集することもありません。\n\n自動検出結果は必ず確認し、必要に応じて範囲を追加・調整してから共有してください。",
+   "sellerName": "CAEN, K.K.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6762336561": {
+   "trackName": "Parallax Monitor",
+   "price": 3000.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-06-29T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T06:31:16Z",
+   "description": "Parallax Monitor is a professional monitoring and camera-control app for Nikon Z and RED cinema cameras. It turns an iPhone or iPad into a field monitor and remote for video, stills, and timelapse, with LUT preview, exposure and focus tools, multi-camera monitoring, and card playback.\n\nDesigned for the Nikon Z-Series & Modern RED Cameras. Available in 21 languages.\n\nEXPOSURE\n\n• X-Lights: Parallax's custom exposure algorithm, tuned for each camera's log profile\n• R3D & N-Log custom Guided Waveform, RGB parade, histogram, and vectorscope\n• False color, zebras, and X-Posts\n• N-Log-aware thresholds applied automatically when recording in N-Log\n• LUT preview with bundled N-Log and RED looks, or your own .cube files\n\nThe monitoring look and the exposure analysis are kept separate, so a LUT never masks clipped highlights or crushed shadows.\n\nSTILLS, TIMELAPSE AND FOCUS STACKING\n\n• Dedicated stills mode with its own exposure readouts and controls\n• Fire the shutter from the screen, your volume buttons, or a Bluetooth shutter\n• Release mode, burst, and self-timer control\n• Bulb and Time long exposures\n• Image quality including RAW + JPEG, image area, and Picture Control\n• Automated focus stacking from 2 to 100 frames with adjustable focus steps\n• Interval and timelapse capture with start delay, shot count or duration, and in-app MP4 assembly, ideal for astrophotography\n• Instant photo review with zoom, RAW + JPEG pairs, bursts, and save to Photos\n• Non-CPU lens profiles for manual lenses\n\nFOCUS AND FRAMING\n\n• GPU-based focus peaking with adjustable sensitivity and a monochrome background option\n• Tap to focus, Focus Punch, AF mode and area selection\n• Frame guides: 2.39, 2.00, 1.85, 4:3, 1:1, 4:5, 9:16, safe areas, rule of thirds, golden ratio, and custom ratios\n• Multiple simultaneous guides with adjustable mattes and opacity\n• Anamorphic desqueeze at 1.33x, 1.5x, 1.8x, and 2x\n• Camera level, audio meters, recording border, and timer\n• Configurable toolbars and hot corners, with complete layouts saved as presets\n\nCAMERA CONTROL\n\nAperture, ISO, dual base ISO, shutter speed or shutter angle, exposure compensation, white balance and Kelvin, resolution, frame rate, codec, card slot, timecode, audio levels, and record start and stop, including from your volume buttons or a Bluetooth shutter.\n\nMULTICAM\n\nMonitor and control multiple cameras from a single grid over Wi-Fi and USB, including mixed Nikon and RED setups. Timecode Jam-Sync, Group record, a shared exposure control rail, and per-camera battery status and audio meters. Any camera can be promoted to full-screen Live View.\n\nPLAYBACK AND REVIEW\n\n• Browse the camera card and play clips, including H.265\n• Preview playback through any LUT, with A/B comparison\n• Save original clips or LUT-applied copies to Photos\n\nREMOTE VIEWER SCREENS\n\nNearby iPhones and iPads join as read-only monitors for directors, clients, or focus pullers.\n\nRED CAMERAS\n\nSupports RED KOMODO, KOMODO-X, and V-RAPTOR over Wi-Fi or USB-C: ISO, shutter, ND, white balance, frame rate, codec, and record control, full Live View monitoring, and tap autofocus.\n\nCONNECTION\n\n• Wi-Fi, camera access point, or USB-C\n• Guided setup and one-tap reconnect\n• Live Activities for recording and timelapse progress on the Lock Screen and Dynamic Island\n\nLANGUAGES\n\nParallax Monitor is available in 21 languages: English, Arabic, Bangla, Chinese (Simplified), Chinese (Traditional), French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese (Brazil), Russian, Spanish (Latin America), Thai, Turkish, Ukrainian, Urdu, and Vietnamese. Switch languages at any time in the app.\n\nCOMPATIBILITY\n\nTested with the Nikon ZR, Z8, Z9, Z6III, Zf, and Z50II, and RED KOMODO, KOMODO-X, and V-RAPTOR. Available features vary by camera model, firmware, connection type, and iPhone or iPad model.\n\nParallax Monitor is developed independently and is not affiliated with or endorsed by Nikon, RED, or their subsidiaries.",
+   "sellerName": "Michael Aguado",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1436429074": {
+   "trackName": "FILCA - Vintage Film Camera",
+   "price": 600.0,
+   "averageUserRating": 4.22238,
+   "userRatingCount": 1412,
+   "releaseDate": "2018-09-22T13:43:01Z",
+   "currentVersionReleaseDate": "2026-09-22T18:59:45Z",
+   "description": "一瞬が、思い出に変わる。Filcaと一緒に。\n\nFilcaは一眼レフスタイルのフィルムカメラアプリです。35種類のフィルムフィルターとシネマティックなエフェクトが、あなたの写真に命を吹き込みます。\n\n@veteranUser\n「Filcaがなければ、ただ瞬間を集めるだけ。Filcaがあれば、思い出として残せる。」\n\nプロ級のマニュアル操作で、思いどおりの一枚を。\n■ シャッタースピード・ISO・ホワイトバランスを自在にコントロール\n■ 名作フィルムにインスパイアされた35mmフィルムフィルター\n\nFilcaは毎日の写真をワンランク上に仕上げるために生まれました。ポートレート、自撮り、夜景、そして何気ない日常の美しさまで。フィルムならではの本格的なアナログの質感をお楽しみください。\n\n主な機能\n• 35mmフィルムフィルター対応のオートモード\n• マニュアルモード（露出＆フォーカス）\n• シャッタースピードとISOのフルコントロール\n• 豊富なアスペクト比：4:3、3:2、16:9、1:1\n• 最大8倍のデジタルズーム\n• マニュアルフォーカス（マクロ ↔ 風景）\n• 名作フィルムにインスパイアされた35mmフィルムフィルター（モノクロ含む）\n• フィルムグレインエフェクト\n• 日付プリントエフェクト\n• 光学式手ぶれ補正\n• 低電力モード\n• セルフィーモード\n• EXIFデータの保存（位置情報を含む）\n• ポートレート補正\n• フル解像度での撮影\n• タイマーとフラッシュ\n• グリッド表示\n\nプロ機能\n• ホワイトバランス調整\n• 日付プリントのカスタマイズ\n\n#filca を付けてInstagramに写真をシェアしてください。素敵な作品はぜひご紹介させていただきます。\nフォローはこちら: https://www.instagram.com/filca.app/\n利用規約: https://han.gl/HCCwV\nプライバシーポリシー: https://han.gl/Wclkw\n\nFilcaと一緒に、あなたの写真ライフをもっと豊かに。",
+   "sellerName": "Cheol Kim",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "596026805": {
+   "trackName": "PhotoPills",
+   "price": 1800.0,
+   "averageUserRating": 4.47222,
+   "userRatingCount": 36,
+   "releaseDate": "2013-03-21T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-02T08:52:33Z",
+   "description": "写真の種類に関係なく：風景、天の川、月、日の出、日没、建築、スタートレイル、ドローン、流星群、日食、月食、タイムラプス、結婚式、ポートレート、旅行…\n\nあなたは写真のアイデアを前もって簡単に計画する方法を発見しようとしています。カメラを手に取るたびに、伝説的な写真を撮ることができます。\n\n撮りたい写真を適切なタイミング、そして適切な場所で撮影することは非常に貴重です。\n\n*オールインワンアプリ（40万以上のダウンロード）\nPhotoPillsは全部が含まれた写真アプリです。 PhotoPillsには：\n - 写真プランニングアプリ、日の出アプリ、日没アプリ、ゴールデンアワーアプリ、ブルーアワーアプリ、天の川アプリ、月アプリ、流星群アプリ、月食アプリ、日食アプリ、スタートレイルアプリ、被写界深度アプリ、NDフィルターアプリ、長時間露光アプリ、画角アプリ、タイムラプスアプリ…\n - 太陽、月、天の川ファインダー\n - 拡張現実ビュー：太陽、月、天の川、スタートレイル、ポラリス、被写界深度、画角。\n** 注釈：拡張現実感のビューは、お使いのデバイスのコンパス機能を使用しています。一部のデバイスは、コンパス機能がない場合もございます。\n - 撮影プランマネージャー\n - ロケーション検索ツール\n - その他、多数あり！\n\n*写真のマスターズで承認\n「PhotoPillsは私がいつも撮影プランを立てる時に使っている貴重なツールです。」 -  Mark Gee, Astronomy Photographer of the Year\n「すべての写真家がPhotoPillsを持つべきです。」 - Kevin Raber, Luminous-landscape.com\n「報われる！このようなツールを使用することで、迫力ある写真撮影を素早く計画できるようになります。」 - Jose B. Ruiz, Wildlife Photographer of the Year\n\n* 使い方\n場所を歩き回り、考えたことはありますか？：「月がまさにそこにないのは残念だ…素晴らしい写真を撮っていただろう！」？太陽はどうですか？そして天の川？あなたの想像力を飛ばして、この特定の魔法の瞬間がほんの数秒でいつ起こるのかを計算することができます：\n - 想像しよう！迫力のある風景にある天の川のアーチ、近くの丘の後ろから現れる巨大な満月、または魔法のビーチにある2つの岩の間の夕日を…想像力を制限しないでください！\n - 計画しよう！思い描いたシーンが起こる正確な日時を簡単に計算して、プランを立てます。より賢く、より簡単に！\n - 撮影しよう！ユニークな瞬間を生き、そして捉えながら撮影しよう。\n\n*インスピレーションを得て、フィーチャーされよう\nPhotoPillsは非常に活発な写真撮影コミュニティです。毎日、InstagramとPhotoPillsアプリ内でフィーチャーしていて、PhotoPills利用者が「想像」、「計画」、「撮影」した写真にからインスピレーションを得ることができます。クールな写真を撮った時はPhotoPillsアワードに投稿して、賞品をゲットしよう！\n\n*一生に一度のシーンを逃しません\n撮影プランのToDoリストを作成し、カレンダーにアラートを追加しておけば、時間どおりに撮影場所に到着できます。\n\n* 正確な調整が可能\n撮影する前に、フレームを最適な構図に調整します。拡張現実ビューを使用して、シャッターを押したときに太陽、月、および/または天の川が目的の位置にあるかどうかを確認します。\n\n*探索し、素晴らしいスポットを発見し、自分だけの撮影スポットのデータベースを作成\n覚えておきたい場所を見つけたら、その場所を興味のある撮影スポットとして保存できます。\n\n*ウィジェットなら1回のスワイプで毎日の全ての情報をゲット\nウィジェットを使用して、今後の撮影プランに加えて、現在の場所と日付から主要な太陽、月、天の川のイベントを素早く取得します。\n\n*あなたの写真を向上させます\n私たちの目標は、あなたの撮影プランを手助けするだけでなく、それらをマスターするのを助けることでもあります。ヘルプが必要なときはいつでも、ハウツー記事とビデオをご覧になるか、メールでお問い合わせください。\n\n「これが最後のチャンスです。この後、後戻りはありません。あなたは青い錠剤を飲みますか？物語は終わり、あなたはベッドで目を覚まし、あなたが信じたいものは何でも信じます。あなたはPhotoPillsを飲みますか？あなたは不思議の国に滞在し、ウサギの穴がどのくらい深いかを示します。覚えておいてください。私たちが提供するのは、伝説的な写真と鳥肌だけで、それ以上のものはありません。」\n\nご参加ください…一緒に楽しみましょう！",
+   "sellerName": "PhotoPills S.L.",
+   "genres": [
+    "写真／ビデオ",
+    "教育"
+   ]
+  },
+  "6472380172": {
+   "trackName": "Kino - プロ用ビデオカメラ",
+   "price": 800.0,
+   "averageUserRating": 4.67403,
+   "userRatingCount": 181,
+   "releaseDate": "2024-05-29T07:00:00Z",
+   "currentVersionReleaseDate": "2026-06-10T13:11:21Z",
+   "description": "素晴らしいビデオを簡単に作成！Kinoでは録画ボタンを押すだけで、専門の映画制作者が作成したカラープリセットを使用してシネマティックなビデオを作成できます—編集は不要です。さらに、「AutoMotion」により、アプリは映画で見られる滑らかな「フィルム風のルック」を自動的に作り出します。映画学校に通わなくても、素晴らしいビデオを撮影できます。\n\n経験豊富な映画制作者の方ですか？Kinoには、フルマニュアルモード、フォーカスピーキング、カラーウェーブフォーム、オーディオメーターなど、プロ仕様の撮影に必要なすべての機能が含まれています。色彩に精通している方であれば、LUTを迅速にインポートして、強力なInstant Grade機能を同様に使用し、LUTをベイクしたビデオを出力できます。\n\nスキルレベルに関係なく、Kinoはあなたのニーズに適応します。アプリ設定時に経験レベルを選択して、自分好みに調整するか、推奨されるシンプルな設定を選択できます。美しくシンプルなインターフェースは必要なものだけを表示しながら、強力な機能をすぐに利用できるようにしています。\n\nインスタントグレード\n\nKinoには、Stu Maschwitz、Sandwich Video、Evan Schneider、Tyler Stalman、Kevin Ongなどの専門家によるプロ用カラープリセットが多数搭載されています。ワンタップで、グレードプリセットを選択することでシネマティックでフィルムのような色彩のビデオを撮影できます。インスタントグレードを使用すると、後でグレードを適用したり編集作業を行う必要がありません。Kinoが処理されたビデオを保存するので、そのまま共有することができます。\n\n学びながら\n\nビデオ制作を始めたいですか？Kinoチームは、アプリを使った映画制作を学ぶための無料のレッスンシリーズを用意しています。シンプルな推奨設定から始めて、レッスンプランに登録すると、わかりやすいレッスンをメールで受け取ることができ、アプリのすべての機能を使ってより良いビデオを作成することができます。\n\nプロ仕様ツール\n\nKinoのシンプルなインターフェースは、強力なプロ仕様ツールが不足しているわけではありません。EV調整やAEおよびWBロック付きの自動露出から始めたり、シャッタースピード、アングル、ISO調整が可能な完全マニュアルモードに切り替えることができます。内蔵レベルを使用してグリッドでショットを構成し、RGBウェーブフォームで露出を確認し、フォーカスピーキングでフォーカスを調整することが可能です。Kinoは、ショット管理をより良く、簡単にするために、録画を「写真」ではなく「ファイル」内に保存できるほか、誤タップによるショットの乱れを防ぐためのスクリーンロックも備えています。カスタム録画設定（例: iPhone 15 Proの4K 60FPS Apple Log ProRes422HQ）を設定するか、柔軟性のあるプリセットから始めることができます。\n\n美しいインターフェース\n\nKinoには細やかな工夫が満載です。画面全体を赤枠で囲んで録画中であることを示す表示リングや、独自のカスタムフォントを使用した美しいタイポグラフィなど、美しさとシンプルさに柔軟性と操作性をバランス良く組み合わせたKinoは、あらゆるスキルレベルのユーザーに対応しています。\n\nオートモーション\n\n長編映画のようなシネマティックなモーションを実現する、AutoMotionをご紹介します。Kinoはデフォルトで露出を180度シャッタースピードに合わせて設定しています。このスイートスポットに到達し、オートモーションに適した照明がある場合、「オート」ラベルが緑色に変わり、素晴らしいシネマティックモーションが撮影できるスイートスポットにいることを示します。明るい日中での撮影ですか？iPhoneにNDフィルターを装着すれば、手動設定の調整を心配する必要はありません。Kinoが最適なシャッター角度を設定するので、撮影するだけで素晴らしい結果が得られます。\n\nLUTフレンドリー\n\nKinoの強力な機能の一つは、お気に入りのクリエイターや自身で作成した新しいルックをダウンロードできることです。Pixelmator Pro、Davinci Resolve、その他のアプリ（最大33x33）で.cube LUTファイルを作成し、Kinoでワンタップで開くことができます。\n\n完全プライベート\n\n当社のアプリはデータを収集したり、あなたのビデオや写真を分析したりすることはありません。カメラにとって最も重要なことはプライバシーであると考えています。\n\nクリエイタースペシャル\n\nクリエイターまたは映画制作者の方で、Kinoの使用を始めたい、または愛用している方はいらっしゃいませんか？ぜひ、当社にご連絡いただき、『クリエイターキット』を入手してください。詳細についてはKinoのウェブサイトをご覧ください。作品を共有する際は、オンラインで紹介できるよう#shotwithkinoのタグを付けてください。\n\nここまでお読みいただきありがとうございます！Kinoは友人であるKatie-Rose SummerfieldとDoug Broussardの協力のもと、Ben SandofskyとSebastiaan de Withによって作られました。私たちは、このアプリを愛情と思いやりを込めて作成しました。皆さんに気に入っていただけることを願っています。",
+   "sellerName": "Lux Optics Incorporated",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "479528827": {
+   "trackName": "合成写真 PhotoLayers Pro",
+   "price": 480.0,
+   "averageUserRating": 4.67455,
+   "userRatingCount": 8232,
+   "releaseDate": "2011-12-07T22:52:50Z",
+   "currentVersionReleaseDate": "2026-01-17T01:26:23Z",
+   "description": "◇ 美しい合成写真を作るためのアプリです。\n◇ 不要な部分を切り取り、背景を透明にできます。\n◇ AIで背景を自動的に透明化することも可能です。\n\n◇ 広告なしの有料版です。\n\n◇ 最大11枚の写真を重ねて合成できます。\n\n◇ 色調補正機能も充実しており、より魅力的に仕上げられます。\n\n◇ 合成写真づくりを、どうぞお楽しみください。",
+   "sellerName": "handyCloset Inc.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1256956196": {
+   "trackName": "秘密のアルバム PRO - あなたの秘密守ります",
+   "price": 300.0,
+   "averageUserRating": 4.14811,
+   "userRatingCount": 871,
+   "releaseDate": "2017-09-18T00:38:31Z",
+   "currentVersionReleaseDate": "2017-09-18T00:38:31Z",
+   "description": "【リリース記念】\n通常価格の半額!!!\n\n秘密のアルバムは、あなたの写真やビデオを電卓の裏に隠します。もちろん普通の電卓としてもお使い頂くこともできます。\n\nアイコンも電卓のように見えて写真・ビデオを隠すのに最適です。\n\n\n※このアプリはお使いのデバイスに写真・ビデオを保存します。私たちがあなたのファイルにアクセスすることはありません。",
+   "sellerName": "yamaguchi hiroyuki",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "357404131": {
+   "trackName": "Slow Shutter Cam",
+   "price": 500.0,
+   "averageUserRating": 4.45213,
+   "userRatingCount": 188,
+   "releaseDate": "2010-02-23T20:45:34Z",
+   "currentVersionReleaseDate": "2026-09-24T13:40:02Z",
+   "description": "Slow Shutter Cam は、あなたがデジタル一眼レフカメラでしか撮影できないと思っている魅力的なスローシャッター撮影機能により、新しいフォトライフをあなたのデバイスにもたらしてくれます。ぜひ続きを読んでみてください。\n\niPhone のカメラで凝った写真を撮影しようと試みて、もっと機能があったら良いのにと思ったことはありませんか？ Slow Shutter Cam はただのスナップショット写真に終止符を打ち、デジタル一眼レフカメラのいくつかの強力な機能をもたらしてくれます。そして、そのすべての機能があなたのポケットに！\n\nSlow Shutter Cam には３つのユニークな撮影モードがあります。\n\nモーションブラー：デジタル一眼レフカメラのシャッタースピード優先モードに相当する撮影モードです。ゴースト写真や滝のように流れ落ちる写真の撮影、もしくはブラーで動きを表現する際に最適なモードです。\n\nライトトレイル：ライトトレイルモードでは、走る自動車のライトや花火、他にも動く光であれば何でも、その軌跡を独自の方法で写真に描きます。\n\nローライト：辺りが暗い状態においても、この撮影モードではセンサーに届いたどんな光も逃さず捉えられるようになります。シャッタースピードが長ければ長いほど、より光を蓄積することができます。また、露出補正スライダーによりあなたの思いのままに写真をチューニングすることができます！\n\n注目機能\n\n•   フル解像度（どのデバイスでも！）\n•   リアルタイム プレビュー\n•   革新的なフリーズコントロール\n•   露出補正\n•   タップ操作でフォーカス・露出調整\n•   露出固定（撮影と撮影の間で固定）\n•   タイムラプス撮影\n•   セルフタイマー機能\n\nあなたの iPhone に Slow Shutter Cam をインストールすれば、ポケットに入れてどこにでも持っていけるお手軽さで、デジタル一眼レフカメラの機能を手に入れることができます。アプリをダウンロードして、ただのスナップショット写真から脱却しましょう！\n\nInstagram の #slowshuttercam タグ、もしくは flickr の「Slow Shutter Cam - iPhone」グループで、このアプリの数々の魅力的なサンプル写真を見ることができます！",
+   "sellerName": "Cogitap Software",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6736601069": {
+   "trackName": "FilmN foto_ycy: Travel",
+   "price": 300.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2024-10-17T07:00:00Z",
+   "currentVersionReleaseDate": "2024-10-18T04:34:48Z",
+   "description": "• Put the filter that the real photographer uses on my photo\n\n• Provides detailed features such as - Apply filters to photos, adjust filter intensity, photo detail correction, film look effect\n\n• It offers beautiful filters with various themes - Blue green, Red blue, Blue soda, Soft butter, Green tea, Rural Village, Dark blue,  Ghibli, Deep green, Vintage film\n\n• Change your photos with the grain film look effect\n\n• Complete your own photos using photo detail correction\n\n\n• Instagram\n@foto_ycy - Enjoy photographer's photos.\n@filmn.official - check out the news and various events.\n\n\nContact: filmn.ljm@gmail.com",
+   "sellerName": "Junmo Lee",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "1613327007": {
+   "trackName": "SCamera Pro",
+   "price": 1300.0,
+   "averageUserRating": 4.03896,
+   "userRatingCount": 154,
+   "releaseDate": "2023-12-19T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-29T18:16:18Z",
+   "description": "私立探偵やジャーナリストにおすすめです。\n\n注目を引かずに写真や動画を撮影したいですか？ SCamera Proを使用すると、写真を秘密裏に撮影し、ビデオを録画することができます。\n\n• SCamera Proにはビデオモードと写真モードがあります。カメラを隠すには下にスライドし、表示するには上にスライドします。\n• 消灯したデバイスをシミュレートするために黒い背景と暗い画面を使用します。\n• 画面をタップして写真を撮影するか、録画を開始します。画面をもう一度タップして録画を停止します。写真とビデオは自動的に携帯電話のギャラリーに保存されます。\n• 偽の背景を追加して、録画中でも静止画を表示して完璧な変装を作成します。\n• ウェブブラウジングをシミュレートして、ウェブをナビゲートしながら写真を撮影します。ブラウザ内の隠れたボタンをタップして写真を撮影します。\n• カメラプレビューを調整できます。好みに合わせて移動およびリサイズ可能。\n• HDまたは4Kで録画し、高品質の写真を撮影します。 HDまたは4K。\n• 24、30、または60 FPSでの録画により、安定性を向上させます。\n• プライバシーを保護するためにFace IDまたはTouch IDで画面をロック解除します。\n• Apple Watch を使用して、携帯電話で写真やビデオを撮影します。\n\n免責事項\nSCamera Proは、イベントの記録、証拠の収集、個人的な記録保存など、合法的な目的で画像および動画を撮影するためのツールです。ユーザーであるあなたは、SCamera Proの使用が自分の居住地域におけるすべての適用法令および規制に準拠していることを確認する全責任を負います。TotalContentは、SCamera Proを使用して作成された記録内容について一切の責任を負いません。\n\n一部の国や地域では、他者の画像・動画・音声の録音に関して、同意取得を含む特別な規制が存在することを認識し、これに同意するものとします。これらの法律を理解し遵守することはあなたの責任です。録音機器の使用に関する現地法令に違反したことによって生じるいかなる法的結果についても、TotalContentは責任を負いません。\n\nSCamera Proを使用することにより、あなたは、本アプリを違法または無許可の目的で使用しないこと、特に法律で同意が必要とされる場合に無断で人物を撮影すること、またはプライバシーが合理的に期待される場所で人物を撮影することを含め、それに限らずこれを行わないことに同意するものとします。\n\nお住まいの地域でのSCamera Proの使用の合法性に疑問がある場合は、使用前に法的助言を求める責任があります。TotalContentは法的助言を提供せず、アプリまたは関連サービス内のいかなる情報も法的助言とみなされるべきではありません。\n\n詳細な利用規約はこちらをご覧ください：https://spycamera.pro/terms-of-service/。",
+   "sellerName": "TotalContent",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6801795551": {
+   "trackName": "Metelier",
+   "price": 800.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-08-21T07:00:00Z",
+   "currentVersionReleaseDate": "2026-08-22T03:46:50Z",
+   "description": "Metelierは、フィルムカメラを実際に使うための反射光式露出計です。\n\nスマートフォンで周囲の光を測り、選んだカメラ、レンズ、フィルムで使用できる絞り値とシャッター速度へ変換します。中古フィルムカメラ店の店主が、日々フィルムカメラに触れる現場の視点から開発しました。\n\n主な機能\n\n- 追針式露出計を思わせる、中央0で適正となる指針表示\n- 適正は緑、1段以内のずれは黄色、それ以上は赤で表示\n- 登録した実機の値に沿う絞り・シャッター速度ダイヤルと、1/3段の露出補正\n- 絞り優先、シャッター速度優先、手動の3モード\n- 適正露出へ近づくダイヤル方向を緑、逆方向を赤で表示\n- カメラ193機種、MFレンズ561本、フィルム121銘柄を検索可能\n- カメラ、レンズ、フィルムを組み合わせた機材セットを保存\n- カタログにない機材や絞り値、シャッター速度も手動で登録可能\n- スマートフォンや機材に合わせた露出補正、レンズの透過損失を設定可能\n- 日本語／英語、ライト／ダークテーマ、テーマカラーに対応\n- 設定データの外部バックアップと復元\n\nプライバシー\n\n測光に使用するカメラ映像は端末内で処理し、保存・送信しません。アカウント登録、広告、行動追跡、アクセス解析はありません。機材プロファイルと設定は端末内に保存されます。\n\nご注意\n\nMetelierはスマートフォンのカメラを使う反射光式露出計です。端末の機種、カメラ、被写体、照明条件によって測定値に差が生じる場合があります。重要な撮影では、基準となる露出計やテスト撮影との比較、必要に応じた補正をおすすめします。入射光測光、フラッシュ光測定には対応していません。",
+   "sellerName": "Takumi Yoshikawa",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1028791881": {
+   "trackName": "Photograph+ - 48 MP 高画質 マナーカメラ",
+   "price": 300.0,
+   "averageUserRating": 4.50145,
+   "userRatingCount": 8593,
+   "releaseDate": "2015-10-04T06:52:46Z",
+   "currentVersionReleaseDate": "2026-08-28T08:14:07Z",
+   "description": "◉ 高画質な写真撮影・ビデオ撮影から写真編集まで、Photograph+ 2 一つで完結\n・48 MP / 24 MP 高解像度で美しい写真撮影\n・フロントカメラの 18 MP 写真撮影に対応\n・4K ビデオ / シネマティックビデオ / スローモーションビデオ対応\n・Apple ProRAW / Apple ProRes Log 対応の本格撮影\n・ロック画面状態からカメラコントロールですばやく起動\n・シネマティック手ぶれ補正で、手持ちでも滑らかな映像を実現\n・高速連写と快適な撮影レスポンス\n・撮影・編集・管理までこれ1つで完結\n\n● Photograph+ 2 について\nPhotograph+ 2 は、撮影と写真編集を1つにまとめたシンプルで使いやすいカメラアプリです。\n最新の iOS テクノロジーにより、iPhone のカメラ性能を最大限に引き出し、高画質な写真撮影から 4K ビデオ撮影、本格的な写真編集までシームレスに行えます。\n累計 46 万ダウンロードを突破した「Photograph+」をベースに全面リニューアル。\nバックカメラの 48 MP / 24 MP 写真撮影、フロントカメラの 18 MP 写真撮影に加え、Apple ProRAW や Apple ProRes Log にも対応し、初心者から上級者まで幅広い撮影スタイルに対応します。\nさらに、フィルターや色調補正などの編集機能に加え、EXIF 対応の写真管理機能も搭載。\n撮影から編集、管理までを一貫して行える、快適な写真体験を提供します。\nぜひ、Photograph+ 2 の使いやすさと快適な撮影体験をご体験ください。\n\n● 主な機能\n\n- 撮影機能\n\n  写真\n  ・バックカメラの 48 MP / 24 MP 高解像度撮影\n  ・フロントカメラの 18 MP 高解像度撮影\n  ・Live Photos\n  ・Apple ProRAW\n  ・アスペクト比（1:1 / 3:4 / 2:3 / 9:16）\n  ・高速レスポンス画像処理\n  ・Deep Fusion（ディープフュージョン）\n  ・低解像度撮影（0.1 MP - 6 MP）\n  ・日付スタンプ\n  ・QR コードスキャン\n\n  ビデオ\n  ・4K ビデオ撮影\n  ・解像度選択（HD / FHD）\n  ・フレームレート選択（60 / 30 fps）\n  ・手ぶれ補正（スタンダード / シネマティック）\n  ・Apple ProRes Log\n  ・シネマティックビデオ\n  ・スローモーションビデオ\n  ・クイックビデオ撮影\n\n- 撮影補助機能\n  ・ヒストグラム\n  ・グリッド / 水平器\n  ・タイマー / インターバル\n  ・フラッシュ / トーチ\n  ・AirPods リモートシャッター\n  ・Bluetooth リモコンシャッター\n  ・メタデータ編集\n\n- 写真編集機能\n  ・明るさ / コントラスト / 色温度 / 鮮やかさ\n  ・ハイライト / シャドー / 周辺光量\n  ・ブラー\n  ・フィルムカメラ風エフェクト\n  ・フィルター（40 種）\n  ・ライトリーク（30 種）\n  ・肌補正\n\n- 写真ギャラリー\n  ・EXIF 閲覧・編集\n  ・自動編集\n  ・リサイズ / 回転 / 複製\n\n- ウィジェット\n  ・ホーム画面 / ロック画面 / コントロール ウィジェット\n  ・ライブアクティビティ\n\n- ショートカット操作\n  ・ロック画面のカメラコントロールからのクイック起動\n  ・Siri ショートカット\n  ・クイックアクション\n  ・アクションボタン\n\n● ご注意\n※以下の機能はアプリ内購入が必要です。\n・48 MP / 24 MP 写真撮影\n・4K / 60 fps ビデオ撮影\n・シネマティック手ぶれ補正\n・シネマティックビデオ撮影\n・Apple ProRes Log 撮影\n・スローモーション撮影\n・写真の一括自動編集 / 回転 / リサイズ\n\n※Apple ProRes Log を 4K / 60 fps で撮影する場合、書き込み速度 220 MB / 秒以上・最大消費電力 4.5 W に対応した、iOS デバイス向け外付けストレージが必要です。\n※バックカメラの 48 MP 写真撮影は、iPhone 14 Pro 以降のナンバリングシリーズで利用可能です。\n※48 MP 撮影に対応しているカメラレンズは、機種によって異なります。\n※フロントカメラの 18 MP 写真撮影は、iPhone 17 シリーズで利用可能です。\n\nPhotograph+ 2 は継続的なアップデートにより、最新の iOS 技術への対応と安定性の向上に努めています。\nご要望・不具合は、アプリ内［フィードバック］よりご連絡ください。\nいただいた内容は、チームに共有されます。\n\nお問い合わせ: contact.dev.n.m@gmail.com",
+   "sellerName": "Naoya Maeda",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6784885884": {
+   "trackName": "画像圧縮 - 写真を指定サイズに収める",
+   "price": 300.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2026-07-13T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-28T17:52:55Z",
+   "description": "写真をアップロードしようとして、\n「2MB以下の画像のみアップロードできます」\n「写真のサイズが大きすぎます」\nと表示された時のためのアプリです。\n\nこのアプリは、写真をなんとなく小さくするのではなく、指定した上限以下に確実に収めることに特化しています。\n\n使い方はかんたんです。\n写真を選び、100KB / 500KB / 1MB / 2MB / 5MB などの上限を選ぶだけ。\n圧縮後は、完成した写真の容量とピクセル数を1枚ずつ確認してから保存できます。\n「本当に上限以下になったか」を、アップロードする前に確かめられます。\n\n主な機能：\n\n・100KB / 500KB / 1MB / 2MB / 5MB の上限指定\n・任意のKB / MB指定\n・最大50枚の一括圧縮\n・圧縮前後の容量を1枚ずつ表示\n・最大幅 / 最大高さの指定\n・JPEG / HEIC出力\n・撮影日時や位置情報の保持 / 削除を選択\n・元画像を変更せず、新しいファイルとして保存\n・写真アプリ、Files、共有メニューから利用可能\n\nこんな時に便利です：\n\n・Web申請や業務システムで写真の容量制限がある\n・履歴書・証明写真のデータを指定サイズで提出したい\n・不動産や現場写真をメールで送りたい\n・学校や保育園の連絡アプリに写真を出したい\n・位置情報を削除してから写真を共有したい\n\n写真は端末内で処理されます。\nアカウント登録、広告、サブスクリプション、アプリ内課金はありません。\n\nご要望・不具合はサポートページからご連絡ください。",
+   "sellerName": "CAEN, K.K.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1228124211": {
+   "trackName": "スーパー夜撮ビデオカム - 超高感度で動画撮影",
+   "price": 300.0,
+   "averageUserRating": 2.25,
+   "userRatingCount": 20,
+   "releaseDate": "2017-04-26T14:38:19Z",
+   "currentVersionReleaseDate": "2017-12-18T19:12:48Z",
+   "description": "スーパー夜撮ビデオカムは「超」高感度で動画を撮影できる最新アプリです。\n\n暗い場所で、とても明るくビデオ撮影することができます。\nそして明るい時間帯でも、夕日をきれいに撮影できるモードや、水を透き通らせて撮影できるアクアモードなど、6つの高画質モードを使用できます。\n\n静かな場所でも使えるようにシャッター無音の機能もあります。\n\n＜機能＞\n感度（明るさ）　：　自動、マニュアル（0〜99）\nピントの調整　：　自動、マニュアル\nカメラ切り替え\nライト\n撮影モード　：　オート、きれいオート、サンセットモード、夜景モード、アクアモード、水中モード（水を透き通らせるような色設定になります。水の濁りはとれません）\n優先設定　：　画質優先、フレームレート優先\n写真撮影機能（動画撮影中はシャッター音をオンにしてあっても鳴りません）\nシャッター音　：　0（無音）〜100％\nズーム　：　1〜5倍（２本指で拡大縮小）\n\n＊感度を30以上にするととても明るくなる代わりにフレームレートが落ちてきますので、なめらかな動画を撮りたい場合は「フレームレート優先」に設定して、感度を0〜29の範囲でご使用ください。\n\n\n\n＜使用用途＞\n・暗い場所へのおでかけの際に\n・あかちゃんや子供の寝顔の撮影に\n・ペットの撮影\n・夕日をドラマチックに撮影したい時\n・夜景の撮影に\n・水族館などで水をクリアに撮影\n・きれいオートでいつでも見た目どおりの色で撮影\n・静かな場所でも無音で撮影\n・花火などの撮影に",
+   "sellerName": "EIGHTIVE DESIGN, Inc.",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "618790117": {
+   "trackName": "Cute CUT Pro - Video Editor",
+   "price": 1500.0,
+   "averageUserRating": 4.18489,
+   "userRatingCount": 2277,
+   "releaseDate": "2013-03-21T02:43:00Z",
+   "currentVersionReleaseDate": "2026-09-28T17:08:27Z",
+   "description": "今映画を直接に描くことができます!Cute CUTは完全に違うムービーを作らせます!!! \n\n自分に属する唯一なムービーを作りたいですか? そうしたら、Cute CUTで描きましょう! \n\nCute CUTは普通のビデオ編集機の機能を持っているほかに、予想以外の喜ばせる機能も持っています。 \n\n当社は以前と完全に違う個人ムービー作成ソフトの創造に力を尽くしております。我々の足並みをフォローしていきませんか?早速にダウンロードしましょう!!! \n\n===================================================================\n\n肝要な特性： \n\n* 友好なインターフェース \n\n- 簡単な引っ張り離す操作だけで、自分に属するムービーを楽に作成 \n- 見やすい本棚式ムービー管理 \n- インターフェースは画面縦横ともサポート \n\n* 独特なムービーを作成 \n\n- 六つのアイテムをフイルムに追加することをサポート。『ビデオ「アルバムかカメラに選択可」・写真「アルバムかカメラに選択か」・自画・文字・音楽・録音』 \n- 高画質(HD 16:9、19.5:9、21:9)と標準画質(SD 4:3、5:4)の作成をサポート。縦画面のムービーもサポート。 \n- ピクチャー・イン・ピクチャーの作成をサポート。 \n\n- ムービーに直接描く \n- 30種以上の絵画のツールを提供 \n- 3種の高級な絵筆を提供し、プロな効果を画くことによい。「テクスチャー・線形グラデーション・円形グラデーション」 \n- グラデーション効果が編集可 \n\n- 高度が指定できるトランジションを提供 \n- 20種以上の既定義トランジションが提供するから選択可 \n- 透明度・枠・角丸・影および音量など…すべては指定可！ \n\n* ムービー共有 \n\n- ムービーをアルバムにエクスポート \n- YouTubeとFacebookにシェア \n- E-mailで送信 \n\n* Cute CUTの使用ヘルプ \n\n- 全般のチュートリアルビデオを提供して楽に習わせる \n\n===================================================================\n\nCute CUTはiPhoneやiPadともサポート \n\nホームページ：https://cutecut2.mobivio.com \nフィードバックとサポート：support@mobivio.com",
+   "sellerName": "波 余",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "342115564": {
+   "trackName": "Hipstamatic カメラ",
+   "price": 800.0,
+   "averageUserRating": 4.61381,
+   "userRatingCount": 246,
+   "releaseDate": "2009-12-10T00:26:20Z",
+   "currentVersionReleaseDate": "2026-09-30T15:21:08Z",
+   "description": "HIPSTAMATIC® カメラは世界的な評価を得ている写真アプリです。Appleの「Original App of the Year」に選ばれました！\n\n写真に人生のような美しさを加え、世界で最もクリエイティブなコミュニティに参加しましょう。アプリはiPhoneでのみ利用可能です。\n\n写真家として成長したいですか？毎日HIPSTAMATICを利用している数百万人におよぶクリエイティブな人々に加わりましょう！\n\n• ClassicMode™ – 美しくレンダリングされたカメラでレトロな撮影。スワイプでレンズやフラッシュ、フィルムを変更できます\n• ProMode™ – フォーカスやホワイトバランス、露出、シャッタースピード、ISO、アスペクト比を調整してカメラを完全にコントロールしましょう\n• Darkroom Suite™ – 20種類以上のプロの調整ツールと12種類の特徴的なプリセットを含む完全版編集スイート\n• HipstaMart™ ショップ – 世界で最もクリエイティブな写真製作者たちが作成した素晴らしいフィルターセットがアプリ内購入で利用できます\n• PrintLab™ – 実際の用紙にプリントされた写真を200カ国以上に直接お届けします",
+   "sellerName": "Hipstamatic, LLC",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "6791661639": {
+   "trackName": "さしがね写真 FieldCue",
+   "price": 300.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-07-21T07:00:00Z",
+   "currentVersionReleaseDate": "2026-07-21T23:08:01Z",
+   "description": "現場指示図・打ち合わせ記録を「現場で」作るための写真編集アプリ。\n\n標準の写真アプリの「遠近法」補正は、一辺のみを基準に変形するだけで、四隅を個別に動かす変形はできません。このアプリならもっと自由に補正ができます。四隅を自由にドラッグするコーナーピン変形で、斜めの輪郭をまっすぐに直せます。そこから、引き出し線・文字・寸法を最小手数で写真に書き込めます。\n\n■ 使い方(6工程)\n1. 配置 - 2本指で回転させ、グリッドを参照してセンターを合わせます。\n2. 歪み補正 - 四隅を自由にドラッグして画像を変形させ、縦横の線を整えます。\n3. クロップ - 四隅をつまんで必要な範囲だけを残します。縦横比は自由です。\n4. 文字入れ - 示したい場所から指で引き出し線を引き、離すと文字を入力できます。\n5. 寸法 - 測った場所に寸法線を引き、離すと数値を入力できます。\n6. 保存 - 必要な範囲のみ切り取り、文字の大きさを選んでカメラロールに保存します。\n\nカメラロールに入るのは、文字入れ・寸法が乗った完成写真だけ。アプリのUIは一切写りません。あとはいつも通り、メールやSMSで送信できます。\n\n■ 特別な機能\n・書いた文字が、そのまま検索に - 品番や型番を入力したら、検索アイコンをタップするだけでアプリ内ブラウザから検索できます。\n・作業中データを最大20件保存 - 「保存」ボタンで端末内に保存、後から編集の続きができます。不要なデータは削除できます。\n・カメラロールから直接起動 - 写真アプリの共有シートから直接呼び出せます。\n\n建設現場・ディスプレイ・什器配置・家具レイアウトなど、指示写真が必要なあらゆる現場向けの単機能アプリです。現場で仕事を効率よく進めたい人へ。\n\n買い切り¥1,500、広告なし、アプリ内課金なし。iPhone専用。\n\nプライバシーポリシー: https://lifebot.jp/fieldcue/privacy/\n利用規約: https://lifebot.jp/fieldcue/terms/\nお問い合わせ: support@lifebot.jp",
+   "sellerName": "Keiji Hirose",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "1304177471": {
+   "trackName": "Superimpose X",
+   "price": 800.0,
+   "averageUserRating": 4.59615,
+   "userRatingCount": 52,
+   "releaseDate": "2017-12-16T00:46:47Z",
+   "currentVersionReleaseDate": "2026-10-02T01:19:05Z",
+   "description": "Superimpose X は、写真編集、画像合成、AI を活用したビジュアル制作のための本格的なクリエイティブスタジオです。\n\nレイヤー、マスク、描画モード、ブラシ、エフェクト、調整、影、テキスト、ぼかし、ワープ、遠近法ツールなどを使って、複雑な編集を作成できます。さらに強力な AI 機能で、画像生成、写真編集、背景の置き換え、画像の拡張、細部の強化、シーンの再照明、ヘッドショット作成、顔の入れ替え、スケッチから完成画像への変換、静止画から短い AI 動画の作成まで行えます。\n\nSNS 投稿、サムネイル、デザイン、アート作品、商品画像、プロフィール写真、ミーム、写真編集、プロ向けの合成作品など、どんな制作でも、Superimpose X は手作業の精密さと AI のスピードを 1 つのアプリで提供します。\n\nアイデア、写真、スケッチ、または空白のキャンバスから始めましょう。人物やオブジェクトを切り抜き、複数の画像を組み合わせ、マスクを描き、色を調整し、奥行きを加え、影を作成し、エフェクトを適用して、細部まで仕上げられます。より速く結果を得たいときは、AI を使って画像を生成、変換、修復、拡張、またはアニメーション化できます。\n\nSuperimpose X は、複雑なデスクトップ作業環境なしで本格的な編集力を求めるクリエイターのために設計されています。\n\n主な機能：\n\n• 最大 24 レイヤー対応のレイヤーベース写真編集\n• マジックワンド、マジックラッソ、ブラシマスク、シェイプマスクなどの高度なマスクツール\n• AI による人物マスク\n• テキストからの AI 画像生成\n• AI 画像編集とインペインティング\n• AI による背景作成と背景置き換え\n• AI アウトペインティングと画像拡張\n• AI 画像強化\n• AI 再照明\n• AI スケッチから画像生成\n• AI ヘッドショット生成\n• AI 顔入れ替えツール\n• AI 画像から画像への変換\n• AI 画像から動画への生成\n• 18 種類の描画モード\n• 16 種類の調整レイヤー\n• 非破壊のレイヤーぼかしと調整\n• 63 種類の写真エフェクト\n• 明瞭度、色、トーン、ディテールの調整\n• テキストとカーブテキストツール\n• モーションぼかし、ズームぼかし、スピンぼかし、レンズぼかし、選択ぼかし、グラデーションツール\n• ワープ、遠近変換、歪みツール\n• ペイント、スマッジ、クローンスタンプ、エフェクトブラシ\n• 内蔵の影作成ツールと Light Wrap ツール\n• リアルタイムマスクと描画モードに対応したカメラ塗りつぶし\n• 再利用できる切り抜きやステッカーを保存できるマスクライブラリ\n• プロジェクトを自動保存するセッションライブラリ\n• レイヤー付き PSD 書き出し\n• 100 万点以上のロイヤリティフリー写真素材にアクセス\n\nSuperimpose X は、手作業で作る自由、必要なときに使える AI のスピード、そしてすべての結果を自分の作品として仕上げるためのコントロールを提供します。\n\nすでにクラシック版 Superimpose アプリをお使いの場合は、保存済みのマスクを Superimpose X に転送できます。\n\n1. 元の Superimpose アプリを開きます。\n2. ホーム画面の「?」ボタンをタップします。\n3. 「Transfer masks to Superimpose X」を選択します。\n4. マスクが Superimpose X で使用できるようになります。\n\n利用規約：https://www.superimposeapp.com/superimposex_terms_of_use.html\nプライバシーポリシー：https://www.superimposeapp.com/privacy2.html",
+   "sellerName": "Pankaj Goswami",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "873885741": {
+   "trackName": "HiVideo - 縦持ち横長写真＆ビデオカメラ撮影",
+   "price": 320.0,
+   "averageUserRating": 4.25676,
+   "userRatingCount": 74,
+   "releaseDate": "2014-05-09T15:20:45Z",
+   "currentVersionReleaseDate": "2026-09-09T14:06:26Z",
+   "description": "HiVideoは縦持ちで横長ビデオ、横長写真、スクエア写真が撮れるアプリです。\n片手だけで手軽に撮影が可能です。\n\n人混みのなかでiPhoneを横に持ったままのビデオ撮影や写真撮影は、なんだか気恥ずかしいですよね。\nHiVideoはポケットから出して、片手でさりげなく横長のビデオ撮影や写真撮影ができます。\n片手で縦に持ったまま、親指で撮影ボタンやズームが操作できます。\n\nリアルタイムズームでスムーズな拡大・縮小ができます。\nオートフォーカスマークが表示されるので、フォーカスがあったタイミングが一目でわかります。\n移動しながらの撮影を手振れ補正機能がサポートします。\n表示領域が小さくても最大でフルＨＤの高画質。\n左右のフリックでビデオ撮影と写真撮影、スクエア撮影を簡単に切り換え。\n\n\n【機能】\n - ビデオ撮影\n - 写真撮影\n - スクエア撮影\n - プレビュー画面\n - プレビュー画面からの削除\n - メール送信、他のアプリで開く\n - リアルタイムズーム\n - 無音カメラ（本体のマナーモード時）\n - 手振れ補正 （解像度により指定可能）\n - フォーカスロック\n - 露出ロック\n - マイクのオン／オフ\n - フロントおよびバックカメラに対応\n - 解像度の切り換え\n - ライト\n\n\n【ビデオ解像度】\n - 1920x1080（iPhone7以降）\n - 1280x720\n - 1072x604\n - 720x406\n - 480x270\n\n【写真解像度】\n - 3024x2268\n - 2448x1836\n - 1080x810\n - 720x540\n\n【スクエア写真解像度】\n - 3024x3024 \n - 720x720\n\n\n撮影した動画・写真はカメラロールに保存されます。\n\n\n【推奨機種】\n　iPhone6s以降\n【その他機種】\n　iPad、iPodTouchは正式対応しておりません。\n\n\n※HiVideoが強制終了する場合はメモリ不足の可能性があります。iPhoneの再起動をお願い致します。\nまたは、アプリを一旦削除してから再度インストールをお願い致します。",
+   "sellerName": "sky-nexus Inc.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "402405770": {
+   "trackName": "Massive Dev Chart Timer",
+   "price": 1500.0,
+   "averageUserRating": 4.59999,
+   "userRatingCount": 10,
+   "releaseDate": "2010-11-12T06:20:44Z",
+   "currentVersionReleaseDate": "2026-07-09T15:56:53Z",
+   "description": "The Massive Dev Chart is the world's largest film development chart with easy to use multi step timer and darkroom support for iPhone and iPad. Watch the instructional video at: https://www.youtube.com/watch?v=P915z6THiY8. \n\n*** Features *** \n• Offline copy of The Massive Dev Chart in your pocket \n• Multi Step Timer with sound notifications\n• Customizable agitation scheme \n• Darkroom themes \n• Dilution Mixer \n• Support for two-step development and two-step fixing \n• Support for optional hypoclear and photo flo steps \n• Automated development time/temperature compensation",
+   "sellerName": "Freestyle Sales Company Limited Partnership",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6749664084": {
+   "trackName": "MannerShotNote 資料スキャン",
+   "price": 450.0,
+   "averageUserRating": 3.5,
+   "userRatingCount": 2,
+   "releaseDate": "2025-08-16T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-20T03:15:05Z",
+   "description": "静かな場所でも気兼ねなく、目の前の資料を残せます。\n撮った写真はメモとタグを付けてノートにまとまり、あとから検索してPDFで共有できます。\n\n■ 資料を撮る\n・シャッター音を鳴らさずに撮影できるので、会議中や講義中でも周りを気にせず使えます\n・ひとつのノートに何枚でも追加で撮影できます\n・画質は3段階。文字が読めれば十分なときは端末の容量を節約できます\n\n■ ノートにまとめる\n・撮影のあとすぐにメモを書き添えられます\n・「重要」「要整理」「後で確認」などのタグをワンタップで付けられます\n・自分の使いやすいタグを追加することもできます\n\n■ あとから見つける\n・メモの全文検索で、あのときの資料をすぐ呼び出せます\n・今日・今週・今月・期間指定で絞り込めます\n・リスト表示とグリッド表示を切り替えられます\n\n■ 共有する\n・ノートまるごとを1つのPDFにまとめて送れます\n・画像とメモをZIPでまとめることもできます\n\n■ まっすぐに整える\n・斜めから撮った資料も、台形補正で正面から撮ったように整えられます\n・ノート内のまだ補正していない画像は、まとめて自動補正できます\n\n■ 文字を読み取る\n・写真に写った文字を認識してメモに追加できます（日本語・英語）\n\nすべての処理が端末の中で完結します。アカウント登録は不要です。\n\n【こんなときに】\n・会議のホワイトボードや配布資料を手元に残したい\n・講義のスライドを撮って、あとで見返したい\n・展示会で集めた資料を1つにまとめたい\n・書類や明細をPDFにして送りたい",
+   "sellerName": "Ryo Sato",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "917146276": {
+   "trackName": "Manual – RAW Camera",
+   "price": 600.0,
+   "averageUserRating": 4.18644,
+   "userRatingCount": 59,
+   "releaseDate": "2014-09-23T06:31:46Z",
+   "currentVersionReleaseDate": "2020-01-28T03:05:32Z",
+   "description": "Custom exposure for your iPhone camera. A simple intuitive interface for powerful controls, saving images in the RAW DNG format to your camera roll.\n\nFeatured in the NYTimes \"If you like to manually adjust camera settings, you’ll love Manual\".\n\nA powerful camera app with full control over your image. Quickly and simply adjust all parameters of your image. Every control a professional needs to take a photo is within reach. No more tapping and hoping automatic can understand what you want. Take control.\n\nFull independent control of\n\n• Shutter\n• ISO\n• Focus\n• Exposure Compensation\n\nCool Things®\n\n• RAW DNG and/or HEIF format\n• Focus Zoom\n• Histogram\n• Level\n• Timer\n• Depth Capture\n• Fill Flash Mode (Flashlight)\n• Grid Overlays (Thirds, Square)\n• Light & Dark Themes\n• EXIF Viewer\n\nIf you're a photographer tired of trying to tap your way to the exposure you want, then this is the app for you. Fighting to get the sweet spot between a blown out background and a silhouetted subject? Stop tapping and just set the ISO and shutter yourself – you know how, stop letting your silly pocket computer decide what looks good to you.\n\nBe better than automatic. Shoot Manual.\n\n—\n\nRequires iOS 11 or later.  RAW capture available on iPhone SE, 6s and above. HEIF capture is available iPhone 7 and above.\n\n—\n\nMade by William Wilkinson & Deepak Mantena\n@shootmanual\nhttp://shootmanual.co",
+   "sellerName": "William Wilkinson",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1239098425": {
+   "trackName": "Camera M – マニュアルカメラ",
+   "price": 1300.0,
+   "averageUserRating": 4.39674,
+   "userRatingCount": 184,
+   "releaseDate": "2017-08-03T22:20:23Z",
+   "currentVersionReleaseDate": "2026-09-24T17:46:33Z",
+   "description": "Camera M は、1つのことを非常に優れた精度で行うために設計されたプロフェッショナルなマニュアルカメラです。それは、DSLRに匹敵する強力で精密なマニュアルカメラコントロールを使用して、最高の品質で美しい写真を撮影するお手伝いをすることです。\n\n\nハイライト\n• ジェスチャー操作対応のネイティブマニュアルコントロール（微調整機能付き）\n• iOS 26最適化、Liquid Glassデザイン\n• マクロ撮影向けの最小焦点距離表示\n• インテリジェントフォーカストラッキング\n• フォーカスピーキングおよびパン機能付き4倍ルーペ\n• ライブRGBヒストグラム\n• グレーカード手動キャリブレーション\n• 最大画質処理で最高の画像品質を確保\n• ゼロプロセスRAW対応\n• 画像形式: ProRAW*、RAW、HEIF、JPEG、TIFF、PNG\n• 撮影モード: シングル、バースト、タイマー、ライブ、深度*、デュアルフォト*、ブラケット\n• トリプルフォトモード（超広角、広角、望遠を同時撮影）*\n• Darkroom統合\n• 写真用の便利なウィジェット\n• アプリショートカット\n\n\nカメラコントロール\n– マニュアルフォーカス\n– マクロおよびシーンフォーカスプリセット\n– 露出補正\n– ISOおよび露光時間の手動調整\n– ISO & 露光時間のセミ優先モード\n– 手動ホワイトバランス（色温度と色かぶり調整）\n– ホワイトバランスプリセット\n– グレーカードによるホワイトバランスキャリブレーション\n– フラッシュ: オート、オン、オフ\n– 手動トーチ輝度調整\n– 超広角、広角、望遠カメラの手動切替*\n– デジタルピンチズーム（10倍）\n– すべてのマニュアルコントロールに対応\n– ロック画面からのカメラ撮影対応\n\n\n画像形式\n– Apple ProRAW*\n– RAW（手ぶれ補正付き）*\n– HEIF（最小圧縮オプション付き）*\n– JPEG（最小圧縮オプション付き）\n– TIFF\n– PNG\n– Live Photo*\n– P3ワイドカラー対応*\n\n\n撮影モード\n– シングル\n– バースト\n– タイマー\n– 深度*\n– デュアル/トリプルフォト*\n– Live Photo*\n– ブラケット\n\n\nツール\n– 露出補正ゲージ\n– インテリジェントフォーカストラッキング\n– ライブフォーカスピーキングアシスタント\n– 4倍ルーペ（パン機能付き）\n– 最小焦点距離表示\n– ライブRGBヒストグラム\n– ハイライト＆シャドウ警告表示\n– 水平器（ピッチ追跡およびフラットオプション対応）\n– 三分割法、黄金比、クアドラント、スクエアグリッド\n– Siriショートカットおよびアプリショートカット\n– カメラ仕様の詳細表示（PDF出力対応）\n\n\n最大画像処理\n– iPhone 11以降でDeep FusionおよびSmart HDR対応\n– すべてのiPhoneおよびiPadで、ノイズ低減、手ブレ補正、追加処理による最高画質を保証\n\n\nゼロプロセスRAW\n– 標準RAWファイルを一切処理せずに撮影可能\n\n\nフォトライブラリ\n– EXIFメタデータ表示\n– 位置情報（コンパスと高度付き）表示\n– RGBおよびRGB輝度ヒストグラム\n– すべての写真アルバム・フォルダへのアクセス\n\n\nウィジェット\n– ホーム画面: ゴールデンアワー、EXIF、カメラ\n– ロック画面: カメラ、ゴールデンアワー\n– コントロールセンター: フォーカス、露出、ホワイトバランス\n\n\nApple Watch対応\n– シャッターボタン操作\n– 太陽位置表示付きゴールデンアワー表示\n\n\nエルゴノミクス\n– すべてのiPhoneで片手操作可能\n– 横向き時のユーザー体験を最適化\n\n\nアクセシビリティ\n– Dynamic Typeおよび太字テキスト対応\n– コントラスト強化対応\n\n\nテクノロジー\nCamera Mは、ネイティブAPIおよびフレームワークのみで動作します。これにより、ダウンロードサイズの小ささからアプリ起動の速さまで、効率的でレスポンシブな動作を実現しています。\n\n\nCamera Mで素晴らしい写真撮影をお楽しみください！\n\n\nウェブサイト: www.camera-m.com\nユーザーマニュアル: www.camera-m.com/manual\nお問い合わせ: contact@camera-m.com\nフォロー: @CameraMApp\n#CameraM\n\n\n* これらの機能は、対応デバイスでのみ利用可能です。\n* 深度撮影にはiPhone X以降が必要です。\n* 自撮り用の深度撮影には、TrueDepthカメラ搭載のiPhoneまたはiPadが必要です。\n* Apple ProRAW撮影にはiPhone 12 Pro以降が必要です。\n* デバイスおよび機能の互換性についての詳細: www.camera-m.com/compatibility",
+   "sellerName": "bxb, LLC",
+   "genres": [
+    "写真／ビデオ",
+    "ライフスタイル"
+   ]
+  },
+  "6757554862": {
+   "trackName": "Panorama Slicer",
+   "price": 300.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-01-10T08:00:00Z",
+   "currentVersionReleaseDate": "2026-01-19T06:20:23Z",
+   "description": "写真やパノラマを数秒でInstagramカルーセルに変換。iPhone、iPad、Macで動作します。\n\n一度購入すれば、永久にあなたのもの。\nサブスクリプションなし。月額料金なし。「プレミアム」への誘導なし。一度支払えば永久にあなたのものです。他のアプリはこのシンプルな機能に月額500〜1000円を請求しますが、写真を分割するためにサブスクは不要だと考えています。\n\n機能\n • 横長のパノラマを2〜9枚の完璧に揃ったスライドに分割\n • フォーマットを選択：4:5（縦長）、1:1（正方形）、9:16（ストーリーズ）\n • ドラッグで位置を調整し、使いたい部分を正確に選択\n • ピンチで精密なズーム操作\n • 保存前にスライスをリアルタイムプレビュー\n • Instagram対応の解像度（1080px）で写真に直接書き出し\n\nこんな用途に最適\n • スワイプで見せたい旅行パノラマ\n • クロップだけでは勿体ない広大な風景写真\n • 建築物や都市の景観\n • 1枚に収まらない集合写真\n\nシンプル＆高速\n 1. 写真を選ぶ\n 2. スライス数とフォーマットを選択\n 3. 必要に応じて位置を調整\n 4. 写真に保存\n 5. Instagramに投稿\n\niPhone、iPad、Macで動作します。\n\nアカウント不要。透かしなし。広告なし。余計なものなし。\n\n利用規約（EULA）：https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "sellerName": "Reimagined Multimedia KLG",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "1487384157": {
+   "trackName": "Luxilux 露出計",
+   "price": 1000.0,
+   "averageUserRating": 4.59184,
+   "userRatingCount": 98,
+   "releaseDate": "2019-11-12T08:00:00Z",
+   "currentVersionReleaseDate": "2025-03-21T17:45:18Z",
+   "description": "古いフィルムカメラを使うのが好きだけど、内蔵の露出計がない？\n内蔵のメーターが壊れているか、特別なバッテリーが必要？\nLuxiluxを使えば、いつでもポケットに露出計があります。\n\n--- 露出計測 ---\nLuxiluxは、プレビューで見た画像の平均値を取ります。\nズームインまたはズームアウトして、さらに正確な計測エリアを指定できます。\nデバイスに2つまたは3つの背面カメラがある場合、それらの間を切り替えることができます。\n興味のあるポイントをタップして、それらに適切に露出させることもできます。\n\n--- モード ---\nISOと絞りを選択してLuxiluxを絞り優先モード（Av）で使用すると、適切な露出を得るための適切なシャッタースピードがLuxiluxによって計算されます。\nISOとシャッタースピードを選択してシャッタースピード優先モード（Tv）で使用すると、適切な露出を得るための適切な絞りがLuxiluxによって計算されます。\nマニュアルモード（M）では、すべての値を変更し、計算された最適露出からどれだけずれているかを表示します。\n\n--- 露出保存 ---\n「保存」をタップすると、現在選択されている設定がプレビュー画像と共にフォトライブラリに保存されます。\n測定が行われた場所も許可すると保存できます。\nLuxiluxまたは写真アプリで保存した写真を表示できます。\n\n--- プロファイル ---\nISO、絞り、シャッタースピードには、全段階、半段階、または1/3段階から選択できます。\nカメラ、レンズ、フィルムの組み合わせがサポートする最小値と最大値を指定します。\nこれらの設定をプロファイルに保存して、迅速に呼び出せるようにすることができます。",
+   "sellerName": "Christian Lobach",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "885129715": {
+   "trackName": "写真ウィジェット",
+   "price": 150.0,
+   "averageUserRating": 4.06977,
+   "userRatingCount": 43,
+   "releaseDate": "2014-11-02T22:41:14Z",
+   "currentVersionReleaseDate": "2025-07-02T19:09:36Z",
+   "description": "これらのウィジェットは、新しいiOS 14ホーム画面ウィジェットと互換性があります。\n\nこのアプリ(とPacoLabs からの他のウィジェットアプリ)のおかげで、特定の目的のカスタムウィジェットを追加して、デバイスの本日の表示をカスタマイズすることができます。\nデバイス内のどこからでも、簡単に上から下までスワイプすると、独自の情報とアクションにアクセスできます。\n\n各写真ウィジェットはデバイスのフォトライブラリーからの1枚以上の写真を表示できます。\nこれで愛する家族や友達のお気に入りの写真に最速でアクセスできます。\n各ウィジェット内の1～6枚までの写真を追加し、可能なスペースを最大限に使用。\nそれらの写真はタッチしてフルスクリーン内で表示できます。\n\nアプリは本当に簡単に使用でき、デバイスを新品同様に見えるようにしてくれます。\niOS13のダークモードがサポートされています。\n好きなだけウィジェットを追加でき、3つまでの異なるリスト内で表示されます。それらの同じリストは本日の表示でアプリ内に表示されます(可能なら、本日の表示内のウィジェットを非表示にします)。\n\n本日の表示に負担にならないように、沢山のウィジェットが表示されると、直感的なコントロールで1つのウィジェットから他のウィジェットにナビゲートします。\nアプリの主要な目的が本日の表示内でウィジェットを表示すると、大変簡単にアプリ内で直接表示されます(本日の表示内でウィジェットを長押しすると、主要なアプリ内で直接開くことができます)。",
+   "sellerName": "Francis Bonnin",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "467945370": {
+   "trackName": "i3DSteroid",
+   "price": 500.0,
+   "averageUserRating": 4.69231,
+   "userRatingCount": 13,
+   "releaseDate": "2011-09-30T22:49:39Z",
+   "currentVersionReleaseDate": "2026-01-08T20:19:42Z",
+   "description": "iPhone/iPad/iPod touch用のユニバーサル ステレオ写真表示アプリです。 \n主な機能 \n・左右画像の自動位置調整\n・入力ファイルは、左右別画像、SBSステレオ画像、MPO、空間写真に対応 \n・WEBギャラリーで1000枚以上のステレオ画像を鑑賞 \n・表示は、横並び、ミラー法、2D表示、左右切替表示、各種アナグリフに対応 \n・XREAL Air2/VITURE One等のスマートグラスに対応\n・表示画像の保存機能 \n・スライドショー \n・内蔵カメラでの左右画像オーバーレイを使った3D撮影 \n・左右の位置調整、角度調整 \n・左右画像の回転表示 \n・Twitter/Facebookへの画像投稿 \n・画像のトリミング \n・奥行き調整モード(全画面表示の時、画面左上をクリック)\n・FlucardからMPOファイルの直接読み込み",
+   "sellerName": "MASUJI SUTO",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6698876690": {
+   "trackName": "WristTube+ Player for YouTube",
+   "price": 500.0,
+   "averageUserRating": 4.5,
+   "userRatingCount": 2,
+   "releaseDate": "2024-09-28T07:00:00Z",
+   "currentVersionReleaseDate": "2026-05-22T14:39:04Z",
+   "description": "WristTube+ is an advanced YouTube video-watching app designed for Apple Watch. As an upgrade to the original WristTube, this app allows you to watch any video directly on your watch, including live streams. It is compatible with all Apple Watch models, both GPS and LTE versions. WristTube+ offers a convenient and intuitive video-watching experience, keeping you updated and making it easy to manage your content right from your wrist.\n\nFeatures:\n\n- Video Search: Quickly search for your favorite videos within seconds.\n- YouTube Video Player: An easy-to-use video player that supports fast-forwarding and rewinding, with auto-play for the next video, eliminating the need for screen interaction.\n- Live Stream Support: Watch live stream videos seamlessly.\n- Trending and Most Popular Videos: Browse trending videos, top picks, and view video statistics.\n- Save Videos to Favorites: Keep track of your favorite videos with simple saving options.\n- Watch History: Easily access and manage your video watch history.\n- Support Widget: Stay connected with quick access to videos through WatchKit widgets.\n\nWristTube+ maximizes convenience, allowing you to enjoy YouTube content anytime, anywhere, directly from your watch. Download now and start exploring your favorite videos with ease!",
+   "sellerName": "WRISTTECH STUDIO COMPANY LIMITED",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "656906251": {
+   "trackName": "フィールドツール（被写界深度、DOF）",
+   "price": 150.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2013-06-09T04:29:37Z",
+   "currentVersionReleaseDate": "2020-04-29T22:38:28Z",
+   "description": "フィールドツール分野で働いているカメラマンのためのフィールド演算の使用して簡単に、効率的な深さです。ちょうどいくつかのタッチを使用して、あなたはすぐに過焦点、近焦点を計算することができますし、はるかに単一の画面から、すべての距離を当てる。アプリケーション設定へもワンタッチです。機能が含まれます：\n結果表示を読むこと•、ラージ容易\n•距離型スイッチ - 過焦点、近く限界、限界をはるかに、近い/遠い限界組み合わせる - ワンタッチで\n焦点距離、絞り値と焦点距離を調整するためのスライダー•\n•複数のカメラやレンズを構成し、わずか数タッチでそれらを切り替える\nメートル、フィート、またはフィートとインチで•結果\n\nField Tools (Depth of Field, DoF)\nField Tools is an efficient, easy to use depth of field calculator for photographers working in the field. Using just a few touches, you can quickly calculate hyperfocal, near focus and far focus distances, all from a single screen. App settings are also a single touch away. Features include:\n•Large, easy to read result display\n•Switch distance type - hyperfocal, near limit, far limit and combined near/far limits - with a single touch\n•Sliders for adjusting focal length, aperture and focus distance\n•Configure multiple cameras and lenses and switch between them with just a few touches\n•Results in meters, feet or feet and inches",
+   "sellerName": "Evgeny EGOROV",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "879727374": {
+   "trackName": "写真情報 -  EXIF/ GPSの位置の確認と削除",
+   "price": 300.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2014-05-21T19:39:58Z",
+   "currentVersionReleaseDate": "2026-08-08T15:33:28Z",
+   "description": "撮影された位置と写真の拡張情報（EXIF）を見ることができ、削除することができます。アップルフォトアプリで写真の情報をすぐに確認することができる画像拡張アプリをサポートし、一度の購入でiPhoneやiPadで使用することができます。\n\n◉写真情報（EXI F Extended Information）を表示\n•ファイル名、サイズ、作成日、\n•画像の解像度\n•メーカー、モデル、ソフトウェア\n•レンズメーカー、レンズモデル\n•絞り値、明るさの値、露出情報、F値、ISO感度の評価\n•ホワイトバランス、シャッタースピード\n•GPS、緯度、経度\n\n◉写真が撮られた場所を表示する\n•位置が保存されて画像の場合には、写真が撮影された位置の緯度、経度、住所を見ることができ、地図上で確認することができます。\n•標準、衛星、ハイブリッド地図を見ることができます。\n•アップル地図、Googleマップ、ネイバー地図、次の地図で写真の位置を開くことができます。\n\n◉写真の位置情報（GPS）を削除\n - 写真の保存されたGPS情報を削除することができます\n -  GPS情報を削除した写真を共有することができます\n（インターネットやSNSに写真を共有するときは、GPS情報を削除すると、写真の位置が公開されていません）\n\n◉写真拡張アプリサポート\n•アップル写真アプリから直接画像情報を見ることができます。\n\n◉ダークモードをサポート\n•iOS 13以上でダークモードをサポートします。\n•自動/ライト/ダークモード画面のスタイルを設定することができます。\n\n◉ユニバーサルアプリ\n•一度購入でiPhoneやiPadで使用することができます。\n\n◉サポート\n•アプリ情報>お問い合わせを通じて1：1お問い合わせをサポートします。\n\n利用規約：https://www.apple.com/legal/internet-services/itunes/dev/stdeula",
+   "sellerName": "Youngwan Choi",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6758233962": {
+   "trackName": "写真アップスケーラー",
+   "price": 1500.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2026-01-28T08:00:00Z",
+   "currentVersionReleaseDate": "2026-09-22T15:16:43Z",
+   "description": "アップロードせずに、写真を大きく、より鮮明に。\n\nローカル写真アップスケーラーは、iPhone と iPad で使えるプライベートな AI 写真補正アプリです。写真のアップスケール、ノイズ除去、シャープ化、ポートレート復元を端末上で処理するため、写真をクラウドに送る必要はありません。\n\nこんなときに使えます:\n\n- 低解像度の写真を 最大 4x AI アップスケール\n- やわらかい、ぼやけた、ノイズの多い写真を改善\n- ポートレートのディテールや顔まわりをより鮮明に\n- 古い写真、切り抜き、スクリーンショット、保存画像を補正\n- 保存前にビフォー/アフターを比較\n- プライベートな写真を自分の端末内に保持\n- 機内モードを含むオフライン環境で作業\n- サブスクリプションではなく買い切りで利用\n\nシンプルな流れ:\n\n1. 写真を選ぶ\n2. アップスケール、ノイズ除去、シャープ化、ポートレート復元を選ぶ\n3. 結果を確認する\n4. 補正した画像を写真ライブラリに保存\n\n違い:\n\n- 端末上で処理\n- アップロードなし\n- アカウント不要\n- 広告なし\n- サブスクリプションなし\n- トラッキングなし、データ収集なし\n\nローカル写真アップスケーラーは、個人的な写真をサーバーに送らずに使える、集中型の画像アップスケーラー、写真拡大、ポートレート復元、プライベート AI 写真補正ツールです。\n\n買い切り。プライバシーを前提に設計。\n\n元の画像サイズに応じて最大4倍に拡大し、出力は約1,700万画素までです。Sharpenは少しぼやけた写真の輪郭を強調しますが、激しい手ブレや被写体ブレは復元できません。AIによる顔の復元では、顔の細部が変わる場合があります。",
+   "sellerName": "David Balderston",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "6479597521": {
+   "trackName": "遠近切り抜きレンズ",
+   "price": 300.0,
+   "averageUserRating": 4.66667,
+   "userRatingCount": 3,
+   "releaseDate": "2024-03-19T07:00:00Z",
+   "currentVersionReleaseDate": "2025-10-13T16:22:12Z",
+   "description": "真正面から撮影したつもりでも、デバイスの角度のずれやカメラのレンズのせいで、画像がゆがんでしまうのが「写真」です。\nテレビ画面、展示物、ホワイトボード、看板、ポスター、書類、写真、黒板、絵画、書道作品、時刻表、スマホ画面など。\nまた、物理的な制約で真正面から撮影できない場合も多々あります。\n\nそんな遠近でゆがんだ写真から、必要な部分だけをすばやく直角に切り抜くことができます。\n写真から自由な形状の四角形を切り抜き、直角の長方形画像を新たに生成します。\n「切り抜き画像ビュー」により、リアルタイムで結果を見ながら楽しく作業できます。\n\n\nさらに・・・\n逆に、単調な写真に対して遠近効果をつけることもできます。\n\n【特長】\n・リアルタイムで確認できる「切り抜き画像ビュー」\n・「拡大鏡」で、切り抜きマークの微調整が思いのまま\n・「縦横比」の調整もピンチ操作で直感的\n・切り抜きマーク同士の水平／垂直も色でお知らせ\n\n【写真ソース】\n・カメラを起動して写真撮影\n・フォトアルバムから写真選択\n・共有ファイルを他のアプリからインポート\n・Web画像等からコピーした写真の貼り付け\n\n【出力】\n・画像ファイル保存：フォトアルバム（カメラロール）\n・画像ファイル共有：AirDrop, LINE, Facebook, Dropbox, Instagram,...",
+   "sellerName": "Masanori Katsuta",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "1514082300": {
+   "trackName": "StroboScope",
+   "price": 800.0,
+   "averageUserRating": 3,
+   "userRatingCount": 3,
+   "releaseDate": "2020-05-21T07:00:00Z",
+   "currentVersionReleaseDate": "2024-01-30T05:55:20Z",
+   "description": "StroboScopeは高速運動している物体を連続写真的に見せられるアプリです。ゾートロープやアニメーション装置のストロボフラッシュやスリットの代わりとして利用でき、ビデオ記録することもできます。\nまたISOやFPSの操作が可能。回転体・運動体に合わせて明るさや回転数を調整できます。二本指で画面を長押しすると全ボタンが非表示になり、展示モードに切り替わります。",
+   "sellerName": "Masayuki INOUE",
+   "genres": [
+    "写真／ビデオ",
+    "教育"
+   ]
+  },
+  "6596740131": {
+   "trackName": "ラブ ソフィア - コンセプトフィルター",
+   "price": 150.0,
+   "averageUserRating": 5,
+   "userRatingCount": 3,
+   "releaseDate": "2024-09-23T07:00:00Z",
+   "currentVersionReleaseDate": "2025-09-21T03:36:23Z",
+   "description": "ラブ・ソフィアは、好きな映画からインスピレーションを得て制作したフィルターアプリです。\n\n手作りの多彩なフィルターは、映画のさまざまなシーンを簡単に再構成できるように準備しました。\n私の話が盛り込まれた写真と映像を映画の中の色味でもっと特別に作ってみてください。\n\nフィルター\n* 5つの映画の様々なシーンに触発された17のフィルター\n* クレジット フィルター 1 つとクッキー フィルター 2 つがさらにあります。\n\nエフェクト\n* ちょっとした発見の楽しい各フィルターにマッチング効果を提供\n* 自分のストーリーテリングに活用してみてください\n\n\nHouse of FX\nインスタグラム: https://www.instagram.com/house_of_fx/",
+   "sellerName": "HouseOfFX",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1547228500": {
+   "trackName": "OBS Controller",
+   "price": 300.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2021-02-16T08:00:00Z",
+   "currentVersionReleaseDate": "2026-01-13T06:42:02Z",
+   "description": "Simple is better. This app is focused on having a simple mobile scene switcher in OBS. In OBS v28 and later it should work out of the box. For earlier versions, it requires the obs-websocket plugin to be installed. You can download it here:\nhttps://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-from-websockets.466/\n\n- Hide scenes that you don't want to accidentally switch to\n- Control your stream, recording or virtual camera output\n- Show/hide individual scene elements\n- Mute audio sources\n- Configure a delay for the commands in case you want to sync scene switches with camera delays",
+   "sellerName": "Fallen Starlight AB",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6480299641": {
+   "trackName": "FilmN Chan: Voyage",
+   "price": 300.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2024-04-04T07:00:00Z",
+   "currentVersionReleaseDate": "2024-07-03T23:54:31Z",
+   "description": "• Put the filter that the real photographer uses on my photos \n\n• Provides detailed features such as - Apply filters to photos, adjust filter intensity, photo detail correction, film look effect\n\n• It offers beautiful filters with various themes - Argent, Rouge, Rose, Vert, Blue, Orange, Jaune,  Dor_, Blanc, Noir\n\n• Change your pictures with the grain film look effect\n\n• Complete your own photos using photo detail correction\n\n\nContact: filmn.ljm@gmail.com",
+   "sellerName": "Junmo Lee",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "6816298698": {
+   "trackName": "Rewind 96: 90s Film Camera",
+   "price": 150.0,
+   "averageUserRating": 5,
+   "userRatingCount": 1,
+   "releaseDate": "2026-10-01T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-02T00:36:02Z",
+   "description": "Snap it like it's 1996.\n\nRewind 96 turns your iPhone into a pocketful of 90s cameras. Pick a camera, see the look live in the viewfinder, and tap the shutter. Your photo develops instantly, complete with grain, light leaks and that iconic orange date stamp. Keep the ones you love and retake the rest.\n\nEVERY CAMERA INCLUDED\nAll six cameras are ready from the first shot. No ads. No watermarks. No photo limits. No waiting for photos to develop. No account.\n\n6 RETRO CAMERAS\n- Disposable: Warm color, light leaks and the orange date stamp\n- Point & Shoot: Soft 35mm film with gentle grain\n- Instant: Square prints in a white frame with a handwritten date\n- Camcorder: Tape-style scan lines, color bleed and the PLAY overlay\n- Digicam: 0.3 megapixels of punchy, over-sharpened color\n- B&W 400: Black and white with heavy film grain\n\nSEE IT BEFORE YOU SHOOT\nThe viewfinder shows each camera's look in real time, so you know exactly what you'll get.\n\nPICK ANY YEAR\nStamp today's date, or send it back to any year from 1990 to 1999. You can also turn the stamp off.\n\nFLASH, EVEN FOR SELFIES\nUse the real flash on the back camera. On the front camera, the screen lights up to brighten your face.\n\nRETRO-FY YOUR OLD PHOTOS\nPick any photo from your library and give it the same 90s look.\n\nPRIVATE BY DESIGN\nEverything happens on your iPhone. Rewind 96 never uploads your photos. No sign-in, no tracking.\n\nQuestions or ideas for a new camera? Tap Help & Support in Settings.",
+   "sellerName": "Hiroaki Tajima",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "6797674779": {
+   "trackName": "背景透過・切り抜き PNG",
+   "price": 600.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-08-21T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-22T16:18:31Z",
+   "description": "iPhoneやiPadで写真の背景を取り除き、透明なPNGとして書き出しましょう。白い背景の製品写真を作成したり、人やペットを切り抜いたり、自分のデザイン用に画像を準備できます。\n\nアプリを一度購入するだけで、すべての編集ツールと元の解像度での書き出しが使用可能です。サブスクリプションは不要。広告なし。アプリ内課金なし。すでにアプリをお持ちの場合は、すべてのツールを含む更新版にアップデートしてください。\n\n切り抜きを自分のものに\n• 人、ペット、オブジェクトを自動で検出\n• 同じ写真から1人、または複数の対象を保持\n• 詳細を復元したり、不要なエッジを手動で消去\n• 透明、白、黒、またはカスタムカラーの背景を選択\n• 元の比率、正方形、4:5、3:4 にトリミング\n\n元の解像度で書き出し\n透明PNGを保存、またはPNGと高品質JPEGを背景付きで書き出し。完成した画像を共有するか、直接写真に保存できます。\n\n写真はあなたの手元に\n画像処理はデバイス上で行われ、オフラインでも可能。アカウント、写真のアップロード、追跡は不要です。\n\n一度に1枚の写真に集中できるエディター。\n\n利用規約（EULA）：Apple標準EULA\nhttps://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+   "sellerName": "David Balderston",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "6783559364": {
+   "trackName": "GIFmaker: GIF Maker & Editor",
+   "price": 150.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-07-10T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-09T21:09:45Z",
+   "description": "GIFmaker is a complete GIF studio that runs entirely on your device.\n\nTurn photos, videos, or Live Photos into animated GIFs, then fine-tune every detail with a live animated preview.\n\nNo watermark. No account. No uploads. Every frame stays on your device.\n\nKey features:\n- Photos to GIF — pick images and arrange them into an animation\n- Paste from clipboard — copy an image anywhere, then paste or drag it straight in\n- Video to GIF — trim any video or Live Photo and choose the frame rate\n- 11 border styles — neon glow, rainbow, sparkle, zigzag, sticker, dots, polaroid, film, rounded, stroke, or none\n- Live preview — watch your GIF play as you edit\n- Per-frame timing — set the delay of each frame on its own\n- Text overlays — add captions with custom color, size, and position\n- Filmstrip editing — drag to reorder, duplicate, reverse, or boomerang\n- Canvas presets — 1:1, 4:3, 3:4, 16:9, 9:16 with fit and background controls\n- Export, share, or save GIFs to Photos\n\nAlso on Mac — the same editor, with clipboard paste and drag-and-drop.\n\nPerfect for social posts, memes, product demos, and tutorials.",
+   "sellerName": "bo chen",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1560947520": {
+   "trackName": "Chopper - AIで動画・音声を無音カット",
+   "price": 300.0,
+   "averageUserRating": 3.6383,
+   "userRatingCount": 47,
+   "releaseDate": "2021-04-23T07:00:00Z",
+   "currentVersionReleaseDate": "2026-10-01T21:36:41Z",
+   "description": "AIで人の声だけを抽出して、無音部分を自動でカットするアプリです。\n\nYouTube向けの動画編集（ジェットカット）や、Podcastsの音声の無音カット等々にお役立てください。\n\n---------------------------------\n■ AI無音カットとは？\n---------------------------------\n\n本アプリではAI（ディープラーニング）技術を使用して「人の声」だけを判別し、不要部分をカットします。\n\n従来の無音カットでは判別できなかった「物音」や「ガサゴソ音」もカットできます。\n\n---------------------------------\n■ オフラインで利用可！セキュリティも安心\n---------------------------------\n\n処理はすべてiPhone/iPad上で行うので、オフラインでも利用できます。\n\nサーバーへのデータ送信は一切行わないので、セキュリティ面、プライバシー面でも安心です。\n\n\n---------------------------------\n■ 使い方\n---------------------------------\n\n動画を選択して、「書き出し」ボタンをタップするだけ！\n\n---------------------------------\n■ Chopperの機能\n---------------------------------\n\n・カットの強さを3段階で調整できます。\n・書き出し品質を選択できます。\n・短尺・軽量化した動画を保存したり、SNS等に共有することもできます。\n・動画（ビデオ）だけでなく、音声ファイルもサポート。\n・動画から音声だけを抜き出すことも可能です。\n・動画のサイズ（容量）を小さくすることもできます。「中画質」を選択してください。",
+   "sellerName": "shuichi tsutsumi",
+   "genres": [
+    "写真／ビデオ",
+    "仕事効率化"
+   ]
+  },
+  "598542901": {
+   "trackName": "Perfect Video  Pro",
+   "price": 800.0,
+   "averageUserRating": 4.67129,
+   "userRatingCount": 2230,
+   "releaseDate": "2013-02-07T01:56:22Z",
+   "currentVersionReleaseDate": "2023-03-18T01:04:32Z",
+   "description": "Perfect Videoは、使い勝手が良く、機能満載のビデオ＆スライドショー編集アプリです。Perfect Videoなら、クリップの切り取りや結合、分割、逆再生、回転、ミラーリング、反転に加え、字幕やモザイク、ウォーターマーク、写真、テキストの追加、トランジションの選択、ミュージックや録画の追加、ビデオクリップの書き出し、これらすべてがあっという間にできます。\n\n[プレミアム機能]\n1.キーフレームアニメーション：様々な編集作業中にキーフレームを追加可能。\n2.ピクチャーインピクチャー（PIP）機能。\n3.分割画面：2種類のビデオを並べてプレイ。\n4.クロマキー（グリーンバック/ブルーバック）：ビデオの背景にビデオまたは写真を組み込みます。\n5.モザイク効果：ビデオの一部をピクセル化またはハイライト。\n6.ビデオカラー：ビデオのカラー（明るさ、コントラスト、彩度、色相など）をリアルタイムで調整できます。\n7.フォトモーション：写真にケン・バーンズ効果を追加します。\n\n\n[その他の機能および使用方法]\n\n1) ビデオまたは写真をインポート：複数のビデオや写真を一瞬にしてプロジェクトに追加できます。\n2) 複数のキャンバス比率：ビデオのオリジナルサイズ、1:1、4:5、16:9、9:16、4:3、3:4、19.5:9、9:19.5、3:2、2:3、2:1、1:2、2.39:1\n3) キャンバスの背景設定：色を設定したり背景をぼかしたり、カスタム写真を追加できます。\n4) 結合：複数のビデオ、写真、テキストを１つのビデオクリップに結合できます。\n5) 分割：ビデオの中央部分を取り除いたり、ビデオの一部をスピードアップまたはダウンすることができます。\n6) ビデオから写真を作成：分割機能を使用して、ビデオから写真を作成します。\n7) 切り取り：不要な部分を切り取り\n8) スローモーション：ビデオ速度をアップダウンできます（0.25x-6x）。\n9) 切り取り、ミラーリング、反転、回転、および角度の調整。\n10) 逆再生：ビデオを逆再生できます。\n11) 複製：プロジェクトやビデオクリップの複製を作成できます。\n12) アニメートされた字幕の作成：アニメートされたテキストやイメージをビデオに追加できます。\n13) ウォーターマークビデオに自分だけのロゴを表示できます。\n14) 音量：ビデオをミュートまたは音量をアップ（0〜500％）できます。\n15) 音楽：プロジェクトに複数の曲を追加できます。曲をトリミングして一部のみを使用することも可能です。\n16) サウンドエフェクト：厳選したサウンドエフェクトの中からお選びください。\n17) トランジション：厳選したビデオクリップ向けのトランジションからお選びください。\n18) ビデオのフェードイン／フェードアウト最初と最後のショットに対して、フェードインとフェードアウトの設定が可能です。\n19) ビデオの圧縮：ビデオの解像度を変えることなくファイルサイズを大幅に減らすことができます。\n20) ストレージを有効利用：ビデオファイルのロケーションのみを保存されるため、読み込んだビデオが沢山の空き容量を必要とすることがありません（編集中のオリジナルビデオは削除しないようご注意ください)。\n21) 高解像度：1920x1080HDを含む数種のフォーマットをサポート。また、iPhone 6s、iPhone 6s Plus、iPad Air 2、iPad Proおよびそれ以降のモデルで最高4Kまでの解像度に対応。\n22) 共有：ビデオをカメラロールに保存したり、Instagram、Facebook、YouTubeやメールで共有できます。\n23) インスタントアクション：すべてのアクションが一瞬で実行されるので、待ち時間はゼロです！\n\n\nご質問やご提案がありましたら、いつでもご連絡ください。迅速に対処いたします。宜しくお願いします。\nメールアドレス：PerfectVideoSupp@iCloud.com",
+   "sellerName": "Beijing Perfect Frame Technology Co., Ltd",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "1554606485": {
+   "trackName": "Objet - Cut mask collage maker",
+   "price": 600.0,
+   "averageUserRating": 4.83288,
+   "userRatingCount": 371,
+   "releaseDate": "2021-07-04T07:00:00Z",
+   "currentVersionReleaseDate": "2026-01-30T03:11:19Z",
+   "description": "@objet.official_\n▲Instagram▲\nヒントやインスピレーション、クリエイティブなアイデアをゲット！\n–––––––––––––––––––––––––––––––––––––––––––––––––\n\nObjet. - 写真編集＆クリエイティブデザインツール\n写真をユニークな形状、フレーム、コラージュ、切り抜き、そして美しいデザインでクリエイティブな作品に変身させましょう。\nSNS向けの魅力的なコンテンツを作成\nObjet.の強力で直感的なデザインツールを使って、普通の写真を目を引くSNSコンテンツに変えましょう。Instagramの投稿、TikTok動画、ストーリー、リールなどに最適。注目を集めるフィルター、エフェクト、ビジュアルスタイルで群衆の中で際立ちましょう。\n\n● クリエイティブなクロップ＆切り抜き\nユニークで美しい形状で四角形から解放\n写真を視覚的に魅力的な構成やコラージュに変換\n精密なコントロールとスマートな切り抜きツールでカスタマイズ\n目を引くSNS投稿を瞬時に作成\n\n● ステッカーメーカー＆PNG作成\n知的な選択ツールで写真からオブジェクトを抽出\n透明背景でPNGファイルとして保存しデジタルコラージュに活用\nSNS、メッセージ、クリエイティブプロジェクト用のカスタムステッカーを作成\n簡単なエクスポートオプションで個人ステッカーライブラリを構築\n\n● 透明背景＆エフェクト\n写真切り抜き技術で背景を簡単に削除\nアルファチャンネルの問題なしでクリーンな切り抜きを作成\nオーバーレイ、フィルター、クリエイティブな構成に最適\n特別なエフェクトでデザインに画像をシームレスに統合\n\n● スタイリッシュなフレーム＆ボーダー\n画像を引き立てるオーガニックでスタイリッシュなフレームとボーダーを追加\nフレームスタイル、フィルター、ボーダーの厚さを選択\nSNS全体で統一感のある美学を作成\n写真に完璧な仕上げを追加\n\n● インテリジェントな色抽出＆フィルター\n写真に基づいた個別の色の推奨を取得\n画像から自然に抽出された完璧なパレットを発見\n推測なしでデザインに色の調和を作成\nフレーム、背景、テキストに補完的な色、フィルター、エフェクトを適用\n\n● ホーム画面カスタマイズ＆ウィジェット\n個人のスタイルを反映した美しいウィジェットをデザイン\niOSデバイスのホーム画面を視覚的なステートメントに変身\nお気に入りの写真や切り抜きでテーマをコーディネート\nいつでも新しいデザインでウィジェットを更新\n\n● クリエイター向けに設計\nSNS愛好家、デジタルアーティスト、美しいビジュアルを楽しむ人に最適。Objet.は複雑さを排除し、創造性を表現するツールを提供します。\n\n直感的なインターフェース - 複雑なソフトウェアを学ぶのではなく、創造性に集中\n迅速な編集 - 写真を変換し、数秒でコラージュを作成\n際立つ結果 - ユニークなフィルターとエフェクトで注目を集めるビジュアルを作成\nデザインの自由 - 形状、色、構成を試す\n\n● iOSデバイス向けに最適化\niOS 15.0以降を搭載したiPhoneおよびiPadに対応\nドラッグ＆ドロップ - 編集した画像をアプリ間でシームレスに移動\nマルチタスク - 効率的なワークフローのためのSlide Over＆Split Viewで編集\nApple Pencil対応 - 精密な選択とクリエイティブなコントロール\nフルスクリーン編集 - iPadの大画面を最大限に活用\n\nあなたのクリエイティブな相棒\nObjet.は単なる写真編集アプリではありません。日常を超えた視点を持つ人々のためのクリエイティブな相棒です。ミニマリストのアプローチで煩雑さを排除し、重要なことに集中できます：美しいビジュアルを作成し、あなたのユニークな視点を表現すること。\n完璧なInstagramグリッドをキュレーションすることからデジタルコラージュをデザインすることまで、Objet.は形状、色、構成を試す自由を提供し、不要な機能で圧倒されることはありません。\n\n–––––––––––––––––––––––––––––––––––––––––––––––––\n\n▼▼▼DM▼▼▼\n@objet.official_\n\n–––––––––––––––––––––––––––––––––––––––––––––––––",
+   "sellerName": "Hongmin Park",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "1668551706": {
+   "trackName": "Filmil - フィルタを作ることができるフィルムカメラ",
+   "price": 300.0,
+   "averageUserRating": 4.6375,
+   "userRatingCount": 80,
+   "releaseDate": "2023-04-27T07:00:00Z",
+   "currentVersionReleaseDate": "2024-10-05T01:17:39Z",
+   "description": "Filmilは35mmフィルムカメラの質感を忠実に再現したカメラアプリです。\n60's -90'sの35mmフィルムカメラに、iOSの最新テクノロジを組み合わせました。\n\nFilmilはどんなアプリ？\n# 35mmフィルムカメラを再現したフィルタが搭載されています\nフィルムカメラは、使用するフィルムによって、温かみを感じさせる写真になったり、冷たさを感じさせる写真になったりと、\n幅広い変化を楽しむことができます。\nFilmilはその楽しさを感じ取ることができるように、幅広い種類のフィルムの質感を忠実に再現しました。\n\n# オリジナルの写真フィルタを作成することができます\n写真フィルタにアレンジを加えたいと思ったことはありませんか？\nFilmilならオリジナルのフィルムカメラフィルタを作成することができます。\nフィルタ作成は、フィルムカメラフィルタをベースにアレンジを加えたり、0から自分だけのオリジナルフィルタを作成することができます。\n作成したフィルタは撮影と編集で使用することができるので、いつでもお気に入りの色味を再現することができます。\n\n# 作成したフィルタをシェアすることができます\n写真を好みの色味に仕上げることができた時、その気持ちを友達とシェアしたいと思ったことはありませんか？\nFilmilなら作成したフィルタを他のユーザとシェアすることができます。\nお気に入りのフィルタを友達と交換して、さまざまなフィルタを入手することができます。\n\n# このような方におすすめしたいです\n・日常風景の撮影や、セルフィーが好き\n・フィルムカメラのようなアナログの質感が好き\n・スナップ撮影が好き\n・手軽に写真撮影を楽しみたい\n\n\nFilmilに搭載されている機能\n■カメラ機能\n - リアルタイムエフェクト\n - フラッシュ\n - タイマー\n - 画角変更\n - グリッド\n - インカメラ/バックカメラ\n - 自動レンズ切り替え (広角/超広角/望遠)\n - 露出変更\n - デジタルズーム\n - 日付の焼き付け\n - ノイズ\n - 写真の解像度変更\n\n■ 写真編集機能\n - 鮮やかさ\n - 明るさ\n - コントラスト\n - 色温度\n - 露出\n - 周辺光量\n - フィルムカメラフィルタ\n - ライトリーク\n\n■ その他\n - フィルタ作成機能\n - フィルタ共有機能\n - EXIF情報の表示\n - 写真の削除\n - 写真の共有\n\n\n#Filmil で写真をシェアしていただけると嬉しいです！\nアプリに関してご意見・ご不明点がございましたら、アプリ内フィードバック画面、または以下の窓口にお問い合わせください。\ncontact.dev.n.m@gmail.com",
+   "sellerName": "Naoya Maeda",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "834248867": {
+   "trackName": "SKRWT",
+   "price": 300.0,
+   "averageUserRating": 4.30457,
+   "userRatingCount": 197,
+   "releaseDate": "2014-05-23T19:36:15Z",
+   "currentVersionReleaseDate": "2022-01-03T10:39:12Z",
+   "description": "「ベストアプリ2014」 - App Store\n「トップ10写真アプリ」 - ガーディアン英国\n「SKRWTでiPhoneで撮った写真をプロ風にしょう」 - AppAdvice\n「SKRWTは、iPhoneのフォトパーフェクションに欠けているリンクです」 - Pasteマガジン\n「あなたの写真に奇跡を起こす１０のアプリ」 - ビジネスインサイダー\n「 ドローンパイロットに必携な7つのアプリ 」 - fromwhereidrone.com\n「見逃せない５つのiPhoneアプリ...」 - Time.com\n\n- \n\nSKRWT（App Storeの「ベストアプリ2014」）は、最も強力なパースペクティブとレンズ補正ツールです。数回のタップだけであなたの最高のスマートフォンで撮った写真を強化するためにデザインされ、SKRWTバージョン1.5は今、これまでよりも優れています。他の追随を許さない機能と畏敬の念を起こさせる、アプリ内拡張機能のMRRWと4PNTS等、この素晴らしいアプリケーションは、あなたのような洗練された写真愛好家にはもってこいの編集ツールです 。対称バンザイ！\n\n#SKRWT #MRRW #4PNTS\n\n-\n \nSKRWT\n\nさよならキスを隠すラインよ：SKRWTは 対称愛好家のための 万能な視点とレンズ補正アプリです 。GoPro やドローンカメラ、アダプタ、DLSRs、等で撮影したショットのレンズの歪みなどだけでなく、水平線と垂直線を校正します 。独特のフルオートクロップ機能と自己説明的、直感的なユーザーインターフェイスでSKRWTは、ハイエンドスマートフォン写真のミッシングリンクです。品質と対称性を追求するのであれば、SKRWTはあなたのためです。\n \n-\n \n4PNTS\n\nSRKWTのチームが遠近補正ワークフローを更新し、必須のエクステンション4PNTSを作り上げました。写真のプロ風変換への実践的なアプローチ：4PNTSでは手動で画像の一つ以上のコーナーポイントを操作でき、遠近補正を完全に直感的な操作プロセスに変えます。 4ポイント視点ツールは、アプリ内購入として利用可能です - これによりSKRWT内であなたの写真を芸術的変換、スキュー等で強化できます。\n \n-\n \nMRRW\n\nSKRWTは、スマートフォン用のこの比類のないミラーリングツール内で、4つの高精度ミラー効果を提示します 。創造的なイメージ操作にさわやかなアプローチ で、MRRWは、あなたの最高のショットに隠れた対称性を発見するのに役立ち、あなたが新しい創造性と芸術性の自由を 見つけるのに役立ちます 。作品の新たな可能性を探求し、SKRWT品質で遠近補正とオートクロップを使用して下さい。終わることのないmrrwgramsストリーム！\n \n-\n \ninstagram.com/doyouskrwt \nfacebook.com/skrwtapp\ntwitter.com/doyouskrwt\nhello@skrwt.com\n \n- \n \n#SKRWT #DOYOUSKRWT #ALLHAILSYMMETRY",
+   "sellerName": "Mathaeus Jagielski",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1494197457": {
+   "trackName": "ホワイトバランスAI - KEV",
+   "price": 500.0,
+   "averageUserRating": 4.42307,
+   "userRatingCount": 52,
+   "releaseDate": "2020-01-30T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-11T15:28:40Z",
+   "description": "KEV — ホワイトバランス測定アプリのNo.1。\n\nKEVはiPhone / iPadをプロ仕様で使いやすい露出計に変えます。専用センサーは不要。内蔵カメラだけで完結します。\n\nミニマルなKEVはAIでライブプレビューを解析し、正確なホワイトバランスをケルビン値で表示。写真・動画のプロに欠かせないツールです。\n\n一眼レフのホワイトバランス合わせは面倒。KEVが「いくつにすべきか」を教えてくれます。数万円のプロ機材を買わずに、光源の色温度をケルビンで測定できます。\n\nKEVはSekonic C-700R-U SpectroMaster カラーメーターで校正済み。良好〜ほぼ100%の精度を保証します。KEVを開いて、面やシーンにカメラを向けるだけ。\n\nホワイトバランスとは、カメラセンサーの画を人間の目の見え方に近づけるための色再現の補正です。\n\n主な機能:\n• 色温度をケルビンでリアルタイム表示。\n• ホワイトバランス値の補正・再計算。\n• 色温度と位置情報つきのスナップショット撮影。\n• シーンや被写体へのマニュアルフォーカス。\n• 必要十分なポイント&シュート撮影機能。\n• 写真家・映像作家・撮影監督・ガファー・ドローン・アクションカメラのためのスペクトロメーター。\n• 後処理の時間を削減。\n• ホットシューや三脚にiPhoneを固定し、Apple Watchアプリで色温度を確認。\n• ズームして近距離の色温度を測定。\n• 環境光と照明機材の色温度をバランス調整。\n\nオートホワイトバランスを解除して、自分で設定を選べます。\n\nKEVユーザーの動画:\nKarl Weinreich — https://youtu.be/sT78ajMQ4Iw\nrileyphotos — https://youtu.be/C4oihcY7Dh4\n\nプライバシーについて:\nhttps://kevwb.app/privacy/\n\nお問い合わせ: 29satnam@gmail.com",
+   "sellerName": "Satnam Singh",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  },
+  "6805923708": {
+   "trackName": "Flect：他人目線ミラー",
+   "price": 150.0,
+   "averageUserRating": 0,
+   "userRatingCount": 0,
+   "releaseDate": "2026-09-04T07:00:00Z",
+   "currentVersionReleaseDate": "2026-09-24T05:44:38Z",
+   "description": "鏡の中の自分には慣れている。では、他人から見た向きの自分は？\n\nFlect は、美肌カメラではなく、まず一枚のミラーです。App を開くと、フロントカメラの左右反転をなくした画面が表示されます。対面する相手から見える左右の向きに、より近い表示です。\n\n動きが分かりにくいときは、ボタンを長押しして見慣れた鏡像で位置を合わせられます。動かせる小窓には、もう一方の視点が表示され続けます。フェイスガイドをオンにすると、眉、メイク、髪型、顔の輪郭の位置を見比べられます。ガイドは視覚的な目安であり、点数、診断、顔分析、容姿の評価は行いません。\n\nカメラ映像は端末内だけで処理されます。アカウント、広告、分析、クラウドへのアップロードはありません。写真は、シャッターを押したときだけ保存されます。\n\n左右反転をなくして変えられるのは、左右の向きだけです。距離、レンズの遠近感、照明、表情、見る人の注意の向け方によって、印象は変わります。",
+   "sellerName": "寒 严",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "506271165": {
+   "trackName": "AfterFocus",
+   "price": 150.0,
+   "averageUserRating": 3.92308,
+   "userRatingCount": 13,
+   "releaseDate": "2012-03-20T01:23:13Z",
+   "currentVersionReleaseDate": "2016-12-06T00:08:30Z",
+   "description": "PC World: \"5 essential iOS apps for photographers\"\nAppAdvice: \"AfterFocus Brings DSLR-Like Photography To Your iPhone\"\n\nWith AfterFocus, you can create DSLR-style background blurred photo by simply selecting focus area. Also, various filter effects offer you to create the most natural and realistic photo.\n \nSelecting a focus area more precisely, you can achieve more natural and professional image.\nJust mark the areas you want, AfterFocus automatically recognizes the focus area precisely even for an object with complex shapes.\nThis auto function allows you to work faster on smart phones with small screen.\nAlso, background blur effect of AfterFocus gives a photo the realistic look between the edge of the background and the focus area.\n\nWith our realistic filter effects, you will enjoy photographing and photo editing even more, and share them on SNS easily.\n \n1. Smart focus area selection\nSimply draw some lines inside a focus area and the background, then AfterFocus will automatically recognize the focus area. You can also select the area with traditional finger painting.\n \n2. Background Blur effect\nYou can create the most realistic blur effect with various aperture styles just like DSLR camera.\nTo emphasize that certain things move, Motion blur effect is also available.\n \n3. Filter effect\nAfterFocus offers from basic effects to professional effects like Cross Process without looking artificial.\nAlso, you can emphasize the spot light on the background using Bokeh effect.\n \n4. Double photo\nTake a picture of one object and move slightly to the right to take another picture of the same object, and it will analyze the images and recognize the nearest object, so there is no need to draw the focus area.\n(Make sure that the background and the distance of the object are far enough and have clear texture to get a great result.) \n \n5. Easy share\nYou can share through e-mails and SNS easily and simply.\n\n\nPlease, visit and like https://www.facebook.com/AfterFocus\nThank you!",
+   "sellerName": "MotionOne Co.,Ltd.",
+   "genres": [
+    "写真／ビデオ",
+    "エンターテインメント"
+   ]
+  },
+  "924695435": {
+   "trackName": "Pixelmator Classic iOS",
+   "price": 1500.0,
+   "averageUserRating": 4.43226,
+   "userRatingCount": 155,
+   "releaseDate": "2014-10-24T02:05:13Z",
+   "currentVersionReleaseDate": "2026-08-25T17:06:40Z",
+   "description": "Pixelmator is a powerful, full-featured, layer-based image editor that lets you add shapes, images, and text to create beautiful image compositions, touch up and enhance images, sketch, and paint on iPad and iPhone alike.\n\nDesigned exclusively for iOS and iPadOS, Pixelmator takes full advantage of the latest iOS and iPadOS 17 features and technologies, giving you innovative, fast, and powerful tools.\n\nCreate Eye-Catching Designs\n\n- Combine words, shapes, and images to create breathtaking artwork right on your iPhone and iPad\n- Apply non-destructive layer styles like shadows, outlines, gradient fills, and more\n- Insert, group, and blend layers of an image\n- Easily add, combine, and customize shapes\n- Blend layers, shapes, and text using any of the blending modes\n- Use precise selection tools to edit areas of an image\n- Automatically select subjects in images with the machine learning-powered Select Subject\n- Crop, arrange, and rotate objects and layers with pixel-perfect precision\n- Easily remove the background of images or cut and paste objects from one image to another\n\nAdd Shapes and Text\n\n- Create flyers, logos, and other compositions using vector shapes and their styling options\n- Customize Smart Shapes with easy-to-use controls\n- Add text and make it look gorgeous with 24 pre-designed text styles\n- Change the font, size, alignment, line spacing, use custom fonts, and more\n\nPaint and Sketch\n\n- Paint stunning images right on your iPhone and iPad\n- Choose from over artist-designed brushes and numerous painting techniques\n- Paint with near-natural wetness effect of watercolor and crayon brushes\n- Create stunning pixel art images with the custom-designed Pixel brush\n- Paint with incredible detail thanks to the double texture brush technology\n- Vary the speed of your stroke to change the thickness of some of the brushes\n- Easily select and fine-tune colors with a full-featured color picker\n- Instantly choose colors right from your image with the Eyedropper\n- Paint more naturally than ever with the Apple Pencil, featuring palm rejection, pressure, tilt, and acceleration sensitivity\n\nEdit and Enhance Photos\n\n- Get started with dozens of beautifully designed templates\n- Instantly improve your photos with single-tap color presets\n- Take full control over the tonal range of your image with levels and curves\n- Easily remove color casts and set the right white balance\n- Wipe away image imperfections, skin blemishes, and unwanted objects with the Repair tool\n- Duplicate areas of your image with the easy-to-use Clone tool\n- Pinch, bump, twirl, or warp areas of an image with powerful, Metal-based Distort tools\n- Blur, sharpen, lighten, or darken areas of an image\n- Choose from dozens of breathtaking effects to subtly improve or completely change the look of an image\n- Open and edit images of up to 256 megapixels\n\nExport and Share Images\n\n- Optimize images for the web using quality, color depth, and size settings\n- Export images to Files, iCloud, or open in other apps using a file format of your choice\n- Using the integrated share extension, easily share your artwork with friends and family using Mail, AirDrop, or post it to social platforms like Instagram, Twitter, or Facebook\n\nCompatibility\n\n- Open and save images using HEIF, JPEG, PNG, and TIFF formats\n- Work with multilayered Pixelmator Pro and Adobe Photoshop documents\n- Save your edited images directly to Photos\n- Create, edit, and keep all your images up to date on all your devices thanks to iCloud support\n- External keyboard support with over 70 keyboard shortcuts\n\nBuilt for iPhone and iPad\n\n- Pixelmator is meticulously thought through and created from the ground up for iPhone and iPad devices\n- Designed to take full advantage of powerful iOS and iPadOS features and technologies — iCloud Drive, Photos extension, Split View, and more\n- Thanks to Apple silicon, Metal, Core Image, and Core Animation, Pixelmator delivers state-of-the-art performance and real-time responsiveness",
+   "sellerName": "iTunes K.K.",
+   "genres": [
+    "写真／ビデオ",
+    "グラフィック／デザイン"
+   ]
+  },
+  "6755822636": {
+   "trackName": "GIKA - オールドフォン風のエモいカメラ",
+   "price": 200.0,
+   "averageUserRating": 5,
+   "userRatingCount": 9,
+   "releaseDate": "2025-12-01T08:00:00Z",
+   "currentVersionReleaseDate": "2026-08-06T19:46:17Z",
+   "description": "オールドフォンのエモさは、写りだけではありません。シャッターを切るその瞬間も、あの頃と似ているべきだと考えました。\n当時のスマホにインスパイアされたシャッターモーション、UI、シャッター音で、「撮り心地」までリアルに再現したGIKAをお楽しみください。\n\nさまざまなオールドフォン風のヴィンテージ感を楽しめます：Basic / Pod / 6S / SE / 7 / XS\n\n【GIKAの主な機能】：Live Photos、無音モード（消音撮影）、動画撮影モード、グリッド表示、16:9比率対応、フィルターなしモード\n\n新しいオールドフォンの機種や多様な機能も、今後アップデートで順次追加予定です。\n\n［必須アクセス権限］\n写真：写真の保存・編集のためにアクセスが必要です。\nマイク：動画撮影時に音声を録音するためにアクセスが必要です。\nカメラ：写真および動画を撮影するためにアクセスが必要です。\n\n【お問い合わせ】\nアプリの使用中に問題が発生した場合や、機能へのご提案などがございましたら、以下のメールアドレスまでご連絡ください。\ncs@noahproject.kr",
+   "sellerName": "NoahProject Inc.",
+   "genres": [
+    "写真／ビデオ"
+   ]
+  },
+  "1501247823": {
+   "trackName": "NDI Capture: Screen Sharing",
+   "price": 1500.0,
+   "averageUserRating": 3.07692,
+   "userRatingCount": 13,
+   "releaseDate": "2020-03-24T07:00:00Z",
+   "currentVersionReleaseDate": "2025-04-11T19:18:12Z",
+   "description": "Screen-sharing your iPhone to your network has never been easier!\n \nNDI Capture is the official app that enables you to share your iPhone screen with any NDI-enabled software or hardware, with the push of a button.\n \nNew features with v1.8:\n- Modernized UI for a cleaner look\n \nNew features with v1.7:\n- Personalize sender name for added privacy\n- Define NDI Grouping and preferred transport protocol",
+   "sellerName": "Vi(z)rt, Inc",
+   "genres": [
+    "写真／ビデオ",
+    "ユーティリティ"
+   ]
+  }
+ }
+}
