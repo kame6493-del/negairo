@@ -92,3 +92,13 @@
 - 実機で未確認: Android はエミュレーターが無く、APK を実機で開いていない。iOS は Windows では組めない。実機で必ず見ること: カメラの許可ダイアログ、撮影画面の速さ(1280px で毎フレーム描画)、getUserMedia が出す画素数(iOS の WebView は 1920x1440 程度の可能性。足りなければ @capacitor/camera で原寸撮影に替える)、写真への保存、前面カメラの左右
 - 撮影はシャッター音が出ない(WebView の映像から切り出すため)。日本の端末の慣習とずれるので、気になるなら撮影時に小さな音を鳴らす設定を足す
 - サーバー・アカウント・解析・広告は無い。外部 API・外部データは使っていない(RevenueCat のみ)
+
+## Google Play(2026-10-04)
+- アプリ作成: app id 4973115849832962039、「ネガイロ - フィルムカメラ風・日付入り」、jp.negairo.app
+- プライバシーポリシー: https://kame6493-del.github.io/apps/negairo/privacy.html
+- クローズドテスト Alpha(トラック 4700089207836794106): 日本・テスター AndroidClosedJP と nigatecho-testers・フィードバック kame6493@gmail.com。AAB negairo-release.aab(1 (1.0.0))
+- 掲載: store/play の icon・feature・画面写真5枚(1→5)。カテゴリ 写真。ターゲット 13歳以上
+- 申告: 広告なし・ログインなし・広告ID なし・行政 いいえ・金融 なし・健康 機能なし・レーティング(その他、購入=はい、ほかはいいえ)・データセーフティ 購入履歴(収集・必須・アプリの機能)
+- 2026-10-04 審査に送信(14件)
+- 残り: Play のアプリ内アイテム(完全版 ¥500)・RevenueCat のキーを入れて vc2
+- 1.0.1 (vc2): RevenueCat Android キー入り。AAB: C:\Users\yuichi1\Downloads\ネガイロ_2026-10-03\app\releases\negairo-1.0.1-vc2-release.aab (6.56 MB, 6,877,747 バイト)
