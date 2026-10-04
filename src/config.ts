@@ -9,7 +9,7 @@ export const BILLING = {
   entitlement: 'full',
   /** 表示用の値段(ストアから取れないときの目安) */
   fallbackPrice: '¥500',
-  revenuecat: { ios: '', android: '' },
+  revenuecat: { ios: 'appl_bdYxMUhygdkIBpDlmQWXiRttRNG', android: '' },
 };
 
 export const APP_NAME = 'ネガイロ';
