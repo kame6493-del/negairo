@@ -1,0 +1,28 @@
+1. Screen recording: attached to our reply in App Store Connect. It starts from app launch and shows choosing a photo, trying the free film effects, changing the effect strength, light leak and date stamp, saving, trying the Full Version effects, and the In-App Purchase screen.
+We are a solo developer and do not own a physical iOS device, so the recording was made on the iOS Simulator (newest iPhone model, latest iOS available in Xcode) with the same build configuration. The red circles in the video mark each tap.
+The iOS Simulator has no camera, so the camera screen shows the app's own message "カメラを開けませんでした。写真を選んで加工することはできます。" (the camera could not be opened; you can still choose a photo). The recording therefore shows the other main flow of the app: choosing an existing photo with the "写真" (Photo) button and applying the effects to it. On a physical device, the camera screen shows the live camera image with the selected effect applied, and the shutter button takes a photo that opens in the same editing screen shown in the video. The system photo picker cannot be operated by our recording script, so in the recording the selected photo (a public-domain sample photo of Tokyo at night) is passed to the app through the same file input that the picker uses. Photo library add access was granted in the simulator before recording; on a device, iOS asks for it on the first save. Sandbox purchases can be tested with the In-App Purchase submitted together with this version. The simulator uses the U.S. storefront, so the price shown may be in USD; the price in Japan is JPY 500.
+
+2. Purpose and audience
+Negairo is a camera app that gives photos the look of film cameras and old cameras (color negative film, disposable camera with flash and an orange date stamp, black-and-white film, instant print with a white frame, a 2000s compact digital camera, an old feature phone camera, and more; 10 effects in total). Users see the effect live on the camera screen while shooting, or apply it to a photo they choose from their library. It is for anyone who likes the retro film look.
+
+3. How to use (no login or account is needed)
+- Launch the app. The camera screen shows the live image with the current effect. The effect strip at the bottom selects the effect; buttons at the top switch the date stamp and light leak on or off.
+- Tap the shutter to take a photo, or tap "写真" (Photo) to choose an existing photo.
+- In the editing screen: change the effect, the strength (0-100%), light leak (and its shape), grain, and the date stamp (the date can be changed). Long-press the photo to compare with the original.
+- Tap "保存" (Save). The result is added to Photos as a new photo; the original photo is never changed.
+- Settings (gear icon): date style and other options, Full Version, restore purchase.
+All processing is done on the device (WebGL). The app works offline.
+
+4. External services
+- Apple In-App Purchase, managed through RevenueCat (purchase validation and restore). RevenueCat receives only an anonymous app user ID and the App Store transaction.
+- No other servers, no login service, no analytics, no ads. Photos and camera images are processed only on the device and are never uploaded.
+
+5. Regional differences
+The app is in Japanese and intended for users in Japan. There are no regional differences in its features.
+
+6. Third-party material
+All 10 effects are our own original formulas (color curves, grain, light leak, halation, date stamp drawn by our own shader). No third-party LUTs, filters, fonts or image assets are included in the app. The sample photo used only in the review recording is a CC0 public-domain image from Wikimedia Commons ("Tokyo Tower Christmas illumination" by Syced) and is not included in the App Store build.
+
+7. In-App Purchase
+One non-consumable product, "完全版" (Full Version, product ID negairo_full), JPY 500, one-time purchase (no subscription, no additional purchases). It unlocks all 10 effects (free version: 3 effects) and saving without the small "ネガイロ" mark that the free version adds to the lower-left corner of saved photos. There are no ads in either version.
+How to reach it: choose an effect with a lock icon and tap "保存(完全版)" (Save - Full Version) in the editing screen, or tap the banner "完全版の効果です…" on the camera screen, or Settings (gear icon) > "完全版について". The purchase screen shows all effects, the comparison table and the buy button. "購入の復元" (restore) is on the purchase screen and in Settings.
