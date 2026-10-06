@@ -28,8 +28,6 @@
 	<string>写真を撮って、その場でフィルム風の効果をかけるためにカメラを使います。映像は端末の外へ送りません。</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>効果をかけた写真を、新しい写真として「写真」に保存します。元の写真は書き換えません。</string>
-	<key>NSPhotoLibraryUsageDescription</key>
-	<string>選んだ写真に効果をかけるために使います。写真は端末の外へ送りません。</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
