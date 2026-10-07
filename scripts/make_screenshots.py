@@ -18,7 +18,7 @@ SHOTS = [
     ('2', 'night_tower.jpg', 'yorunohikari', {}, '夜の光が、赤くにじむ', '映画フィルムのハレーション', True, 'editor'),
     ('3', 'cat_cafe.jpg', 'instant', {}, '白い枠のプリントも', '撮ってすぐ、端末の中で仕上げる', True, 'editor'),
     ('4', 'tokyo_building.jpg', 'heiseidigi', {}, '平成のデジカメ風', 'くっきり濃い色とオレンジの日付', True, 'editor'),
-    ('5', 'portrait.jpg', 'natsuiro', {}, '広告なし・買い切り', '無料で3種。全10種は一度の購入で', False, 'paywall'),
+    # 5枚目(購入画面・「無料で3種」)は外した。App Store は写真に値段・「無料」を書くと 2.3.7 で却下する(2026-10-07 ニガテ帳)。
 ]
 
 
