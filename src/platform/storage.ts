@@ -23,3 +23,16 @@ export function saveSettings(s: Settings): Promise<void> {
 export async function clearSettings() {
   await Preferences.remove({ key: KEY });
 }
+
+const GUIDE_KEY = 'negairo.guideSeen.v1';
+/** はじめての案内を見たか(端末の中だけ) */
+export async function loadGuideSeen(): Promise<boolean> {
+  try {
+    return (await Preferences.get({ key: GUIDE_KEY })).value === '1';
+  } catch {
+    return true;
+  }
+}
+export function saveGuideSeen(): Promise<void> {
+  return Preferences.set({ key: GUIDE_KEY, value: '1' }).catch((e) => console.error('[negairo] save guide', e));
+}

@@ -60,4 +60,4 @@ https://kame6493-del.github.io/negairo-site/privacy.html (未公開。../privacy
 ## 素材
 - アイコン: icon_512.png
 - フィーチャーグラフィック: feature_1024x500.png
-- 画面写真(1080x1920): play_shot_1.png 〜 play_shot_5.png
+- 画面写真(1080x1920): play_shot_1.png 〜 play_shot_6.png(2026-10-10 新しい見た目で作り直し)

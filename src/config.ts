@@ -15,3 +15,4 @@ export const BILLING = {
 export const APP_NAME = 'ネガイロ';
 export const SUPPORT_URL = 'https://kame6493-del.github.io/negairo-site/';
 export const PRIVACY_URL = 'https://kame6493-del.github.io/negairo-site/privacy.html';
+export const APP_VERSION = '1.1.0';

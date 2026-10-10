@@ -5,12 +5,14 @@ import { loadImageFile, prepareSource } from '../fx/exporter';
 import { FxRenderer, outputSize } from '../fx/renderer';
 import { cameraErrorMessage, openCamera, stopCamera } from '../platform/camera';
 import { LookStrip } from './LookStrip';
+import { IcCalendar, IcFlip, IcGear, IcImage, IcSun } from './icons';
+import emptyArt from '../assets/art/empty_camera.jpg';
 
 export interface RawShot { src: HTMLCanvasElement; mirror: boolean; takenAt: Date; from: 'camera' | 'library' }
 
 export function CameraScreen(p: {
   settings: Settings; update: (s: Partial<Settings>) => void; premium: boolean;
-  onShot: (s: RawShot) => void; onSettings: () => void; onPaywall: () => void;
+  onShot: (s: RawShot) => void; onSettings: () => void; onPaywall: () => void; onLooks: () => void;
 }) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const canvasRef = useRef<HTMLCanvasElement>(null);
@@ -103,46 +105,50 @@ export function CameraScreen(p: {
   return (
     <div className="page camera">
       <header className="cam-top">
-        <span className="brand">ネガイロ</span>
-        <button className={'chip' + (dOn ? ' on' : '')} data-testid="date-toggle"
+        <button className={'top-tg' + (dOn ? ' on' : '')} data-testid="date-toggle"
           onClick={() => p.update({ dateByLook: { ...p.settings.dateByLook, [look.id]: !dOn } })}>
-          日付 {dOn ? 'あり' : 'なし'}
+          <IcCalendar size={20} /><span>日付 {dOn ? 'あり' : 'なし'}</span>
         </button>
-        <button className={'chip' + (p.settings.leakOn ? ' on' : '')} onClick={() => p.update({ leakOn: !p.settings.leakOn })}>
-          光もれ {p.settings.leakOn ? 'あり' : 'なし'}
+        <button className={'top-tg' + (p.settings.leakOn ? ' on' : '')} data-testid="leak-toggle" onClick={() => p.update({ leakOn: !p.settings.leakOn })}>
+          <IcSun size={20} /><span>光もれ {p.settings.leakOn ? 'あり' : 'なし'}</span>
         </button>
-        <button className="icon-btn" aria-label="設定" data-testid="open-settings" onClick={p.onSettings}>
-          <svg viewBox="0 0 24 24" width="24" height="24"><path fill="currentColor" d="M12 8.5a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7Zm8.6 4.6-1.9-.4a6.9 6.9 0 0 1-.6 1.5l1.1 1.6-1.6 1.6-1.6-1.1c-.5.3-1 .5-1.5.6l-.4 1.9h-2.2l-.4-1.9a6.9 6.9 0 0 1-1.5-.6l-1.6 1.1-1.6-1.6 1.1-1.6c-.3-.5-.5-1-.6-1.5l-1.9-.4v-2.2l1.9-.4c.1-.5.3-1 .6-1.5L4.7 6.3l1.6-1.6 1.6 1.1c.5-.3 1-.5 1.5-.6l.4-1.9h2.2l.4 1.9c.5.1 1 .3 1.5.6l1.6-1.1 1.6 1.6-1.1 1.6c.3.5.5 1 .6 1.5l1.9.4v2.2Z" /></svg>
+        <button className="top-tg" aria-label="設定" data-testid="open-settings" onClick={p.onSettings}>
+          <IcGear size={20} /><span>設定</span>
         </button>
       </header>
 
-      <div className={'viewfinder' + (look.frame === 'instant' ? ' instant' : '')}>
+      <div className={'viewfinder' + (look.frame === 'instant' ? ' instant' : '') + (error ? ' has-error' : '')}>
         <video ref={videoRef} playsInline muted className="hidden-video" />
         {!error && <canvas ref={canvasRef} className="vf-canvas" data-testid="viewfinder" />}
         {!live && !error && <p className="vf-msg">カメラを準備しています…</p>}
         {error && (
-          <div className="vf-msg err-box" data-testid="camera-error">
-            <p>{error}</p>
-            <button className="btn primary" onClick={() => fileRef.current?.click()}>写真を選んで加工する</button>
+          <div className="empty" data-testid="camera-error">
+            <img className="empty-art" src={emptyArt} alt="" draggable={false} />
+            <div className="empty-body">
+              <h2>カメラを使えません</h2>
+              <p>{error}</p>
+              <button className="btn primary wide big" onClick={() => fileRef.current?.click()}><IcImage size={22} />写真を選んで加工する</button>
+            </div>
           </div>
         )}
         {flash && <div className="vf-flash" />}
-        {!look.free && !p.premium && (
+        {!error && <span className="vf-look">{look.name}</span>}
+        {!look.free && !p.premium && !error && (
           <button className="trial" onClick={p.onPaywall}>完全版の効果です。撮って試せます(保存は完全版)</button>
         )}
       </div>
 
-      <LookStrip value={look.id} premium={p.premium} onChange={(id) => p.update({ lookId: id })} />
+      <LookStrip value={look.id} premium={p.premium} onChange={(id) => p.update({ lookId: id })} onAll={p.onLooks} />
 
       <div className="cam-controls">
-        <button className="round-btn" aria-label="写真を選ぶ" data-testid="pick" disabled={busy} onClick={() => fileRef.current?.click()}>
-          <svg viewBox="0 0 24 24" width="26" height="26"><path fill="currentColor" d="M5 4h14a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2Zm0 2v9.6l3.5-3.5 3 3 4.5-4.5 3 3V6H5Zm3.5 1.5a1.8 1.8 0 1 1 0 3.6 1.8 1.8 0 0 1 0-3.6Z" /></svg>
+        <button className="side-btn" aria-label="写真を選ぶ" data-testid="pick" disabled={busy} onClick={() => fileRef.current?.click()}>
+          <span className="side-ic pick"><IcImage size={26} /></span>
           <span>写真</span>
         </button>
         <button className="shutter" aria-label="撮る" data-testid="shutter" disabled={!live} onClick={shoot}><span /></button>
-        <button className="round-btn" aria-label="カメラの切り替え" data-testid="flip" onClick={() => p.update({ facing: facing === 'user' ? 'environment' : 'user' })}>
-          <svg viewBox="0 0 24 24" width="26" height="26"><path fill="currentColor" d="M9 4h6l1.5 2H20a1 1 0 0 1 1 1v11a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h3.5L9 4Zm3 4.5a4.5 4.5 0 0 0-4.3 3.2l-1.2-.4.9 2.7 2.4-1.4-1-.4A3 3 0 0 1 15 12h1.5A4.5 4.5 0 0 0 12 8.5Zm4.4 3.4-2.4 1.4 1 .4A3 3 0 0 1 9 14H7.5a4.5 4.5 0 0 0 8.8.8l1.2.4-.9-2.7Z" /></svg>
-          <span>{facing === 'user' ? '前' : '後ろ'}</span>
+        <button className="side-btn" aria-label="カメラの切り替え" data-testid="flip" onClick={() => p.update({ facing: facing === 'user' ? 'environment' : 'user' })}>
+          <span className="side-ic"><IcFlip size={28} /></span>
+          <span>{facing === 'user' ? '前のカメラ' : 'カメラ切替'}</span>
         </button>
       </div>
       <input ref={fileRef} type="file" accept="image/*" hidden data-testid="file-input" onChange={(e) => void pick(e.target.files?.[0])} />

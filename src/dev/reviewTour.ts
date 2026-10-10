@@ -76,6 +76,8 @@ async function slide(to: number) {
 }
 
 export async function runReviewTour() {
+  // はじめての案内(初回だけ)を3枚めくる
+  for (let k = 0; k < 3; k++) if (!(await tap('[data-testid=onb-next]', 2200, 3000))) break;
   await sleep(4000); // 起動した撮影画面(シミュレーターではカメラが無い旨の表示)を見せる
   if (!(await pickSample())) return;
   await sleep(2500);
@@ -83,12 +85,16 @@ export async function runReviewTour() {
   for (const id of ['natsuiro', 'sutekame', 'mono400', 'natsuiro']) await tap(`[data-look=${id}]`, 2200);
   // 強さ・光もれ・日付
   await slide(60);
+  await tap('[data-testid=tab-leak]', 1200);
   await tap('[data-testid=ed-leak]', 2000);
   await tap('[data-testid=ed-reroll]', 2000);
+  await tap('[data-testid=tab-date]', 1200);
   await tap('[data-testid=ed-date]', 2200);
+  await tap('[data-testid=tab-look]', 1200);
   await slide(100);
   // 保存(新しい写真として「写真」に加わる。元の写真は書き換えない)
   await tap('[data-testid=save]', 3500);
+  await tap('[data-testid=saved-edit]', 1500);
   // 完全版の効果(鍵の印)を試す → 保存しようとすると購入画面
   for (const id of ['yorunohikari', 'instant', 'heiseidigi']) await tap(`[data-look=${id}]`, 2500);
   await tap('[data-look=yorunohikari]', 2500);

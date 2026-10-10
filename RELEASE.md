@@ -102,3 +102,17 @@
 - 2026-10-04 審査に送信(14件)
 - 残り: Play のアプリ内アイテム(完全版 ¥500)・RevenueCat のキーを入れて vc2
 - 1.0.1 (vc2): RevenueCat Android キー入り。AAB: C:\Users\yuichi1\Downloads\ネガイロ_2026-10-03\app\releases\negairo-1.0.1-vc2-release.aab (6.56 MB, 6,877,747 バイト)
+
+## 1.1.0 (vc3) 見た目の作り直し(2026-10-10)
+持ち主が ChatGPT に作らせた UI 参考画像(Downloads/negairo_ref_1〜8)に寄せて、画面を全部作り直した。カメラ・写真の処理(src/fx)と課金(商品ID negairo_full・中身・値段)は変えていない。
+- 配色: 黒と橙の夕景トーン。題字は Zen Old Mincho、手書きの一言は Klee One(どちらも OFL。使う字だけに間引いて同梱 `scripts/make_fonts.py`、元の ttf は %LOCALAPPDATA%\NegairoBuild\fonts)
+- 見本の絵を切り出して使用(持ち主の許可): 完全版の夕景・プライバシーの猫・カメラが使えないときのカメラ・案内の写真3枚。焼き込みの文字は消してアプリ側で描く(`scripts/make_art.py` → src/assets/art)
+- 効果の見本写真は CC0 の samples/portrait.jpg に本物の描画処理で各効果をかけた物(`scripts/make_look_thumbs.py`)
+- 画面: はじめての案内(3枚・初回だけ・設定の「使い方ガイド」から再表示)/撮影(上に 日付・光もれ・設定、写真つきの効果の帯、橙のシャッター)/効果一覧(すべて・無料・完全版、3列のカード)/加工(下のタブ 効果・光もれ・粒子・日付、長押しで元の写真、保存時のクレジット、リセット)/保存した後のシート(元の写真はそのまま)/完全版(夕景・無料版と完全版の欄・10種・6つの特長・購入・復元)/設定/プライバシー/カメラが使えないとき
+- 見本にあっても作らなかった物(アプリに無い機能): お気に入り・最近使った効果、アプリ内の写真一覧・詳細・共有・余白つき保存、フラッシュ、比率、日付の位置・サイズ・不透明度、色あせ・コントラスト・彩度の調整、切り抜き・回転。比較画像 docs/compare_redesign_*.png(一覧 compare_redesign_all.png)
+- アイコン: 見本1(夕景が映るカメラのレンズと縦書き「ネガイロ」)。store/icon_source_1024.png から `scripts/make_icon.py`。適応アイコンはレンズを中央・安全域(66dp の円)の内側(確認 docs/icon_adaptive_check.png)、背景 #181513。前の版は store/_old_2026-10-10/
+- Play 素材: store/play/play_shot_1〜6.png(1080x1920)・feature_1024x500.png・icon_512.png を作り直し(値段と「無料」は写さない。`scripts/make_screenshots.py` `scripts/make_feature.py`)。前の版は store/_old_2026-10-10/play/
+- 確かめたこと: 単体テスト 26件、build、E2E(scripts/e2e.py、偽のカメラ映像+写真の読み込み)製品ビルド 375/430 幅 43/43、開発ビルド(疑似購入)375/430 幅 40/40、console error 0、全画面で横にはみ出さない
+- AAB: releases/negairo-1.1.0-vc3-release.aab(8,409,082 バイト)。既存の鍵で署名、証明書 SHA256 D7:04:51:FC:…:50:1A は vc2 と同じ。jar verified
+- iOS は出し直さない(持ち主の決定)。AppIcon(1024・不透明)と起動画面の絵だけ差し替え、iOS の設定・コードは変えていない。審査用の自動操作(src/dev/reviewTour.ts)は新しい画面に合わせた
+- patch_native.py: 版を 3 / 1.1.0 に。iOS の説明文は入れ済みなら足さない(写真ライブラリ全体の許可を2重に戻していた所を直した)

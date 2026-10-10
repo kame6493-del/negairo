@@ -1,6 +1,6 @@
 """ネイティブ設定を書き換える(何度流しても同じ結果)。npx cap add の直後と、作り直したときに1回流す。
 python scripts/patch_native.py
-- Android: 縦固定・カメラの権限・古い機種だけ写真保存の権限・版番号 1 / 1.0.0・公開用の署名(鍵は環境変数で渡す)
+- Android: 縦固定・カメラの権限・古い機種だけ写真保存の権限・版番号 3 / 1.1.0・公開用の署名(鍵は環境変数で渡す)
 - iOS: 表示名・日本語・iPhone専用・縦固定・暗号化の申告・カメラと写真の説明文"""
 import re
 from pathlib import Path
@@ -40,8 +40,8 @@ strings.write_text(s, encoding='utf-8', newline='\n')
 
 gradle = APP / 'android/app/build.gradle'
 s = gradle.read_text(encoding='utf-8')
-s = re.sub(r'versionCode \d+', 'versionCode 1', s)
-s = re.sub(r'versionName "[^"]*"', 'versionName "1.0.0"', s)
+s = re.sub(r'versionCode \d+', 'versionCode 3', s)
+s = re.sub(r'versionName "[^"]*"', 'versionName "1.1.0"', s)
 gradle.write_text(s, encoding='utf-8', newline='\n')
 patch(gradle, [
     ('    buildTypes {\n        release {\n',
@@ -66,7 +66,7 @@ patch(plist, [
      '\t<key>ITSAppUsesNonExemptEncryption</key>\n\t<false/>\n'
      '\t<key>NSCameraUsageDescription</key>\n\t<string>写真を撮って、その場でフィルム風の効果をかけるためにカメラを使います。映像は端末の外へ送りません。</string>\n'
      '\t<key>NSPhotoLibraryAddUsageDescription</key>\n\t<string>効果をかけた写真を、新しい写真として「写真」に保存します。元の写真は書き換えません。</string>\n'
-     '\t<key>NSPhotoLibraryUsageDescription</key>\n\t<string>選んだ写真に効果をかけるために使います。写真は端末の外へ送りません。</string>\n'
+     # 写真ライブラリ全体の許可(NSPhotoLibraryUsageDescription)は使わないので入れない(2026-10-07)
      '\t<key>LSRequiresIPhoneOS</key>\n'),
     ('\t\t<string>armv7</string>', '\t\t<string>arm64</string>'),
 ])
